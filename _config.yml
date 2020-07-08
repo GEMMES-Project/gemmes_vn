@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-#title: GEMMMES Vietnam
+title: GEMMMES Vietnam
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+title-img: "https://gohu00.github.io/gemmes_vn/assets/img/AFD_horiz.png"
 
 
 # --- Footer options --- #
