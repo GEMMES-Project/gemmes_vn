@@ -18,6 +18,7 @@ executive-board:
 ### Discover our team
 
 
+{% include list-circles.html items=page.executive-board %}
 
 
 ### Institutional partners
