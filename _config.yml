@@ -13,7 +13,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research" 
+  Research: 
     - Mekong: "mekong"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
