@@ -17,6 +17,7 @@ navbar-links:
     - Mekong: "mekong"
     - Health: "health"
     - Migration: "migration"
+  Interactive Map: "map"
   News: "news"
   About us: "aboutme"
 
