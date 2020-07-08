@@ -16,7 +16,7 @@ navbar-links:
   Research: 
     - Mekong: "mekong"
     - Health: "health"
-    -Migration: "migration"
+    - Migration: "migration"
   News: "news"
   About us: "aboutme"
 
