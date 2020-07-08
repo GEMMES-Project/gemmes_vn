@@ -24,27 +24,27 @@ layout: page
       Posted on {{ post.date | date: date_format }}
     </p>
 
-    <div class="post-entry-container">
-      {%- capture thumbnail -%}
-        {% if post.thumbnail-img %}
-          {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            {{ post.cover-img }}
-          {% endif %}
-        {% else %}
-        {% endif %}
-      {% endcapture %}
-      {% assign thumbnail=thumbnail | strip %}
-      {% if thumbnail != "" %}
-      <div class="post-image">
-        <a href="{{ post.url | absolute_url }}">
-          <img src="{{ thumbnail | absolute_url }}">
-        </a>
-      </div>
-      {% endif %}
+    <!-- <div class="post-entry-container"> -->
+      <!-- {%- capture thumbnail -%} -->
+        <!-- {% if post.thumbnail-img %} -->
+          <!-- {{ post.thumbnail-img }} -->
+        <!-- {% elsif post.cover-img %} -->
+          <!-- {% if post.cover-img.first %} -->
+            <!-- {{ post.cover-img[0].first.first }} -->
+          <!-- {% else %} -->
+            <!-- {{ post.cover-img }} -->
+          <!-- {% endif %} -->
+        <!-- {% else %} -->
+        <!-- {% endif %} -->
+      <!-- {% endcapture %} -->
+      <!-- {% assign thumbnail=thumbnail | strip %} -->
+      <!-- {% if thumbnail != "" %} -->
+      <!-- <div class="post-image"> -->
+        <!-- <a href="{{ post.url | absolute_url }}"> -->
+          <!-- <img src="{{ thumbnail | absolute_url }}"> -->
+        <!-- </a> -->
+      <!-- </div> -->
+      <!-- {% endif %} -->
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
