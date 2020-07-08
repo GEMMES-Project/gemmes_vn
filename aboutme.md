@@ -12,6 +12,18 @@ executive-board:
     github: http://github.com/xxxxx
     url: http://github.com/xxxxxx
     twitter: http://twitter.com/xxxxxx
+  - name: XXXXX XXXXX
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Assistant. Hanoi, Vietnam
+    github: http://github.com/xxxxx
+    url: http://github.com/xxxxxx
+    twitter: http://twitter.com/xxxxxx
+  - name: XXXXX XXXXX
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Intern. Paris, France
+    github: http://github.com/xxxxx
+    url: http://github.com/xxxxxx
+    twitter: http://twitter.com/xxxxxx
 ---
 
 
