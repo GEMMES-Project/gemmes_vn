@@ -6,12 +6,12 @@ cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 
 
 executive-board:
-  - name: Finlay Campbell
+  - name: XXXXX XXXXX
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
-    github: http://github.com/finlaycampbell
-    url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fcampbell_
+    desc: Scientist. Hanoi, Vietnam
+    github: http://github.com/xxxxx
+    url: http://github.com/xxxxxx
+    twitter: http://twitter.com/xxxxxx
 ---
 
 
