@@ -12,13 +12,13 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  The project: "project"
   Research: 
     - Mekong: "mekong"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Health: "health"
+    -Migration: "migration"
+  News: "news"
+  About us: "aboutme"
 
 # --- Logo --- #
 
