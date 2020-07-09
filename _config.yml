@@ -14,6 +14,7 @@ author: Some Person
 navbar-links:
   The project: "project"
   Research: 
+    - Global: "global"
     - Mekong: "mekong"
     - Health: "health"
     - Migration: "migration"
