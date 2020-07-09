@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page_map
 title: Map
 subtitle: Interactive map
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
