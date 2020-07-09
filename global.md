@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global
+title: Overview
 subtitle: Discover our project
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 modules:
