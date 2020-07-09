@@ -4,7 +4,7 @@ title: Global
 subtitle: Discover our project
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 modules:
--   name: Mekong
+  - name: Mekong
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/mekong/
     img: /assets/img/avatar-icon.png
