@@ -20,4 +20,4 @@ modules:
 
 ### The modules
 
-{% include list-circles.html items=page.recon-list %}
+{% include list-circles.html items=page.modules %}
