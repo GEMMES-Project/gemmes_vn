@@ -10,7 +10,7 @@ description: bbbbbb
 author: Some Person
 
 
-base-url: "/gemmes_vn"
+baseurl: "/gemmes_vn"
 
 # --- List of links in the navigation bar --- #
 
