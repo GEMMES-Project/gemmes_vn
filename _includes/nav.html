@@ -16,7 +16,7 @@
 			<a class="nav-link" href="{{ page.base-url }}">{{ site.t['index'][page.lang] }}</a>
 		  </li>
 		  <li class="nav-item">
-            <a class="nav-link" href="{{[page.lang]['/project/'] | absolute_url}}">{{ site.t['project'][page.lang] }}</a>
+            <a class="nav-link" href="{{page.lang['/project/'] | absolute_url}}">{{ site.t['project'][page.lang] }}</a>
 		  </li>
 		  
 		  <li class="nav-item dropdown">
@@ -29,7 +29,7 @@
             </div>
           </li>
           <li class="nav-item">
-			<a class="nav-link" href="{{ page.base-url }}map/">{{ site.t['map'][page.lang] }}</a>
+			<a class="nav-link" href="{{'/map/' | absolute_url}}>{{ site.t['map'][page.lang] }}</a>
 		  </li>
 		  <li class="nav-item">
 			<a class="nav-link" href="{{'/news/' | absolute_url}}">{{ site.t['news'][page.lang] }}</a>
