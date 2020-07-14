@@ -1,35 +1,50 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{ page.base-url}}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ page.base-url }}">{{ site.title }}</a>
   {%- endif -%}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="main-navbar">
+<div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-      {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+          <li class="nav-item">
+			<a class="nav-link" href="{{ page.base-url }}">{{ site.t['index'][page.lang] }}</a>
+		  </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="{{ page.base-url }}project/">{{ site.t['project'][page.lang] }}</a>
+		  </li>
+		  
+		  <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['research'][page.lang] }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
+                  <a class="dropdown-item" href="{{ page.base-url }}global/">{{ site.t['global'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}mekong/">{{ site.t['mekong'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}migration/">{{ site.t['migration'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}health/">{{ site.t['health'][page.lang] }}</a>
             </div>
           </li>
-        {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+			<a class="nav-link" href="{{ page.base-url }}map/">{{ site.t['map'][page.lang] }}</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="{{ page.base-url }}news/">{{ site.t['news'][page.lang] }}</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="{{ page.base-url}}aboutme/">{{ site.t['aboutme'][page.lang] }}</a>
           </li>
-        {%- endif -%}
-      {%- endfor -%}
+		  <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['language'][page.lang] }}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="{{  '' | absolute_url  }}">English</a>
+				  <a class="dropdown-item" href="{{  '' | absolute_url }}fr/">Français</a>
+				  <a class="dropdown-item" href="{{  '' | absolute_url  }}vn/">Tiếng Việt</a>
+            </div>
+		  </li>
     </ul>
   </div>
 
@@ -42,5 +57,6 @@
       </div>
     </div>
   {% endif %}
+  
 
 </nav>
