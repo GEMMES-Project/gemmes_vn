@@ -3,6 +3,8 @@ layout: page
 title: Overview
 subtitle: Discover our project
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
+i18n-link: global
+lang: en
 modules:
   - name: Mekong
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
