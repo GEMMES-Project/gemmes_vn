@@ -12,11 +12,11 @@ layout: base
 {% endif %}
 
 
-  <ul>
+  <p> 
     {% for post in posts %}
-      <li><a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+      <a class="{{ post.lang }}" href="{{ post.url | absolute_url }}">{{ post.lang }}</a>
     {% endfor %}
-  </ul>
+  </p>
 
 
 
