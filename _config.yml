@@ -10,7 +10,6 @@ description: bbbbbb
 author: Some Person
 
 
-baseurl: "/gemmes_vn"
 url: ""
 
 # --- List of links in the navigation bar --- #
@@ -242,21 +241,21 @@ defaults:
       layout: "page"
       show-avatar: true
       lang: en
-      base-url: "/"
+      base-url: "/gemmes_vn/"
       
   - 
     scope:
       path: fr
     values:
       lang: fr
-      base-url: "/fr/"
+      base-url: "/gemmes_vn/fr/"
       
   - 
     scope:
       path: vn
     values:
       lang: vn
-      base-url: "/vn/"
+      base-url: "/gemmes_vn/vn/"
          
          
 # Value to use into url per language
