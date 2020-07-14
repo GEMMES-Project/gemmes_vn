@@ -9,18 +9,52 @@ description: A virtual proof that I'm awesome
 # Your name to show in the footer
 author: Some Person
 
+
+base-url: ""
+
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  The project: "project"
-  Research: 
-    - Overview: "global"
-    - Mekong: "mekong"
-    - Health: "health"
-    - Migration: "migration"
-  Interactive Map: "map"
-  News: "news"
-  About us: "aboutme"
+t:
+  research:
+    en: "Research"
+    fr: "Recherche"
+    vn: "Rech_vn"  
+  global:
+    en: "Overview"
+    fr: "Aperçu"
+    vn: "Over_vn"
+  mekong:
+    en: "Mekong"
+    fr: "Mekong"
+    vn: "Mekong"  
+  migration:
+    en: "Migration"
+    fr: "Migration"
+    vn: "Migration"
+  health:
+    en: "Health"
+    fr: "Santé"
+    vn: "Health_vn"
+  project: 
+    en: "Project"
+    fr: "Projet"
+    vn: "Projet_vn"
+  map:
+    en: "Interactive map"
+    fr: "Carte interactive"
+    vn: "Carte_vn"
+  news: 
+    en: "News"
+    fr: "Actualités"
+    vn: "News_vn"
+  aboutme: 
+    en: "About us"
+    fr: "À propos"
+    vn: "About_vn"
+  language: 
+    en: "Language"
+    fr: "Langue"
+    vn: "Langue_VN"    
 
 # --- Logo --- #
 
@@ -199,13 +233,36 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: false # add estimated reading time on all blog posts
+
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
       show-avatar: true
-
+      lang: en
+      base-url: "/"
+      
+  - 
+    scope:
+      path: fr
+    values:
+      lang: fr
+      base-url: "/fr/"
+      
+  - 
+    scope:
+      path: vn
+    values:
+      lang: vn
+      base-url: "/vn/"
+         
+         
+# Value to use into url per language
+langs-value:
+    en: ""
+    fr: fr
+    vn: vn
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
