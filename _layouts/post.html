@@ -4,6 +4,22 @@ layout: base
 
 {% include header.html type="post" %}
 
+
+{% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+
+{% if posts.size == 0 %}
+  {% assign posts=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+{% endif %}
+
+
+  <ul>
+    {% for post in posts %}
+      <li><a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endfor %}
+  </ul>
+
+
+
 <div class="container-md">
   <div class="row">
     <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
