@@ -22,10 +22,10 @@
 		  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['research'][page.lang] }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="{{'/global/' | absolute_url}}">{{ site.t['global'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{'/mekong/' | absolute_url}}">{{ site.t['mekong'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{'/migration/' | absolute_url}}">{{ site.t['migration'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{'/health/' | absolute_url}}">{{ site.t['health'][page.lang] }}</a>
+                  <a class="dropdown-item" href="{{ page.base-url }}global/">{{ site.t['global'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}mekong/">{{ site.t['mekong'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}migration/">{{ site.t['migration'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}health/">{{ site.t['health'][page.lang] }}</a>
             </div>
           </li>
           <li class="nav-item">
