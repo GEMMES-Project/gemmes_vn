@@ -1,6 +1,7 @@
 ---
 common-css:
   - "/assets/css/main-minimal.css"
+  - "/assets/css/main.css"
 common-ext-css:
   - href: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     sri: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
@@ -19,8 +20,10 @@ common-ext-js:
   {% include head.html %}
 
   <body>
-
-    <div role="main" class="container-md main-content">
+    {% include gtm_body.html %}
+  
+    {% include nav.html %}
+    <div role="main" class="main-content">
       {{ content }}
     </div>
 
