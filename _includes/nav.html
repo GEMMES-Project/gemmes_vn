@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ page.base-url}}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{ site.base-url}}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ page.base-url }}">{{ site.title }}</a>
   {%- endif -%}
