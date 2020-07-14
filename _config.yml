@@ -10,8 +10,8 @@ description: bbbbbb
 author: Some Person
 
 
-baseurl: ""
-url: "https://gohu00.github.io/gemmes_vn"
+baseurl: "/gemmes_vn"
+url: "https://gohu00.github.io/"
 
 # --- List of links in the navigation bar --- #
 
