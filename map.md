@@ -9,7 +9,7 @@ lang: en
 
 <h1 class="text-center"> How to use this map? </h1>
 
-<button onclick="document.getElementsByTagName('iframe')[0].className = 'fullScreen'">Click me</button> 
+<a href="https://remosat.usth.edu.vn/ecomore2">Open in an other window?</a>
 
 <iframe ddd  src="https://remosat.usth.edu.vn/ecomore2"
 style="allowfullscreen:allowfullscreen; border:none; overflow:hidden; width:100%; height:800px; left:0px; zoom:0.1; display:block; allowfullscreen  "></iframe>
