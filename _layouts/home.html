@@ -10,7 +10,7 @@ layout: page
 	 {% for post in posts %}
 	  {% if post.lang == page.lang %}
 	  <article class="post-preview">
-		<a href="{{ site.base-url }}{{ post.url }}">
+		<a href="{{ page.base-url }}{{ post.url }}">
 		<h2 class="post-title">{{ post.title }}</h2>
 
 	   {% if post.subtitle %}
