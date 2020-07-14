@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ page.base-url}}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{'' | absolute_url}}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ page.base-url }}">{{ site.title }}</a>
   {%- endif -%}
@@ -22,20 +22,20 @@
 		  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['research'][page.lang] }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="{{ page.base-url }}global/">{{ site.t['global'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{ page.base-url }}mekong/">{{ site.t['mekong'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{ page.base-url }}migration/">{{ site.t['migration'][page.lang] }}</a>
-				  <a class="dropdown-item" href="{{ page.base-url }}health/">{{ site.t['health'][page.lang] }}</a>
+                  <a class="dropdown-item" href="{{'/global/' | absolute_url}}">{{ site.t['global'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{'/mekong/' | absolute_url}}">{{ site.t['mekong'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{'/migration/' | absolute_url}}">{{ site.t['migration'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{'/health/' | absolute_url}}">{{ site.t['health'][page.lang] }}</a>
             </div>
           </li>
           <li class="nav-item">
-			<a class="nav-link" href="{{ site.absolute_url}}map/">{{ site.t['map'][page.lang] }}</a>
+			<a class="nav-link" href="{{'/map/' | absolute_url}}">{{ site.t['map'][page.lang] }}</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="{{ page.base-url }}news/">{{ site.t['news'][page.lang] }}</a>
+			<a class="nav-link" href="{{'/news/' | absolute_url}}">{{ site.t['news'][page.lang] }}</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="{{ page.base-url}}aboutme/">{{ site.t['aboutme'][page.lang] }}</a>
+			<a class="nav-link" href="{{'/aboutme/' | absolute_url}}">{{ site.t['aboutme'][page.lang] }}</a>
           </li>
 		  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['language'][page.lang] }}</a>
