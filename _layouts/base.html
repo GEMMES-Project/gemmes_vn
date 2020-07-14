@@ -19,6 +19,14 @@ common-js:
   - "/assets/js/main.js"
 ---
 
+
+{% assign postsTrans=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+
+{% if postsTrans.size == 0 %}
+  {% assign postsTrans=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+{% endif %}
+
+
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2020 -->
