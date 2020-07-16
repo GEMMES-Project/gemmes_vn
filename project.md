@@ -23,13 +23,29 @@ lang: en
   margin: 4px 2px;
   cursor: pointer;
 }
+
+
+.button2 {
+  background-color: "#F5F5F5";
+  border-bottom: 1px solid "#EAEAEA";
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border: none;
+  color: white;
+  padding: 5px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
 
 ### Project
 
 <h2>Read More Read Less Button</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scel<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span></p>
-<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
+<button class="button2" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 <script>
