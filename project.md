@@ -11,15 +11,15 @@ modules:
   - name: Mekong
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/mekong/
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Health
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/health/
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Migration
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/migration/
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
 
 ---
 
@@ -73,7 +73,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 {% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-<button class="button2" onclick="myFunction()" id="myBtn">Read more</button>
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 <h2>Research package n°2</h2>
@@ -83,7 +83,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 {% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-<button class="button2" onclick="myFunction()" id="myBtn">Read more</button>
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 <h2>Research package n°3</h2>
@@ -93,7 +93,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 {% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-<button class="button2" onclick="myFunction()" id="myBtn">Read more</button>
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 
