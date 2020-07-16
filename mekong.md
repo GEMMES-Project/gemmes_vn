@@ -9,4 +9,4 @@ lang: en
 
 ### Mekong
 
-<a href="https://gohu00.github.io/gemmes_vn/project/#package1">Package one</a>
+<a href="{{ page.base-url }}project/#package1">Package one</a>
