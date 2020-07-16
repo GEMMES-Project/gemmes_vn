@@ -8,7 +8,7 @@ lang: en
 packages:
   - name: Package-1
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: {{ page.base-url }}project/#package1
+    url: "{{ page.base-url }}project/#package1"
     img: /assets/img/avatar-icon.png
   - name: Package-2
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
@@ -16,7 +16,7 @@ packages:
     img: /assets/img/avatar-icon.png
   - name: Package-3
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: {{ page.base-url }}project/#package3
+    url: "{{ page.base-url }}project/#package3"
     img: /assets/img/avatar-icon.png
 ---
 
