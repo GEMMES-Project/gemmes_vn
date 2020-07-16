@@ -27,7 +27,7 @@ lang: en
 
 .button2 {
   background-color: "#F5F5F5";
-  border-bottom: 1px solid "#EAEAEA";
+  border-bottom: "#EAEAEA";
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   border: none;
   color: white;
