@@ -5,8 +5,21 @@ subtitle: Discover our projects
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: mekong
 lang: en
+packages:
+  - name: Package 1
+    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
+    url: {{ page.base-url }}project/#package1
+    img: /assets/img/avatar-icon.png
+  - name: Package 2
+    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
+    url: "{{ page.base-url }}project/#package1"
+    img: /assets/img/avatar-icon.png
+  - name: Package 3
+    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
+    url: {{ page.base-url }}project/#package1
+    img: /assets/img/avatar-icon.png
 ---
 
 ### Mekong
 
-<a href="{{ page.base-url }}project/#package1">Package one</a>
+{% include list-circles.html items=page.packages %}
