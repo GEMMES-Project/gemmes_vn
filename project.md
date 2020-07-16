@@ -65,8 +65,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada mi ac
 Phasellus mollis eros lectus, nec vestibulum massa faucibus vel. Duis auctor ex est. Nulla nec egestas orci, commodo semper nisl. Fusce nec odio viverra, malesuada tortor in, varius lectus. Proin eget purus pretium, vulputate turpis sit amet, dignissim nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tincidunt diam eget diam eleifend, vel egestas felis laoreet. Phasellus sed vulputate eros, quis consectetur tellus. Phasellus blandit libero ullamcorper lorem scelerisque blandit. Sed vel diam eleifend, placerat lorem ac, sollicitudin nunc.
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed tortor mollis, faucibus ligula ut, maximus odio. Duis tortor libero, scelerisque in mauris ut, pulvinar hendrerit sapien. Mauris luctus augue et enim gravida, ac vulputate arcu placerat. Nulla facilisi. Cras arcu erat, tempus id tortor sed, viverra viverra neque. Sed aliquam leo mollis ligula auctor, at maximus nisi posuere. Curabitur sed pharetra quam. Nullam egestas neque ipsum, eget aliquet ex congue nec. Morbi turpis nisl, accumsan et nisi et, consequat ullamcorper lectus. 
-
+<div id="package1">
 <h2>Research package n°1</h2>
+</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
 <div id="more">
 <h3>Related subjects</h3>
