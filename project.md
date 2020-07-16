@@ -12,10 +12,10 @@ lang: en
 #more {display: none;}
 
 .button {
-  background-color: #4CAF50;
+  background-color: #da291c;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 5px 3px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -29,8 +29,8 @@ lang: en
 
 <h2>Read More Read Less Button</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scel<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span></p>
-# <button class="post-read-more" onclick="myFunction()" id="myBtn">Read more</button>
-<a class="post-read-more" onclick="myFunction()" id="myBtn">[Read&nbsp;More]</a>
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
+
 
 <script>
 function myFunction() {
