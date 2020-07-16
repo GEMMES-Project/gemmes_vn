@@ -68,7 +68,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 <h2>Research package n°1</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<section id="more">
+<div id="more">
 <h3>Related subjects</h3>
 {% include list-circles.html items=page.modules %} 
 
@@ -76,10 +76,94 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 <h3>Latest news of the research package</h3>
 
-{% include post_displayer.html %}
+{% assign posts = paginator.posts | default: site.posts  %}
+
+<div class="post-list">
+	 {% for post in posts %}
+	  {% if post.lang == page.lang %}
+	  <article class="post-preview">
+		<a href="{{ post.url | absolute_url  }}">
+		<h2 class="post-title">{{ post.title }}</h2>
+
+	   {% if post.subtitle %}
+        <h3 class="post-subtitle">
+        {{ post.subtitle }}
+        </h3>
+		{% endif %}
+		</a>
+
+    <p class="post-meta">
+      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+      Posted on {{ post.date | date: date_format }}
+    </p>
+
+    <!-- <div class="post-entry-container"> -->
+      <!-- {%- capture thumbnail -%} -->
+        <!-- {% if post.thumbnail-img %} -->
+          <!-- {{ post.thumbnail-img }} -->
+        <!-- {% elsif post.cover-img %} -->
+          <!-- {% if post.cover-img.first %} -->
+            <!-- {{ post.cover-img[0].first.first }} -->
+          <!-- {% else %} -->
+            <!-- {{ post.cover-img }} -->
+          <!-- {% endif %} -->
+        <!-- {% else %} -->
+        <!-- {% endif %} -->
+      <!-- {% endcapture %} -->
+      <!-- {% assign thumbnail=thumbnail | strip %} -->
+      <!-- {% if thumbnail != "" %} -->
+      <!-- <div class="post-image"> -->
+        <!-- <a href="{{ post.url | absolute_url }}"> -->
+          <!-- <img src="{{ thumbnail | absolute_url }}"> -->
+        <!-- </a> -->
+      <!-- </div> -->
+      <!-- {% endif %} -->
+      <div class="post-entry">
+        {% assign excerpt_length = site.excerpt_length | default: 50 %}
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+	 {% endif %} 
+    {% endfor %}
+  </article>
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if paginator.previous_page %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
 
 </div>
-<section class="button" onclick="myFunction()" id="myBtn">Read more</button>
+<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 <h2>Research package n°2</h2>
