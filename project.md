@@ -7,6 +7,11 @@ i18n-link: project
 lang: en
 ---
 
+
+<style>
+#more {display: none;}
+</style>
+
 ### Project
 
 <h2>Read More Read Less Button</h2>
