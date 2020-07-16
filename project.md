@@ -59,8 +59,20 @@ modules:
 
 ### Project
 
-<h2>Read More Read Less Button</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span><div id="more">{% include list-circles.html items=page.modules %} Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada mi ac nibh fermentum, ut commodo ligula lacinia. Morbi faucibus, dui sit amet laoreet ultrices, lectus eros pretium augue, in consectetur massa lectus eu lectus. Suspendisse scelerisque sagittis arcu eget facilisis. Aenean ornare cursus urna nec ultrices. Donec quis ornare felis. Morbi viverra vitae ligula quis lacinia. Pellentesque tempor porta eleifend. Ut at nisl eget ligula tempus aliquet vitae vitae magna. Nulla eget neque pellentesque, gravida sapien sit amet, pellentesque magna. Ut orci erat, posuere et elit id, hendrerit interdum ex. Sed varius aliquet justo, vel tempus sapien tristique sit amet.
+
+Phasellus mollis eros lectus, nec vestibulum massa faucibus vel. Duis auctor ex est. Nulla nec egestas orci, commodo semper nisl. Fusce nec odio viverra, malesuada tortor in, varius lectus. Proin eget purus pretium, vulputate turpis sit amet, dignissim nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tincidunt diam eget diam eleifend, vel egestas felis laoreet. Phasellus sed vulputate eros, quis consectetur tellus. Phasellus blandit libero ullamcorper lorem scelerisque blandit. Sed vel diam eleifend, placerat lorem ac, sollicitudin nunc.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed tortor mollis, faucibus ligula ut, maximus odio. Duis tortor libero, scelerisque in mauris ut, pulvinar hendrerit sapien. Mauris luctus augue et enim gravida, ac vulputate arcu placerat. Nulla facilisi. Cras arcu erat, tempus id tortor sed, viverra viverra neque. Sed aliquam leo mollis ligula auctor, at maximus nisi posuere. Curabitur sed pharetra quam. Nullam egestas neque ipsum, eget aliquet ex congue nec. Morbi turpis nisl, accumsan et nisi et, consequat ullamcorper lectus. 
+
+<h2>Research package n°1</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
+<div id="more">
+#Related subjects
+{% include list-circles.html items=page.modules %} 
+
+Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 <button class="button2" onclick="myFunction()" id="myBtn">Read more</button>
 
 
