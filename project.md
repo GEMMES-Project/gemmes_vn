@@ -68,7 +68,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 <h2>Research package n°1</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
+<section id="more">
 <h3>Related subjects</h3>
 {% include list-circles.html items=page.modules %} 
 
@@ -79,7 +79,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 {% include post_displayer.html %}
 
 </div>
-<button class="button" onclick="myFunction()" id="myBtn">Read more</button>
+<section class="button" onclick="myFunction()" id="myBtn">Read more</button>
 
 
 <h2>Research package n°2</h2>
