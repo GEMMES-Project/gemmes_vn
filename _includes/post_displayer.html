@@ -3,7 +3,7 @@
 <div class="post-list">
 	 {% for post in posts %}
 	  {% if post.lang == page.lang %}
-	    {% if post.i18n-link == "translated-post" %}
+	    {% if post.tags == "package1" %}
 		  <article class="post-preview">
 			<a href="{{ post.url | absolute_url  }}">
 			<h2 class="post-title">{{ post.title }}</h2>
