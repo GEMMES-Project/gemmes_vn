@@ -80,8 +80,9 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 </div>
 <button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
 
-
+<div id="package1">
 <h2>Research package n°2</h2>
+</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
 <div id="more">
 <h3>Related subjects</h3>
@@ -91,8 +92,9 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 <button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
 
-
+<div id="package1">
 <h2>Research package n°3</h2>
+</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
 <div id="more">
 <h3>Related subjects</h3>
