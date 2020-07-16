@@ -54,7 +54,7 @@ layout: page
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
-    </div>
+    
 
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
@@ -72,7 +72,7 @@ layout: page
    </article>
 	 {% endif %} 
     {% endfor %}
-  </article>
+  
 </div>
 
 {% if paginator.total_pages > 1 %}
