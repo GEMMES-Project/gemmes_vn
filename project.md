@@ -83,7 +83,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<h3>Latest news of the research package</h3>
 	{% include post_displayer.html %}
 </div>
-<button class="button" onclick="readmorepackage1()" id="myBtn1">Read more about package n°1</button>  
+<button class="button" onclick="readmorepackageOne()" id="myBtn1">Read more about package n°1</button>  
 
 
 
@@ -121,7 +121,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 <script>
-function readmorepackage1() {
+function readmorepackageOne() {
   var dots1 = document.getElementById("dots1");
   var moreText1 = document.getElementById("more1");
   var btnText1 = document.getElementById("myBtn1");
