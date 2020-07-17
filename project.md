@@ -82,6 +82,9 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<h3>Latest news of the research package</h3>
 	{% include post_displayer.html %}
+	
+	<h3>Papers</h3>
+	
 </div>
 <button class="button" onclick="readmorepackageOne()" id="myBtn">Read more about package n°1</button>  
 
@@ -91,17 +94,17 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<!-- <div id="package2"> -->
-	<!-- <h2>Research package n°2</h2> -->
-<!-- </div> -->
-<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots2"></span> -->
-<!-- <div id="more2"> -->
-	<!-- <h3>Related subjects</h3> -->
-	<!-- {% include list-circles.html items=page.modules %}  -->
+<div id="package2">
+	<h2>Research package n°2</h2>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots2"></span>
+<div id="more2">
+	<h3>Related subjects</h3>
+	{% include list-circles.html items=page.modules %} 
 
-<!-- Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p> -->
+Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-	<!-- <button class="button" onclick="readmorepackage2()" id="myBtn2">Read more about package n°2</button>   -->
+	<button class="button" onclick="readmorepackage2()" id="myBtn2">Read more about package n°2</button>  
 
 
 
@@ -136,7 +139,7 @@ function readmorepackageOne() {
     moreText.style.display = "inline";
   }
 }
-function readmorepackage2() {
+function readmorepackageTwo() {
   var dots = document.getElementById("dots2");
   var moreText = document.getElementById("more2");
   var btnText = document.getElementById("myBtn2");
