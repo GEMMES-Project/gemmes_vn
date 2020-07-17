@@ -72,7 +72,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 <div id="package1" data-package="packageOne>
 	<h2>Research package n°1</h2>
-</div>
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 <div class="more" style="display: none;">
 	<h3>Related subjects</h3>
@@ -88,7 +88,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 </div>
 <button class="button" onclick="readMore('packageOne')" id="myBtn">Read more about package n°1</button>  
 
-
+</div>
 
 
 
@@ -96,7 +96,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 <div id="package2" data-package="packageTwo>
 	<h2>Research package n°2</h2>
-</div>
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 <div class="more" style="display: none;">
 	<h3>Related subjects</h3>
@@ -106,7 +106,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 	<button class="button" onclick="readMore('packageTwo')"  id="myBtn">Read more about package n°2</button>  
 
-
+</div>
 
 
 
