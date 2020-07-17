@@ -73,8 +73,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <div id="package1" data-package="packageOne>
 	<h2>Research package n°1</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
+<div class="more" style="display: none;">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
@@ -97,8 +97,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <div id="package2" data-package="packageTwo>
 	<h2>Research package n°2</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
+<div class="more" style="display: none;">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
