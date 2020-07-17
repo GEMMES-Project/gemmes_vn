@@ -125,9 +125,9 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 <script>
 function readMore(package) {
-    let dots = document.querySelector(`.card[data-package="${package}"] .dots`);
-    let moreText = document.querySelector(`.card[data-package="${package}"] .more`); 
-    let btnText = document.querySelector(`.card[data-package="${package}"] .myBtn`);
+    let dots = document.querySelector(`.card[data-package="${package}"].dots`);
+    let moreText = document.querySelector(`.card[data-package="${package}"].more`); 
+    let btnText = document.querySelector(`.card[data-package="${package}"].myBtn`);
 
     if (dots.style.display === "none") {
         dots.style.display = "inline";
