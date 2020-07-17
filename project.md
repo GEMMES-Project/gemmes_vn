@@ -75,7 +75,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		{% include list-circles.html items=page.modules %} 
 		
 		<h3>Latest news of the research package</h3>
-		{% include post_displayer_package1.html %}
+		{% include post_displayer_packageOne.html %}
 	
 		<h3>Papers</h3>
 		<i>coming soon</i>
@@ -97,7 +97,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		<p>Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
 
 		<h3>Latest news of the research package</h3>
-		{% include post_displayer_package2.html %}
+		{% include post_displayer_packageTwo.html %}
 	
 		<h3>Papers</h3>
 
