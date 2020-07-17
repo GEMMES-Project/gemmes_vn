@@ -83,7 +83,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<h3>Latest news of the research package</h3>
 	{% include post_displayer.html %}
 </div>
-<button class="button" onclick="readmorepackage1()" id="myBtn1">Read more</button>  
+<button class="button" onclick="readmorepackage1()" id="myBtn1">Read more about package n°1</button>  
 
 
 
@@ -101,7 +101,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-	<button class="button" onclick="readmorepackage2()" id="myBtn2">Read more</button>  
+	<button class="button" onclick="readmorepackage2()" id="myBtn2">Read more about package n°2</button>  
 
 
 
@@ -116,7 +116,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 	{% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-	<button class="button" onclick="readmorepackage3()" id="myBtn3">Read more</button>  
+	<button class="button" onclick="readmorepackage3()" id="myBtn3">Read more about package n°3</button>  
 
 
 
@@ -128,7 +128,7 @@ function readmorepackage1() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Read more about package n°1"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
@@ -143,7 +143,7 @@ function readmorepackage2() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Read more about package n°2"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
@@ -159,7 +159,7 @@ function readmorepackage3() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Read more about package n°3"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
