@@ -64,6 +64,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 	<div class="more" style="display: none;">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 
