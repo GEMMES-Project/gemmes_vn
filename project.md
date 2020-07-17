@@ -140,11 +140,11 @@ function readmorepackageOne() {
   }
 }
 function readmorepackageTwo() {
-  var dots = document.getElementById("dots2");
+  var dotsTwo = document.getElementById("dots2");
   var moreText = document.getElementById("more2");
   var btnText = document.getElementById("myBtn2");
 
-  if (dots.style.display === "none") {
+  if (dotsTwo.style.display === "none") {
     dots.style.display = "inline";
     btnText.innerHTML = "Read more about package n°2"; 
     moreText.style.display = "none";
