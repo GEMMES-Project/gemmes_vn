@@ -122,18 +122,18 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 <script>
 function readmorepackage1() {
-  var dots = document.getElementById("dots1");
-  var moreText = document.getElementById("more1");
-  var btnText = document.getElementById("myBtn1");
+  var dots1 = document.getElementById("dots1");
+  var moreText1 = document.getElementById("more1");
+  var btnText1 = document.getElementById("myBtn1");
 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more about package n°1"; 
-    moreText.style.display = "none";
+  if (dots1.style.display === "none") {
+    dots1.style.display = "inline";
+    btnText1.innerHTML = "Read more about package n°1"; 
+    moreText1.style.display = "none";
   } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
+    dots1.style.display = "none";
+    btnText1.innerHTML = "Read less"; 
+    moreText1.style.display = "inline";
   }
 }
 function readmorepackage2() {
