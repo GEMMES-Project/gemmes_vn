@@ -77,7 +77,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	</div>
 	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
-</div>
+
 
 
 
@@ -99,7 +99,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	</div>	
 	<button  onclick="readMore('packageTwo')"  class="myBtn">Read more</button>  
 
-</div>
+
 
 
 
@@ -121,7 +121,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	</div>
 	<button  onclick="readMore('packageThree')"  class="myBtn">Read more</button>  
 
-</div>
+
 
 
 <script>
