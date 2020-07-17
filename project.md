@@ -70,7 +70,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<div id="package1">
+<div id="package1" data-package="packageOne>
 	<h2>Research package n°1</h2>
 </div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
@@ -86,7 +86,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<h3>Papers</h3>
 	
 </div>
-<button class="button" onclick="readmorepackageOne()" id="myBtn">Read more about package n°1</button>  
+<button class="button" onclick="readMore('packageOne')" id="myBtn">Read more about package n°1</button>  
 
 
 
@@ -94,17 +94,17 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<div id="package2">
+<div id="package2" data-package="packageTwo>
 	<h2>Research package n°2</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots2"></span>
-<div id="more2">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
+<div id="more">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-	<button class="button" onclick="readmorepackageTwo()" id="myBtn2">Read more about package n°2</button>  
+	<button class="button" onclick="readMore('packageTwo')"  id="myBtn">Read more about package n°2</button>  
 
 
 
@@ -124,50 +124,19 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 
 <script>
-function readmorepackageOne() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+function readMore(package) {
+    let dots = document.querySelector(`.card[data-package="${package}"] .dots`);
+    let moreText = document.querySelector(`.card[data-package="${package}"] .more`); 
+    let btnText = document.querySelector(`.card[data-package="${package}"] .myBtn`);
 
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more about package n°1"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
-  }
-}
-function readmorepackageTwo() {
-  var dotsTwo = document.getElementById("dots2");
-  var moreTextTwo = document.getElementById("more2");
-  var btnTextTwo = document.getElementById("myBtn2");
-
-  if (dotsTwo.style.display === "none") {
-    dotsTwo.style.display = "inline";
-    btnTextTwo.innerHTML = "Read more about package n°2"; 
-    moreTextTwo.style.display = "none";
-  } else {
-    dotsTwo.style.display = "none";
-    btnTextTwo.innerHTML = "Read less"; 
-    moreTextTwo.style.display = "inline";
-  }
-}
-
-function readmorepackage3() {
-  var dots = document.getElementById("dots3");
-  var moreText = document.getElementById("more3");
-  var btnText = document.getElementById("myBtn3");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more about package n°3"; 
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
-  }
+    if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.textContent = "Read more";
+        moreText.style.display = "none";
+    } else {
+        dots.style.display = "none";
+        btnText.textContent = "Read less"; 
+        moreText.style.display = "inline";
+    }
 }
 </script>
