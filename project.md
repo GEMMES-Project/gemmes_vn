@@ -70,7 +70,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<div id="package1" data-package="packageOne>
+<div id="package1" data-package="packageOne">
 	<h2>Research package n°1</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
@@ -94,7 +94,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<div id="package2" data-package="packageTwo>
+<div id="package2" data-package="packageTwo">
 	<h2>Research package n°2</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
