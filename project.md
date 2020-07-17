@@ -41,19 +41,8 @@ modules:
 }
 
 
-.button2 {
-  background-color: "#F5F5F5";
-  border-bottom: "#EAEAEA";
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  border: none;
-  color: white;
-  padding: 5px 3px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+.card{
+background-color: #f5f5f5;
 }
 </style>
 
