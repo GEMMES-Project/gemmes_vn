@@ -104,7 +104,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-	<button class="button" onclick="readmorepackage2()" id="myBtn2">Read more about package n°2</button>  
+	<button class="button" onclick="readmorepackageTwo()" id="myBtn2">Read more about package n°2</button>  
 
 
 
