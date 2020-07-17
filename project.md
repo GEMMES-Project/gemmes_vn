@@ -91,10 +91,14 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 	<div class="more" style="display: none;">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis mauris, vel aliquam tellus. Vestibulum tincidunt iaculis rhoncus. Cras nibh leo, ultricies id enim id, viverra sagittis ipsum. Vestibulum facilisis elit felis. Praesent purus nisi, euismod eu commodo quis, venenatis in arcu. Mauris dictum nisi nisi, quis efficitur libero egestas nec. Nullam non eros ut metus lacinia viverra et in nisl. Sed eros magna, blandit nec ultricies sit amet, sollicitudin auctor ex. </p>
+		<p>Mauris dictum nisi odio, id suscipit leo dignissim ut. In dapibus eu orci et mollis. Curabitur eget dui et sem euismod pellentesque. Donec semper rutrum nulla, eget fermentum ex fermentum quis. Nam sodales, tellus sed pellentesque dictum, orci dui tristique nisi, eu posuere felis dui a enim. Ut a vulputate quam. Cras consequat elit a nunc pretium lacinia. Aliquam malesuada, quam quis tristique porta, ante ligula luctus odio, id semper erat augue vitae velit. In euismod sagittis lacus in viverra. Etiam placerat auctor odio vitae malesuada. Vestibulum eleifend diam at urna iaculis congue. Maecenas ac ipsum non tortor lacinia dictum nec nec magna. Curabitur nunc magna, euismod non odio eu, consectetur aliquet mauris. </p>
+		<p>Nulla rhoncus rhoncus eros, eu dignissim tortor feugiat vel. Nam elementum pellentesque lectus nec ultrices. Integer semper hendrerit neque, sit amet elementum mi laoreet at. Mauris eleifend felis volutpat placerat efficitur. Nunc congue, dui eu rhoncus euismod, neque massa aliquet nulla, non scelerisque lorem enim sit amet urna. Sed lobortis tincidunt enim vitae pharetra. Sed nec convallis sapien. Nulla erat mauris, gravida a porttitor ac, cursus nec elit.  </p>		
+
+		
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 
-		<p>Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
 
 		<h3>Latest news of the research package</h3>
 		{% include post_displayer_packageTwo.html %}
@@ -113,10 +117,15 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 	<div class="more" style="display: none;">
+		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis mauris, vel aliquam tellus. Vestibulum tincidunt iaculis rhoncus. Cras nibh leo, ultricies id enim id, viverra sagittis ipsum. Vestibulum facilisis elit felis. Praesent purus nisi, euismod eu commodo quis, venenatis in arcu. Mauris dictum nisi nisi, quis efficitur libero egestas nec. Nullam non eros ut metus lacinia viverra et in nisl. Sed eros magna, blandit nec ultricies sit amet, sollicitudin auctor ex. </p>
+		<p>Mauris dictum nisi odio, id suscipit leo dignissim ut. In dapibus eu orci et mollis. Curabitur eget dui et sem euismod pellentesque. Donec semper rutrum nulla, eget fermentum ex fermentum quis. Nam sodales, tellus sed pellentesque dictum, orci dui tristique nisi, eu posuere felis dui a enim. Ut a vulputate quam. Cras consequat elit a nunc pretium lacinia. Aliquam malesuada, quam quis tristique porta, ante ligula luctus odio, id semper erat augue vitae velit. In euismod sagittis lacus in viverra. Etiam placerat auctor odio vitae malesuada. Vestibulum eleifend diam at urna iaculis congue. Maecenas ac ipsum non tortor lacinia dictum nec nec magna. Curabitur nunc magna, euismod non odio eu, consectetur aliquet mauris. </p>
+		<p>Nulla rhoncus rhoncus eros, eu dignissim tortor feugiat vel. Nam elementum pellentesque lectus nec ultrices. Integer semper hendrerit neque, sit amet elementum mi laoreet at. Mauris eleifend felis volutpat placerat efficitur. Nunc congue, dui eu rhoncus euismod, neque massa aliquet nulla, non scelerisque lorem enim sit amet urna. Sed lobortis tincidunt enim vitae pharetra. Sed nec convallis sapien. Nulla erat mauris, gravida a porttitor ac, cursus nec elit.  </p>		
+
+		
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 
-		<p>Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
 
 		<h3>Latest news of the research package</h3>
 		{% include post_displayer_packageOne.html %}
