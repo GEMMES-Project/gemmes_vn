@@ -145,11 +145,11 @@ function readmorepackageTwo() {
   var btnText = document.getElementById("myBtn2");
 
   if (dotsTwo.style.display === "none") {
-    dots.style.display = "inline";
+    dotsTwo.style.display = "inline";
     btnText.innerHTML = "Read more about package n°2"; 
     moreText.style.display = "none";
   } else {
-    dots.style.display = "none";
+    dotsTwo.style.display = "none";
     btnText.innerHTML = "Read less"; 
     moreText.style.display = "inline";
   }
