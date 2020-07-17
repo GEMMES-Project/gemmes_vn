@@ -66,42 +66,42 @@ Phasellus mollis eros lectus, nec vestibulum massa faucibus vel. Duis auctor ex 
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed tortor mollis, faucibus ligula ut, maximus odio. Duis tortor libero, scelerisque in mauris ut, pulvinar hendrerit sapien. Mauris luctus augue et enim gravida, ac vulputate arcu placerat. Nulla facilisi. Cras arcu erat, tempus id tortor sed, viverra viverra neque. Sed aliquam leo mollis ligula auctor, at maximus nisi posuere. Curabitur sed pharetra quam. Nullam egestas neque ipsum, eget aliquet ex congue nec. Morbi turpis nisl, accumsan et nisi et, consequat ullamcorper lectus. 
 <div id="package1">
-<h2>Research package n°1</h2>
+	<h2>Research package n°1</h2>
 </div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
 <div id="more">
-<h3>Related subjects</h3>
-{% include list-circles.html items=page.modules %} 
+	<h3>Related subjects</h3>
+	{% include list-circles.html items=page.modules %} 
 
-<p>Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
+	<p>Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</p>
 
-<h3>Latest news of the research package</h3>
-{% include post_displayer.html %}
+	<h3>Latest news of the research package</h3>
+	{% include post_displayer.html %}
 </div>
 <button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
 
 <div id="package2">
-<h2>Research package n°2</h2>
+	<h2>Research package n°2</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
-<h3>Related subjects</h3>
-{% include list-circles.html items=page.modules %} 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots2"></span>
+<div id="more2">
+	<h3>Related subjects</h3>
+	{% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-<button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
+	<button class="button" onclick="myFunction2()" id="myBtn">Read more</button>  
 
 <div id="package3">
-<h2>Research package n°3</h2>
+	<h2>Research package n°3</h2>
 </div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
 <div id="more">
-<h3>Related subjects</h3>
-{% include list-circles.html items=page.modules %} 
+	<h3>Related subjects</h3>
+	{% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-<button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
+	<button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
 
 
 
@@ -109,6 +109,21 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 function myFunction() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+function myFunction2() {
+  var dots = document.getElementById("dots2");
+  var moreText = document.getElementById("more2");
   var btnText = document.getElementById("myBtn");
 
   if (dots.style.display === "none") {
