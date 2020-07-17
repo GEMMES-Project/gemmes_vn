@@ -65,11 +65,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada mi ac
 Phasellus mollis eros lectus, nec vestibulum massa faucibus vel. Duis auctor ex est. Nulla nec egestas orci, commodo semper nisl. Fusce nec odio viverra, malesuada tortor in, varius lectus. Proin eget purus pretium, vulputate turpis sit amet, dignissim nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed tincidunt diam eget diam eleifend, vel egestas felis laoreet. Phasellus sed vulputate eros, quis consectetur tellus. Phasellus blandit libero ullamcorper lorem scelerisque blandit. Sed vel diam eleifend, placerat lorem ac, sollicitudin nunc.
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed tortor mollis, faucibus ligula ut, maximus odio. Duis tortor libero, scelerisque in mauris ut, pulvinar hendrerit sapien. Mauris luctus augue et enim gravida, ac vulputate arcu placerat. Nulla facilisi. Cras arcu erat, tempus id tortor sed, viverra viverra neque. Sed aliquam leo mollis ligula auctor, at maximus nisi posuere. Curabitur sed pharetra quam. Nullam egestas neque ipsum, eget aliquet ex congue nec. Morbi turpis nisl, accumsan et nisi et, consequat ullamcorper lectus. 
+
+
+
+
+
 <div id="package1">
 	<h2>Research package n°1</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots1"></span>
+<div id="more1">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
@@ -78,7 +83,13 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<h3>Latest news of the research package</h3>
 	{% include post_displayer.html %}
 </div>
-<button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
+<button class="button" onclick="readmorepackage1()" id="myBtn">Read more</button>  
+
+
+
+
+
+
 
 <div id="package2">
 	<h2>Research package n°2</h2>
@@ -90,25 +101,29 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
 
-	<button class="button" onclick="myFunction2()" id="myBtn">Read more</button>  
+	<button class="button" onclick="readmorepackage2()" id="myBtn">Read more</button>  
+
+
+
+
 
 <div id="package3">
 	<h2>Research package n°3</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
-<div id="more">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots3"></span>
+<div id="more3">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
 Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
-	<button class="button" onclick="myFunction()" id="myBtn">Read more</button>  
+	<button class="button" onclick="readmorepackage3()" id="myBtn">Read more</button>  
 
 
 
 <script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
+function readmorepackage1() {
+  var dots = document.getElementById("dots1");
+  var moreText = document.getElementById("more1");
   var btnText = document.getElementById("myBtn");
 
   if (dots.style.display === "none") {
@@ -121,9 +136,25 @@ function myFunction() {
     moreText.style.display = "inline";
   }
 }
-function myFunction2() {
+function readmorepackage2() {
   var dots = document.getElementById("dots2");
   var moreText = document.getElementById("more2");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+
+function readmorepackage3() {
+  var dots = document.getElementById("dots3");
+  var moreText = document.getElementById("more3");
   var btnText = document.getElementById("myBtn");
 
   if (dots.style.display === "none") {
