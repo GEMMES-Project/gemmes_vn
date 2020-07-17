@@ -89,7 +89,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <div id="package2" class="card" data-package="packageTwo">
 	<h2>Research package n°2</h2>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
+	<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.</i><span class="dots"></span>
 	<div class="more" style="display: none;">
 	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis mauris, vel aliquam tellus. Vestibulum tincidunt iaculis rhoncus. Cras nibh leo, ultricies id enim id, viverra sagittis ipsum. Vestibulum facilisis elit felis. Praesent purus nisi, euismod eu commodo quis, venenatis in arcu. Mauris dictum nisi nisi, quis efficitur libero egestas nec. Nullam non eros ut metus lacinia viverra et in nisl. Sed eros magna, blandit nec ultricies sit amet, sollicitudin auctor ex. </p>
@@ -116,7 +116,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <div id="package3" class="card" data-package="packageThree">
 	<h2>Research package n°3</h2>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
+	<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.</i><span class="dots"></span>
 	<div class="more" style="display: none;">
 	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
 		
