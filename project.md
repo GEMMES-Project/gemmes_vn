@@ -141,17 +141,17 @@ function readmorepackageOne() {
 }
 function readmorepackageTwo() {
   var dotsTwo = document.getElementById("dots2");
-  var moreText = document.getElementById("more2");
-  var btnText = document.getElementById("myBtn2");
+  var moreTextTwo = document.getElementById("more2");
+  var btnTextTwo = document.getElementById("myBtn2");
 
   if (dotsTwo.style.display === "none") {
     dotsTwo.style.display = "inline";
-    btnText.innerHTML = "Read more about package n°2"; 
-    moreText.style.display = "none";
+    btnTextTwo.innerHTML = "Read more about package n°2"; 
+    moreTextTwo.style.display = "none";
   } else {
     dotsTwo.style.display = "none";
-    btnText.innerHTML = "Read less"; 
-    moreText.style.display = "inline";
+    btnTextTwo.innerHTML = "Read less"; 
+    moreTextTwo.style.display = "inline";
   }
 }
 
