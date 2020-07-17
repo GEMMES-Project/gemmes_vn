@@ -984,6 +984,58 @@ pre {
   color: #042265;
 }
 
+/* --- Lists of rectangles --- */
+
+.list-rectangles {
+  text-align: center;
+}
+
+@media only screen and (min-width: 1200px) {
+  .list-rectangles {
+    width: 150%;
+    margin-left: -25%;
+  }
+}
+
+
+.list-rectangles-item {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-rectangles-item:hover {
+  background: #fafafa;
+}
+
+.list-rectangles-item .item-img {
+  max-width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 40%;
+  border: 1px solid #777;
+}
+
+.list-rectangles-item .item-desc {
+  font-size: 16px;
+}
+
+.list-rectangles-item .item-links {
+  margin-top: 5px;
+}
+
+.list-rectangles-item .item-link {
+  margin:0 3px;
+  color: #314f96;
+  text-decoration: none !important;
+}
+
+.list-rectangles-item .item-link:hover {
+  color: #042265;
+}
 
 
 /* ----- Card section ----- */
