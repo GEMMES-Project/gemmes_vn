@@ -100,7 +100,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		{% include post_displayer_packageTwo.html %}
 	
 		<h3>Papers</h3>
-
+		<i>coming soon</i>
 	</div>	
 	<button  onclick="readMore('packageTwo')"  class="myBtn">Read more</button>  
 
@@ -122,7 +122,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		{% include post_displayer_packageOne.html %}
 	
 		<h3>Papers</h3>
-		
+		<i>coming soon</i>
 	</div>
 	<button  onclick="readMore('packageThree')"  class="myBtn">Read more</button>  
 
