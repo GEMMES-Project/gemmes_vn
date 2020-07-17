@@ -73,8 +73,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <div id="package1">
 	<h2>Research package n°1</h2>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots1"></span>
-<div id="more1">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots"></span>
+<div id="more">
 	<h3>Related subjects</h3>
 	{% include list-circles.html items=page.modules %} 
 
@@ -83,7 +83,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<h3>Latest news of the research package</h3>
 	{% include post_displayer.html %}
 </div>
-<button class="button" onclick="readmorepackageOne()" id="myBtn1">Read more about package n°1</button>  
+<button class="button" onclick="readmorepackageOne()" id="myBtn">Read more about package n°1</button>  
 
 
 
