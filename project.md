@@ -99,17 +99,19 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 
 
-<!-- <div id="package3"> -->
-	<!-- <h2>Research package n°3</h2> -->
-<!-- </div> -->
-<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span id="dots3"></span> -->
-<!-- <div id="more3"> -->
-	<!-- <h3>Related subjects</h3> -->
-	<!-- {% include list-circles.html items=page.modules %}  -->
+<div id="package3" class="card" data-package="packageThree">
+	<h2>Research package n°2</h2>
 
-<!-- Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p> -->
-	<!-- <button class="button" onclick="readmorepackage3()" id="myBtn3">Read more about package n°3</button>   -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
+<div class="more" style="display: none;">
+	<h3>Related subjects</h3>
+	{% include list-circles.html items=page.modules %} 
 
+Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</div></p>
+
+	<button  onclick="readMore('packageThree')"  class="myBtn">Read more</button>  
+
+</div>
 
 
 <script>
