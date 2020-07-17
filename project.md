@@ -41,7 +41,7 @@ modules:
 }
 
 
-.card{
+.card {
 background-color: #f5f5f5;
 }
 </style>
@@ -100,7 +100,7 @@ Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus ve
 
 
 <div id="package3" class="card" data-package="packageThree">
-	<h2>Research package n°2</h2>
+	<h2>Research package n°3</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.<span class="dots"></span>
 <div class="more" style="display: none;">
@@ -121,13 +121,13 @@ function readMore(package) {
     let btnText = document.querySelector(`.card[data-package="${package}"] .myBtn`);
 
     if (dots.style.display === "none") {
-        dots.style.display = "inline";
+        dots.style.display = "inline-block";
         btnText.textContent = "Read more";
         moreText.style.display = "none";
     } else {
         dots.style.display = "none";
         btnText.textContent = "Read less"; 
-        moreText.style.display = "inline";
+        moreText.style.display = "inline-block";
     }
 }
 </script>
