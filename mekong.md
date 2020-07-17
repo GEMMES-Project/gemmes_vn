@@ -9,17 +9,17 @@ packages:
   - name: Package-1
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/project/#package1
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Package-2
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/project/#package2
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Package-3
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/project/#package3
-    img: /assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
 ---
 
 ### Mekong
 
-{% include list-circles.html items=page.packages %}
+{% include list-rectangles.html items=page.packages %}
