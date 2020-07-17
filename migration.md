@@ -24,4 +24,3 @@ Aliquam mi lorem, sagittis non faucibus sed, tincidunt sit amet diam. Sed eget u
 </p>
 
 
-{% include packages.html %}
