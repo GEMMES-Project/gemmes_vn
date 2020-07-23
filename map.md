@@ -12,4 +12,4 @@ lang: en
 <a href="https://remosat.usth.edu.vn/ecomore2">Open in a new window?</a>
 
 <iframe ddd  src="https://remosat.usth.edu.vn/ecomore2"
-style="allowfullscreen:allowfullscreen; border:none; overflow:hidden; width:100%; height:800px; left:0px; zoom:0.1; display:block; allowfullscreen  "></iframe>
+style="allowfullscreen:allowfullscreen; border:none; overflow:hidden; width:100%; height:800px; left:0px; zoom:0.1; display:block; "></iframe>
