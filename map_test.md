@@ -23,3 +23,11 @@ lang: en
 style="border:none; overflow:hidden; width:100%; height:800px; left:0px; display:block; "></iframe>
 
 </div>
+
+<div id="Paris" class="tabcontent">
+<p>empty</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+<p>empty</p> 
+</div>
