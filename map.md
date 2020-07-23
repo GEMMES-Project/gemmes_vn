@@ -33,6 +33,6 @@ border:none;
 
 <a href="https://remosat.usth.edu.vn/ecomore2/VNM">Open in a new window?</a>
 <div class="conteneur">
-<iframe ddd  src="https://remosat.usth.edu.vn/ecomore2/VNM">
-style="border:none; overflow:hidden; width:100%; height:100%; left:0px; display:block; "</iframe>
+<iframe ddd  src="https://remosat.usth.edu.vn/ecomore2/VNM"
+style="border:none; overflow:hidden; width:100%; height:100%; left:0px; display:block;"></iframe>
 </div>
