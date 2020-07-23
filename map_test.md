@@ -7,13 +7,28 @@ i18n-link: map
 lang: en
 ---
 
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
 
-<div id="London" class="tabcontent">
+<style>
+
+.conteneur
+{
+position: relative;
+}
+
+.conteneur iframe
+{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+</style>
+
+
+
+
+<div class="conteneur">
 
 <h1 class="text-center"> How to use this map? </h1>
 
@@ -22,12 +37,4 @@ lang: en
 <iframe ddd  src="https://stla.shinyapps.io/3Dsliced/"
 style="border:none; overflow:hidden; width:100%; height:800px; left:0px; display:block; "></iframe>
 
-</div>
-
-<div id="Paris" class="tabcontent">
-<p>empty</p> 
-</div>
-
-<div id="Tokyo" class="tabcontent">
-<p>empty</p> 
 </div>
