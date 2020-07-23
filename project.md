@@ -58,7 +58,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-
+<!-- Passer chaque package en include -->
 <div id="package1" class="card" data-package="packageOne">
 	<h2>Research package n°1</h2>
 
