@@ -245,7 +245,7 @@ work-package_2_bis:
 	left: 50%; 
 	width: 700px; 
 	margin-left: -350px; 
-	padding: 50px 30px;
+	padding: 0px;
   	background: #002d43; 
 	opacity: 0.95; 
 	color: #FFF; 
