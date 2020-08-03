@@ -287,7 +287,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/ird.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/ird.png" />
 			</div>
 			<div class="institu_title" > Institut de recherche pour le développement (IRD) </div>
 			<div class="institu_desc" > 
@@ -309,7 +309,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img src="/assets/img/usth.png" />
+				<img src="https://gohu00.github.io/gemmes_vn/assets/img/usth.png" />
 			</div>
 			<div class="institu_title" > University of Science and Technology of Hanoi (USTH)  </div>
 			<div class="institu_desc" > 
@@ -331,7 +331,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/monroe.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/monroe.png" />
 			</div>
 			<div class="institu_title" > Ministry of Natural Resources and Environment (MoNRE) with the representative of Department of Climate Change (DCC)  </div>
 			<div class="institu_desc" > 
@@ -353,7 +353,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/ireeds.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/ireeds.png" />
 			</div>
 			<div class="institu_title" > Institute of Research in Economics, Environment and Data Science (IREEDS) </div>
 			<div class="institu_desc" > 
@@ -375,7 +375,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/neu.jpg" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/neu.jpg" />
 			</div>
 			<div class="institu_title" > National Economics University (NEU)  </div>
 			<div class="institu_desc" > 
@@ -397,7 +397,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/tse.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/tse.png" />
 			</div>
 			<div class="institu_title" > Toulouse School of Economics (TSE)   </div>
 			<div class="institu_desc" > 
@@ -419,7 +419,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/viet.jpg" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/viet.jpg" />
 			</div>
 			<div class="institu_title" > Vietnam Initiative for Energy Transition (VietSE)  </div>
 			<div class="institu_desc" > 
@@ -440,7 +440,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/mdri.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/mdri.png" />
 			</div>
 			<div class="institu_title" > Mekong Development Research Institute (MDRI)  </div>
 			<div class="institu_desc" > 
@@ -464,7 +464,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/ctu.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/ctu.png" />
 			</div>
 			<div class="institu_title" > Can Tho University (CTU)   </div>
 			<div class="institu_desc" > 
@@ -486,7 +486,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/cnrs.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/cnrs.png" />
 			</div>
 			<div class="institu_title" > Centre national de la recherché scientifique (CNRS)   </div>
 			<div class="institu_desc" > 
@@ -508,7 +508,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/ussh.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/ussh.png" />
 			</div>
 			<div class="institu_title" > University of Social Sciences and Humanities (USSH)   </div>
 			<div class="institu_desc" > 
@@ -529,7 +529,7 @@ work-package_2_bis:
 		<div class="app_top">
 			<div class="logo"> 
 				<span class="helper"></span>
-				<img  src="/assets/img/EFEO.png" />
+				<img  src="https://gohu00.github.io/gemmes_vn/assets/img/EFEO.png" />
 			</div>
 			<div class="institu_title" > Ecole Francaise D’extreme-orient (EFEO)    </div>
 			<div class="institu_desc" > 
