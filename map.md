@@ -16,7 +16,7 @@ lang: en
     width: 1800px;
     height: 200px;
     margin: 0 auto;
-    background-color: #edede9;
+    background-color: #ffffff;
 }
 
 iframe {
