@@ -224,13 +224,51 @@ work-package_2_bis:
 
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
 
-			/* Styling the Popup Window */
-			.popup-trigger { display: block; margin: 0 auto; padding: 5px; max-width: 260px; color: #250e62;
-    						 font-size: 16px; font-weight: 700; text-align: center; text-transform: uppercase; line-height: 24px; cursor: pointer; }
-		  	.popup {display: none; position: absolute; top: 10px; left: 50%; width: 700px; margin-left: -350px; padding: 50px 30px;
-  					background: #002d43; opacity: 0.95 ; color: #FFF; font-size: 19px; line-height: 30px; z-index: 9999;}
-  			.popup-mobile {position: relative; top: 0; left: 0; margin: 30px 0 0; width: 100%;}
-  		    .popup-btn-close {position: absolute; top: 8px; right: 14px; color: #4EBD79; font-size: 14px; font-weight: bold; text-transform: uppercase; cursor: pointer;}
+/* Styling the Popup Window */
+.popup-trigger { 
+	display: block; 
+	margin: 0 auto; 
+	padding: 5px; 
+	max-width: 260px; 
+	color: #250e62;
+    font-size: 16px; 
+	font-weight: 700; 
+	text-align: center; 
+	text-transform: uppercase; 
+	line-height: 24px; 
+	cursor: pointer; 
+	}
+.popup {
+	display: none; 
+	position: absolute; 
+	top: 200px; 
+	left: 50%; 
+	width: 700px; 
+	margin-left: -350px; 
+	padding: 50px 30px;
+  	background: #002d43; 
+	opacity: 0.95; 
+	color: #FFF; 
+	font-size: 19px; 
+	line-height: 30px; 
+	z-index: 9999;}
+.popup-mobile {
+	position: relative; 
+	top: 0; 
+	left: 0; 
+	margin: 30px 0 0; 
+	width: 100%;
+	}
+.popup-btn-close {
+	position: absolute; 
+	top: 8px; 
+	right: 14px; 
+	color: #4EBD79; 
+	font-size: 14px; 
+	font-weight: bold; 
+	text-transform: uppercase; 
+	cursor: pointer;
+	}
 
 
 
