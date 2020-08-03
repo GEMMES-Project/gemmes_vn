@@ -36,5 +36,4 @@ height: 100%;
 
 <iframe ddd  src="https://stla.shinyapps.io/3Dsliced/"
 style="border:none; overflow:hidden; width:100%; height:800px; left:0px; display:block; "></iframe>
-
 </div>
