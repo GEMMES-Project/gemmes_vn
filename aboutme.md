@@ -240,7 +240,7 @@ work-package_2_bis:
 	}
 .popup {
 	display: none; 
-	position: relative; 
+	position: absolute; 
 	top: 200px; 
 	left: 50%; 
 	width: 700px; 
