@@ -14,6 +14,12 @@
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
+	  {% if item.pop %}
+		{{ item.pop}}
+      {% endif %}
+	  {% if item.test %}
+        <h4 {{ item.test }}</h4>
+      {% endif %}
       <div class="item-links">
         {% if item.website %}
           <a class="item-link" href="{{ item.website }}" title="Website">
