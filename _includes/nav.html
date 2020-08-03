@@ -28,9 +28,13 @@
 				  <a class="dropdown-item" href="{{ page.base-url }}health/">{{ site.t['health'][page.lang] }}</a>
             </div>
           </li>
-          <li class="nav-item">
-			<a class="nav-link" href="{{ page.base-url }}map/">{{ site.t['map'][page.lang] }}</a>
-		  </li>
+		  <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t['map'][page.lang]}}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="{{ page.base-url }}ecomore/">{{ site.t['ecomore'][page.lang] }}</a>
+				  <a class="dropdown-item" href="{{ page.base-url }}gemmes/">{{ site.t['gemmes'][page.lang] }}</a>
+            </div>
+          </li>
 		  <li class="nav-item">
 			<a class="nav-link" href="{{ page.base-url }}news/">{{ site.t['news'][page.lang] }}</a>
 		  </li>
