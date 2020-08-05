@@ -243,8 +243,7 @@ work-package_2_bis:
 	position: fixed; 
 	top: 50%; 
 	left: 50%; 
-	width: 700px; 
-	margin-left: -350px; 
+	width: 700px;  
 	padding: 50px 30px;
   	background: #002d43; 
 	opacity: 0.95; 
