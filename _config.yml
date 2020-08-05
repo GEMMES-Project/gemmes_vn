@@ -297,3 +297,45 @@ plugins:
 # languages
 # default langages : "ko" 
 languages: ["en", "fr", "vn"]
+
+
+
+
+prose:
+  rooturl: ''
+  siteurl: 'https://gohu00.github.io/gemmes_vn/'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          value: "Post title"
+      - name: "subtitle"
+        field:
+          label: "subtitle"
+          element: "text"
+          value: "Post subtitle"
+      - name: "cover-img"
+        field:
+          label: "cover-img"
+          element: "text"
+          placeholder: "ex: /assets/img/path.jpg"
+      - name: "i18n-link"
+        field:
+          label: "i18n-link"
+          element: "text"
+          placeholder: "Tag for translation"
+      - name: "tags"
+        field:
+          label: "tags"
+          element: "text"
+          placeholder: "Enter tags"
+      
+
