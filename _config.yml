@@ -338,9 +338,9 @@ prose:
           element: "text"
           placeholder: "Enter tags"
     fr/_posts:
-            - name: "layout"
-              field:
-              label: "layout"
-              element: "text"
-              value: "post"
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "post"
 
