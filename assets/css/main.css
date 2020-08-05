@@ -1062,10 +1062,11 @@ a.project-link:hover {
     margin: 10px;
 }
 .project-card p.text-muted {
-    /*padding: 0px;*/
+    padding: 0px;
     margin-top: 10px;
     margin-bottom: 5px;
     min-height: 5em;
+	
 }
 
 .seperator {
