@@ -312,7 +312,7 @@ prose:
           label: "layout"
           element: "text"
           value: "post"
-      - name: "title"
+      - name: "title meta"
         field:
           label: "title"
           element: "text"
