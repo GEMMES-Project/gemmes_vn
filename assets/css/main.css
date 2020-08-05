@@ -1113,33 +1113,36 @@ a.project-link:hover {
 /* ----- Lang button in posts ----- */
 .en {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     color: #ffffff;
     background-color: #250e62;
-    border-radius: 6px;
+    border-radius: 3px;
     outline: none;
+	text-transform: uppercase;
 }
 
 .fr {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     color: #ffffff;
     background-color: #250e62;
-    border-radius: 6px;
+    border-radius: 3px;
     outline: none;
+	text-transform: uppercase;
 }
 
 .vn {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     color: #ffffff;
     background-color: #250e62;
-    border-radius: 6px;
+    border-radius: 3px;
     outline: none;
+	text-transform: uppercase;
 }
