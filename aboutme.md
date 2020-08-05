@@ -240,8 +240,8 @@ work-package_2_bis:
 	}
 .popup {
 	display: none; 
-	position: absolute; 
-	top: 200px; 
+	position: fixed; 
+	top: 50%; 
 	left: 50%; 
 	width: 700px; 
 	margin-left: -350px; 
@@ -251,7 +251,9 @@ work-package_2_bis:
 	color: #FFF; 
 	font-size: 19px; 
 	line-height: 30px; 
-	z-index: 9999;}
+	z-index: 9999;
+	transform: translate(-50%, -50%);
+	}
 .popup-mobile {
 	position: relative; 
 	top: 0; 
