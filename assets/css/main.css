@@ -1109,3 +1109,15 @@ a.project-link:hover {
     padding-right: 15px;
     box-shadow: 1px 1px 10px #bbb;
 }
+
+/* ----- Lang button in posts ----- */
+.en {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #7aa8b7;
+    border-radius: 6px;
+    outline: none;
+}
