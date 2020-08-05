@@ -11,7 +11,7 @@ modules:
   - name: Mekong
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/mekong/
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/sunset.jpg
   - name: Health
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
     url: https://gohu00.github.io/gemmes_vn/health/
