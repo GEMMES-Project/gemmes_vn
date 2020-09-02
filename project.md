@@ -136,7 +136,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<button  onclick="readMore('packageTwo')" class="myBtn">Read more</button>  
 
 
-<div id="package3" class="card" data-package="packageOne">
+<div id="package3" class="card" data-package="packageThree">
 	<h2 class="wp">Work package n°3  </h2>
 	<h3 class="wptitle">SOCIO</h3>
 
@@ -156,12 +156,12 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
-	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
+	<button  onclick="readMore('packageThree')" class="myBtn">Read more</button>  
 
 
 
 
-<div id="package5" class="card" data-package="packageOne">
+<div id="package5" class="card" data-package="packageFour">
 	<h2 class="wp">Work package n°5  </h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
 
@@ -183,7 +183,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
-	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
+	<button  onclick="readMore('packageFour')" class="myBtn">Read more</button>  
 
 
 
