@@ -51,6 +51,12 @@ modules:
 	text-justify: inter-word;
 	font-style: italic;
 }
+
+.longtext {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
 .wp{
 	color: #250e62;
 }
@@ -59,6 +65,7 @@ modules:
 	text-align: center;
 
 }
+
 </style>
 
 ### Project
@@ -82,10 +89,10 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<div class="more" style="display: none;">
 	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
 
-
-		<p>We first build a stock-flow coherent macroeconomic model of the Vietnames economy in two steps: a five institutional sectors model (households, firms, financial sector, government and the rest of the world), which we estimate and validate based on existing data and use to assess the impacts of extreme climate events ; a disaggregation of the productive sector allowing us to integrate the impacts and adaptation strategies at different sectoral and regional levels, which we use to develop prospective scenarios to 2050.  It is the first stock-flow coherent model of the Vietnamese economy. </p>
-		<p>Government institutions, research institutes and universities in Vietnam are using different types of macroeconomic models for modelling the Vietnamese economy and forecasting as well as policy analysis: structural macro-econometric models, time series-based models and input-output models. Computable General Equilibrium (CGE) models constitute the main existing accounting-based macroeconomic modelling approach in Vietnam. The Social Accounting Matrix (SAM) used in these CGE models combine the Input-Output (I-O) table, the Vietnam Households Living Standard Survey (VHLSS) and other macroeconomic data from the government as well as international sources such as the World Bank and the International Monetary Fund. However, the financial sector is not modelled there mainly due to the lack of availability of financial data, but also to the more fundamental hypothesis that the structure of the balance sheet of agents do not matter for the overall dynamics of the system. We consider on the contrary that balance sheets matter in the long run as well, and they are key to highlight adaptation financing strategies. </p>
-		<p>This page will detail the structure of the different versions of the macroeconomic model used in the GEMMES Vietnam project. It will explain the way macroeconomic data have been gathered, transformed in line with the economic accounts and how dynamic behaviors of  agents have been estimated. It will show how the model is able to reproduce past time series, and how it forecast future dynamics of the Vietnamese economy. Finally it will present the results in an interactive way for the incorporation of sectoral and regional impact and adaptation assessments.  </p>		
+			
+		<p class="longtext">We first build a stock-flow coherent macroeconomic model of the Vietnames economy in two steps: a five institutional sectors model (households, firms, financial sector, government and the rest of the world), which we estimate and validate based on existing data and use to assess the impacts of extreme climate events ; a disaggregation of the productive sector allowing us to integrate the impacts and adaptation strategies at different sectoral and regional levels, which we use to develop prospective scenarios to 2050.  It is the first stock-flow coherent model of the Vietnamese economy. </p>
+		<p class="longtext">Government institutions, research institutes and universities in Vietnam are using different types of macroeconomic models for modelling the Vietnamese economy and forecasting as well as policy analysis: structural macro-econometric models, time series-based models and input-output models. Computable General Equilibrium (CGE) models constitute the main existing accounting-based macroeconomic modelling approach in Vietnam. The Social Accounting Matrix (SAM) used in these CGE models combine the Input-Output (I-O) table, the Vietnam Households Living Standard Survey (VHLSS) and other macroeconomic data from the government as well as international sources such as the World Bank and the International Monetary Fund. However, the financial sector is not modelled there mainly due to the lack of availability of financial data, but also to the more fundamental hypothesis that the structure of the balance sheet of agents do not matter for the overall dynamics of the system. We consider on the contrary that balance sheets matter in the long run as well, and they are key to highlight adaptation financing strategies. </p>
+		<p class="longtext">This page will detail the structure of the different versions of the macroeconomic model used in the GEMMES Vietnam project. It will explain the way macroeconomic data have been gathered, transformed in line with the economic accounts and how dynamic behaviors of  agents have been estimated. It will show how the model is able to reproduce past time series, and how it forecast future dynamics of the Vietnamese economy. Finally it will present the results in an interactive way for the incorporation of sectoral and regional impact and adaptation assessments.  </p>		
 		
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
