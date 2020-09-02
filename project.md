@@ -60,7 +60,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 <!-- Passer chaque package en include -->
 <div id="package1" class="card" data-package="packageOne">
-	<h2>Work package n°5 - Macroeconomic assessment of climate damages and adaptation strategies</h2>
+	<h2>Work package n°5 </h2>
+	<h2>Macroeconomic assessment of climate damages and adaptation strategies</h2>
 
 	<i>This central macroeconomic model gives an exhaustive view of the socio-economic impacts of climate change in Vietnam and adaptation strategy, by aggregating the different sectoral or region-specific analysis as well as the climate projections of other packages. We present interactive versions of this first stock-flow coherent model of the Vietnamese economy coupled with climate impacts and adaptation prospective scenarios.></i><span class="dots"></span>
 	<div class="more" style="display: none;">
