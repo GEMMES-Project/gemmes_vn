@@ -89,6 +89,37 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 <!-- Passer chaque package en include -->
+
+<div id="package1" class="card" data-package="packageOne">
+	<h2 class="wp">Work package n°1  </h2>
+	<h3 class="wptitle">CLIMATO</h3>
+
+	<p class="chapo">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions.</p><span class="dots"></span>
+	<div class="more" style="display: none;">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+
+			
+		<p class="longtext">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions. </p>
+		<p class="longtext">In order to provide the probabilistic set of spatialized temperature, precipitation, extreme events scenarios, ... over Vietnam for the 21st century, the method applied will follow the study of Hsiang et al. (2017), by using a two-level technique. First, probabilistic global temperature projections will be obtained from global climate models (GCMs) forced by the different Representative Concentration Pathways (RCP). These projections are used to weight the spatialized results of the temperature and precipitation projections of a set of GCMs from the Coupled Model Intercomparison Project Phase 5 (CMIP5). This technique, called pattern scaling, makes it possible to obtain "projection equivalents" even in portions of the global projections that are not represented by the existing GCMs. The recently available results of the CMIP6 inter comparison project will also be used to update climate projections. Spatially detailed probability distributions of temperature, precipitation, and other climate variables of interest are obtained using this method. Beside, WP1 may also use the 6-hourly to monthly outputs of the CORDEX network (Coordinated Regional Downscaling Experiment) for comparing with the results from the probabilistic method. From the obtained daily data (such as rainfall, maximum and minimum temperatures), the Climate Extreme Indices will be estimated for assessing extreme events. The temporal resolution required for assessing impacts is often less than one month so that the availability of daily estimates (a priori in line with observed historical variabilities) will enable better assessment the economic impact on agriculture, for example.</p>		
+		
+		<h3>Related subjects</h3>
+		{% include list-circles.html items=page.modules %} 
+		
+		<h3>Latest news of the research package</h3>
+		{% include post_displayer_packageOne.html %}
+	
+		<h3>Papers</h3>
+		<i>coming soon</i>
+	</div>
+	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
+
+
+
+
+
+
+
+
 <div id="package5" class="card" data-package="packageOne">
 	<h2 class="wp">Work package n°5  </h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
@@ -114,59 +145,6 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
 
-
-
-
-<div id="package2" class="card" data-package="packageTwo">
-	<h2>Research package n°2</h2>
-
-	<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.</i><span class="dots"></span>
-	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis mauris, vel aliquam tellus. Vestibulum tincidunt iaculis rhoncus. Cras nibh leo, ultricies id enim id, viverra sagittis ipsum. Vestibulum facilisis elit felis. Praesent purus nisi, euismod eu commodo quis, venenatis in arcu. Mauris dictum nisi nisi, quis efficitur libero egestas nec. Nullam non eros ut metus lacinia viverra et in nisl. Sed eros magna, blandit nec ultricies sit amet, sollicitudin auctor ex. </p>
-		<p>Mauris dictum nisi odio, id suscipit leo dignissim ut. In dapibus eu orci et mollis. Curabitur eget dui et sem euismod pellentesque. Donec semper rutrum nulla, eget fermentum ex fermentum quis. Nam sodales, tellus sed pellentesque dictum, orci dui tristique nisi, eu posuere felis dui a enim. Ut a vulputate quam. Cras consequat elit a nunc pretium lacinia. Aliquam malesuada, quam quis tristique porta, ante ligula luctus odio, id semper erat augue vitae velit. In euismod sagittis lacus in viverra. Etiam placerat auctor odio vitae malesuada. Vestibulum eleifend diam at urna iaculis congue. Maecenas ac ipsum non tortor lacinia dictum nec nec magna. Curabitur nunc magna, euismod non odio eu, consectetur aliquet mauris. </p>
-		<p>Nulla rhoncus rhoncus eros, eu dignissim tortor feugiat vel. Nam elementum pellentesque lectus nec ultrices. Integer semper hendrerit neque, sit amet elementum mi laoreet at. Mauris eleifend felis volutpat placerat efficitur. Nunc congue, dui eu rhoncus euismod, neque massa aliquet nulla, non scelerisque lorem enim sit amet urna. Sed lobortis tincidunt enim vitae pharetra. Sed nec convallis sapien. Nulla erat mauris, gravida a porttitor ac, cursus nec elit.  </p>		
-
-		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-
-
-		<h3>Latest news of the research package</h3>
-		{% include post_displayer_packageTwo.html %}
-	
-		<h3>Papers</h3>
-		<i>coming soon</i>
-	</div>	
-	<button  onclick="readMore('packageTwo')"  class="myBtn">Read more</button>  
-
-
-
-
-
-<div id="package3" class="card" data-package="packageThree">
-	<h2>Research package n°3</h2>
-
-	<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scelerisque enim ligula venenatis dolor.</i><span class="dots"></span>
-	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
-		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis mauris, vel aliquam tellus. Vestibulum tincidunt iaculis rhoncus. Cras nibh leo, ultricies id enim id, viverra sagittis ipsum. Vestibulum facilisis elit felis. Praesent purus nisi, euismod eu commodo quis, venenatis in arcu. Mauris dictum nisi nisi, quis efficitur libero egestas nec. Nullam non eros ut metus lacinia viverra et in nisl. Sed eros magna, blandit nec ultricies sit amet, sollicitudin auctor ex. </p>
-		<p>Mauris dictum nisi odio, id suscipit leo dignissim ut. In dapibus eu orci et mollis. Curabitur eget dui et sem euismod pellentesque. Donec semper rutrum nulla, eget fermentum ex fermentum quis. Nam sodales, tellus sed pellentesque dictum, orci dui tristique nisi, eu posuere felis dui a enim. Ut a vulputate quam. Cras consequat elit a nunc pretium lacinia. Aliquam malesuada, quam quis tristique porta, ante ligula luctus odio, id semper erat augue vitae velit. In euismod sagittis lacus in viverra. Etiam placerat auctor odio vitae malesuada. Vestibulum eleifend diam at urna iaculis congue. Maecenas ac ipsum non tortor lacinia dictum nec nec magna. Curabitur nunc magna, euismod non odio eu, consectetur aliquet mauris. </p>
-		<p>Nulla rhoncus rhoncus eros, eu dignissim tortor feugiat vel. Nam elementum pellentesque lectus nec ultrices. Integer semper hendrerit neque, sit amet elementum mi laoreet at. Mauris eleifend felis volutpat placerat efficitur. Nunc congue, dui eu rhoncus euismod, neque massa aliquet nulla, non scelerisque lorem enim sit amet urna. Sed lobortis tincidunt enim vitae pharetra. Sed nec convallis sapien. Nulla erat mauris, gravida a porttitor ac, cursus nec elit.  </p>		
-
-		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-
-
-		<h3>Latest news of the research package</h3>
-		{% include post_displayer_packageOne.html %}
-	
-		<h3>Papers</h3>
-		<i>coming soon</i>
-	</div>
-	<button  onclick="readMore('packageThree')"  class="myBtn">Read more</button>  
 
 
 
