@@ -113,9 +113,50 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	</div>
 	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
+<div id="package2" class="card" data-package="packageOne">
+	<h2 class="wp">Work package n°2  </h2>
+	<h3 class="wptitle">ECO</h3>
+
+	<p class="chapo">WP2 focuses on an empirical analysis of past economic impacts of climate in Vietnam. This will allow us to evaluate response functions of specific impacts (and adaptation strategies) due to variations in temperature and precipitation (as well as other environmental variables, such as extreme events or sea-level rise) on major economic sectors of the Vietnamese economy such as agriculture (among which rice production, aquaculture, …), energy (both demand and supply), the informal sector, as well as the impact of extreme events on the stock of capital (infrastructure). In coordination with WP1, this package will also have the goal to project these response functions into the future, considering the relevant uncertainties in future climate. </p><span class="dots"></span>
+	<div class="more" style="display: none;">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+
+			
+		<p class="longtext">Each one of the economic criteria selected as relevant for the study of the impacts of climate change in Vietnam can be evaluated in this way as long as the relevant data are available. A first step will be to take stock of the existing studies on the climate impacts on economic sectors in Vietnam through specific meta-analysis. The scientific standards of existing studies (spatial and social representation of the population surveyed, length of the time series, etc.) will be assessed in order to select some of the best research to include as inputs of the project. We then plan an extensive use of Vietnam Household Living Standard Survey and the Vietnam Access to Resources Household Survey, Enterprise Surveys, Agricultural Censuses, … with the adjunction of sector specific databases coming from public Vietnamese institutions to better illustrate adaptation strategies. In special cases, we also intend to use night-time lights as a proxy for GDP impacts of extreme events as well as the informal sector. Econometric methods will vary depending on the sector studied. But they all amount to build probability distributions of the specific impact, conditioned to the values of the climate variables. They can then be used to project spatial-detailed probabilistic scenarios of climate impacts given by the CLIMATO package, so that these empirical studies already give a thorough sectoral assessment of future climate impacts and adaptation strategies. These simulations will also serve as exogenous inputs to the macroeconomic model built in WP5. </p>
+		
+		<h3>Related subjects</h3>
+		{% include list-circles.html items=page.modules %} 
+		
+		<h3>Latest news of the research package</h3>
+		{% include post_displayer_packageOne.html %}
+	
+		<h3>Papers</h3>
+		<i>coming soon</i>
+	</div>
+	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
 
+<div id="package3" class="card" data-package="packageOne">
+	<h2 class="wp">Work package n°3  </h2>
+	<h3 class="wptitle">SOCIO</h3>
 
+	<p class="chapo">The aims of SOCIO is to evaluate the effects of climate change and natural disasters on social economics aspects such as: labor productivity, migration, human capital. This work package also examines causal impacts of climate change and extreme weather on nutrition and public health.  </p><span class="dots"></span>
+	<div class="more" style="display: none;">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+
+			
+		<p class="longtext">SOCIO provides comprehensive assessments to the effects of climate change on major social aspects of the Vietnamese society such as inequalities, migration, labor productivity, health, demography, nutrition impacts. These assessments are scientific rigor. SOCIO’s researchers employ cutting edge applied econometrics approach and large sample surveys and administrative data to provide robust and unbiased empirical evidences. Structural approach is used in some papers to better understand not only the effects but also mechanisms. This is important to identify the solutions to tackle the issues. In addition, spatial dynamic models are also used to examine regional divergences. Large sample surveys such as labor force survey, population change survey, Vietnam Household Living Standard Survey, Censuses 1999, 2009 allow us to provide insightful empirical analyses that previous studies were not able to capture. Firm-level administrate data support us analyzing firm-behaviors to adjust labor structure when facing with changes in temperature and precipitations. More importantly, SOCIO not only provides impact evaluation evidences but also provides scenarios-based projections. SOCIO also develops policy recommendation to adapt with climate change.</p>
+		
+		<h3>Related subjects</h3>
+		{% include list-circles.html items=page.modules %} 
+		
+		<h3>Latest news of the research package</h3>
+		{% include post_displayer_packageOne.html %}
+	
+		<h3>Papers</h3>
+		<i>coming soon</i>
+	</div>
+	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
 
 
