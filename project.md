@@ -28,7 +28,8 @@ modules:
 #more {display: none;}
 
 .myBtn {
-  background-color: #da291c;
+  #background-color: #da291c;
+  background-color: #FFFFFF;
   border: none;
   color: white;
   padding: 5px 3px;
