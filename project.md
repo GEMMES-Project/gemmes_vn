@@ -50,6 +50,8 @@ modules:
 	text-align: justify;
 	text-justify: inter-word;
 	font-style: italic;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 
 .longtext {
