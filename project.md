@@ -28,8 +28,7 @@ modules:
 #more {display: none;}
 
 .myBtn {
-  #background-color: #da291c;
-  background-color: #FFFFFF;
+  background-color: #da291c;
   border: none;
   color: white;
   padding: 5px 3px;
@@ -43,7 +42,8 @@ modules:
 
 
 .card {
-background-color: #edede9;
+	#background-color: #edede9;
+	background-color: #FFFFFF;
 }
 
 .chapo {
