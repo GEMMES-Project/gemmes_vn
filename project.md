@@ -113,7 +113,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	</div>
 	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
-<div id="package2" class="card" data-package="packageOne">
+<div id="package2" class="card" data-package="packageTwo">
 	<h2 class="wp">Work package n°2  </h2>
 	<h3 class="wptitle">ECO</h3>
 
@@ -133,7 +133,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
-	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
+	<button  onclick="readMore('packageTwo')" class="myBtn">Read more</button>  
 
 
 <div id="package3" class="card" data-package="packageOne">
