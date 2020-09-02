@@ -65,7 +65,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<i>This central macroeconomic model gives an exhaustive view of the socio-economic impacts of climate change in Vietnam and adaptation strategy, by aggregating the different sectoral or region-specific analysis as well as the climate projections of other packages. We present interactive versions of this first stock-flow coherent model of the Vietnamese economy coupled with climate impacts and adaptation prospective scenarios.></i><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/path.jpg">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
 
 
 		<p>We first build a stock-flow coherent macroeconomic model of the Vietnames economy in two steps: a five institutional sectors model (households, firms, financial sector, government and the rest of the world), which we estimate and validate based on existing data and use to assess the impacts of extreme climate events ; a disaggregation of the productive sector allowing us to integrate the impacts and adaptation strategies at different sectoral and regional levels, which we use to develop prospective scenarios to 2050.  It is the first stock-flow coherent model of the Vietnamese economy. </p>
