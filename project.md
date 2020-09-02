@@ -46,7 +46,8 @@ background-color: #edede9;
 }
 
 .chapo {
-	text-align: center;
+	text-align: justify;
+	text-justify: inter-word;
 	font-style: italic;
 }
 </style>
