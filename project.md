@@ -55,6 +55,8 @@ modules:
 .longtext {
 	text-align: justify;
 	text-justify: inter-word;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 
 .wp{
