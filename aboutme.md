@@ -7,7 +7,7 @@ i18n-link: aboutme
 lang: en
 work-package_1:
   - name: Thanh NGO-DUC 
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Thanh_ngo-duc.jpg
     desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_1_bis:
@@ -22,7 +22,7 @@ work-package_1_bis:
     desc: Web master <br> Hanoi, Vietnam
 work-package_2:
   - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/picture-Hung.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
     url: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
