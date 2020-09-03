@@ -113,7 +113,7 @@ work-package_6_bis:
     desc: Anthropologist <br> tropical agronomist, French School of Asian Studies (EFEO).
   - name: Frédéric Thomas
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Historian of sciences and technic, French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
+    desc: Historian of sciences and technic <br> French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
   - name: Phan Thị Kim Tâm
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Master student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
