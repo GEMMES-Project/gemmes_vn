@@ -106,6 +106,9 @@ work-package_6_bis:
   - name: Phan Phương Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+  - name: Phan Phương Anh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
 ---
 
 
