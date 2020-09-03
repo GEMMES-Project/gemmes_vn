@@ -102,28 +102,6 @@ work-package_6:
 	url: http://github.com/xxxxx
 	twitter: http://github.com/xxxxx
 	pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Emmanuel Pannier, anthropologist, is a research fellow at French National Research Institute for Sustainable Development (IRD), in a Research Unit called “local heritage, environment and globalization” (IRD & National Museum of Natural History). He is also associate researcher at Center for Southeast Asian Studies (EHESS-CNRS-INALCO). Working in Vietnam since 2005, he is now hosted by the University of Social Sciences and Humanities of Hanoi. His research areas are mainly in the field of “economic anthropology” and “anthropology of development” and deal with non-commercial flows (ceremonial exchanges, gift-giving, debts, mutual aid, tontines, etc.), networks of personal relationships, social regulation regimes and social change among rural populations. He is currently working on local responses to climate and environmental change in Vietnam in the framework of the GEMMES VN project (AFD).<span class="popup-btn-close">close</span></div>
-work-package_6_bis:
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Paris is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
 ---
 
 
@@ -343,11 +321,6 @@ work-package_6_bis:
 	<h3> Work package n°6 - Package leader </h3>
 </div>
 	{% include list-circles.html items=page.work-package_6 %}
-
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_6_bis %}
 </div>
 
 <h1>  Institutional partners </h1>
