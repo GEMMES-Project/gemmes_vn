@@ -12,13 +12,13 @@ work-package_1:
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_1_bis:
   - name: Quan TRAN-ANH 
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/quan_tran_ahn.jpg
     desc: Post-Doctor <br> Hanoi, Vietnam
   - name: Tuyet Nguyen-Thi 
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/tuyet_nguyen_thi.jpg
     desc: Research Assistant <br> Hanoi, Vietnam
   - name: Hoang-Vinh BACH
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/hoang_vinh_bach.jpg
     desc: Web master <br> Hanoi, Vietnam
 work-package_2:
   - name: Manh-Hung Nguyen
