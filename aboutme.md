@@ -123,11 +123,7 @@ work-package_6_bis:
     github: http://github.com/xxxxx
     url: http://github.com/xxxxxx
     twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>		
-
-
-
-
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
 ---
 
 
