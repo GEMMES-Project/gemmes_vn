@@ -161,7 +161,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 
-<div id="package5" class="card" data-package="packageFour">
+<div id="package5" class="card" data-package="packageFive">
 	<h2 class="wp">Work package n°5  </h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
 
@@ -183,9 +183,47 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
-	<button  onclick="readMore('packageFour')" class="myBtn">Read more</button>  
+	<button  onclick="readMore('packageFive')" class="myBtn">Read more</button>  
 
+<div id="package6" class="card" data-package="packageSix">
+	<h2 class="wp">Work package n°6 - ADAPTO  </h2>
+	<h3 class="wptitle">A qualitative approach to local responses to climate change in Vietnam</h3>
 
+	<p class="chapo"> « Adapto » is a social sciences package that address the question of local responses to climate change through a qualitative approach. We study the social, political, institutional and spatial issues that shape adaptation strategies to environmental hazards and climate change at the local level.  </p><span class="dots"></span>
+	<div class="more" style="display: none;">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+
+			
+		<p class="longtext">That study includes three component: </p>
+		<ol>
+			<li>A study of perceptions of environmental change and of the role of social networks to cope with environmental hazards and to adapt to climate change</li>
+			<li>A study of the effective modalities of the implementation of adaptation policies</li>
+			<li>A seminar of environmental history of Vietnam</li>
+		</ol> 
+		<p class="longtext">Our hypothesis is that these "factors" (perceptions, social capital, policies & institutional framework and past experience), still under-studied through a qualitative approach in Vietnam, strongly determine local responses and adaptations to climate change.  </p>
+		<p class="longtext">Our approach is based in fieldwork, i.e. micro-localized and in-depth qualitative surveys. Classical tools from qualitative method, such as immersion in local life, direct observation of practices, open interviews, informal talks, and local written sources are used and combined to collect data and generate analysis. A set of localized case studies allow us to gather tangible information about people practices and discourses.   </p>
+		<p class="longtext">Our approach is based in fieldwork, i.e. micro-localized and in-depth qualitative surveys. Classical tools from qualitative method, such as immersion in local life, direct observation of practices, open interviews, informal talks, and local written sources are used and combined to collect data and generate analysis. A set of localized case studies allow us to gather tangible information about people practices and discourses.   </p>
+		<ul>
+			<li>Trace its course;</li>
+			<li>Study how the event was perceived and experienced by local actors;</li>
+			<li>Understand their effects on agrarian (or economic) systems;</li>
+			<li>Address the responses and coping strategies.</li>
+		</ul>  
+		<p class="longtext">From the empirical diversity of situations and practices we will built an inductive typology of responses and adaptations. We will then identify the main factors that influence the type of response and analyze the importance of perceptions, social networks and institutional aspects within all that factors. </p>
+		<p class="longtext">In addition to this conjunctural perspective (by given climatic events), we will broaden the focus to take into account the structural transformations of socio-ecosystems and the way populations apprehend them. The objective of this two-level approach (short term/long term) is to place specific events and response within a long period of time in order to determine, in fine, to what extent local adaptation strategies are completely new, updates of past experiences, or a hybrid between the two. </p>
+		<p class="longtext">Concerning the study of climate change adaptation policies and environmental governance, the approach is based on a policy analysis and monitoring. It articulates different scales: the discourse at the national level, the way in which this translates into regional actions and relations with donors at this level, and finally the localized effects (neighborhood scale) of these actions.  To do this, we propose to monitor adaptation projects financed by international donors (including the AFD) in order to report on the types of narratives mobilized, the trade-offs made and the tensions that may emerge in the process of elaborating public action.</p>
+
+		
+		<h3>Related subjects</h3>
+		{% include list-circles.html items=page.modules %} 
+		
+		<h3>Latest news of the research package</h3>
+		{% include post_displayer_packageOne.html %}
+	
+		<h3>Papers</h3>
+		<i>coming soon</i>
+	</div>
+	<button  onclick="readMore('packageSix')" class="myBtn">Read more</button>  
 
 
 
