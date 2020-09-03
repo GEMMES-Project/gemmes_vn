@@ -17,7 +17,7 @@ work-package_1_bis:
   - name: Tuyet Nguyen-Thi 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Research Assistant <br> Hanoi, Vietnam
-  - name: Hanoi, Vietnam
+  - name: Hoang-Vinh BACH
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Web master <br> Hanoi, Vietnam
 work-package_2:
@@ -39,6 +39,24 @@ work-package_2_bis:
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     url: https://sites.google.com/view/toannguyen/research
+work-package_3:
+  - name: Nguyen Viet Cuong
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Researcher <br> Mekong Development Research Institute and National Economics University
+    url: https://ideas.repec.org/e/png36.html
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
+work-package_3_bis:
+  - name: Toan Nguyen
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Postdoctoral Research Fellow <br> The University of Queensland
+    url: https://sites.google.com/view/toannguyen/research
+  - name: Manh-Hung Nguyen
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
+    url: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
+  - name: Tuan Nguyen
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
 work-package_6:
   - name: Emmanuel Pannier
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
@@ -285,6 +303,16 @@ work-package_6_bis:
 <div class="panel">
 	<h3> Other members </h3>
 	{% include list-circles.html items=page.work-package_2_bis %}
+</div>
+<div class="about-ttitle">
+	<h3> Work package n°3 - Package leaders </h3>
+</div>
+	{% include list-circles.html items=page.work-package_3 %}
+
+<button class="accordion">See all members</button>
+<div class="panel">
+	<h3> Other members </h3>
+	{% include list-circles.html items=page.work-package_3_bis %}
 </div>
 <div class="about-ttitle">
 	<h3> Work package n°6 - Package leader </h3>
