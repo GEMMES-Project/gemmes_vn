@@ -91,8 +91,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 <!-- Passer chaque package en include -->
 
 <div id="package1" class="card" data-package="packageOne">
-	<h2 class="wp">Work package n°1  </h2>
-	<h3 class="wptitle">CLIMATO</h3>
+	<h2 class="wp">Work package n°1 - CLIMATO </h2>
+
 
 	<p class="chapo">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
@@ -114,8 +114,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 	<button  onclick="readMore('packageOne')" class="myBtn">Read more</button>  
 
 <div id="package2" class="card" data-package="packageTwo">
-	<h2 class="wp">Work package n°2  </h2>
-	<h3 class="wptitle">ECO</h3>
+	<h2 class="wp">Work package n°2 - ECO </h2>
 
 	<p class="chapo">WP2 focuses on an empirical analysis of past economic impacts of climate in Vietnam. This will allow us to evaluate response functions of specific impacts (and adaptation strategies) due to variations in temperature and precipitation (as well as other environmental variables, such as extreme events or sea-level rise) on major economic sectors of the Vietnamese economy such as agriculture (among which rice production, aquaculture, …), energy (both demand and supply), the informal sector, as well as the impact of extreme events on the stock of capital (infrastructure). In coordination with WP1, this package will also have the goal to project these response functions into the future, considering the relevant uncertainties in future climate. </p><span class="dots"></span>
 	<div class="more" style="display: none;">
@@ -137,8 +136,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 <div id="package3" class="card" data-package="packageThree">
-	<h2 class="wp">Work package n°3  </h2>
-	<h3 class="wptitle">SOCIO</h3>
+	<h2 class="wp">Work package n°3 - SOCIO  </h2>
 
 	<p class="chapo">The aims of SOCIO is to evaluate the effects of climate change and natural disasters on social economics aspects such as: labor productivity, migration, human capital. This work package also examines causal impacts of climate change and extreme weather on nutrition and public health.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
@@ -162,7 +160,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 
 <div id="package5" class="card" data-package="packageFive">
-	<h2 class="wp">Work package n°5  </h2>
+	<h2 class="wp">Work package n°5 - MACRO?</h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
 
 	<p class="chapo">This central macroeconomic model gives an exhaustive view of the socio-economic impacts of climate change in Vietnam and adaptation strategy, by aggregating the different sectoral or region-specific analysis as well as the climate projections of other packages. We present interactive versions of this first stock-flow coherent model of the Vietnamese economy coupled with climate impacts and adaptation prospective scenarios.</p><span class="dots"></span>
