@@ -101,28 +101,28 @@ work-package_6:
 work-package_6_bis:
   - name: Phan Phương Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+    desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Vũ Toàn Cảnh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Development studies, Institute for Social and Environmental Transition–International (ISET-International).
+    desc: Development studies <br> Institute for Social and Environmental Transition–International (ISET-International).
   - name: Gwenn Pulliat
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Geographer, French National Center of Scientific Research (CNRS), UMR 5281 "Actors, Resources et Territory in Development".
+    desc: Geographer <br> French National Center of Scientific Research (CNRS), UMR 5281 "Actors, Resources et Territory in Development".
   - name: Olivier Tessier
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Anthropologist, tropical agronomist, French School of Asian Studies (EFEO).
+    desc: Anthropologist <br> tropical agronomist, French School of Asian Studies (EFEO).
   - name: Frédéric Thomas
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Historian of sciences and technic, French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
   - name: Phan Thị Kim Tâm
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Master student in anthropology, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+    desc: Master student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Nguyễn Nhật Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Graduate student in anthropology, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+    desc: Graduate student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Lê Hoang Hải Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Socio-agronomist, Can Tho University, Institute for Climate Change (DRAGON)
+    desc: Socio-agronomist <br> Can Tho University, Institute for Climate Change (DRAGON)
 ---
 
 
