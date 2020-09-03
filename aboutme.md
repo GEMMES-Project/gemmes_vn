@@ -6,49 +6,20 @@ cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: aboutme
 lang: en
 work-package_1:
-  - name: XXXXX XXXXX
+  - name: Thanh NGO-DUC 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Paris is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
+    desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_1_bis:
-  - name: XXXXX XXXXX
+  - name: Quan TRAN-ANH 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
+    desc: Post-Doctor <br> Hanoi, Vietnam
+  - name: Tuyet Nguyen-Thi 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Paris is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
+    desc: Research Assistant <br> Hanoi, Vietnam
+  - name: Hanoi, Vietnam
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>		
+    desc: Web master <br> Hanoi, Vietnam
 work-package_2:
   - name: XXXXX XXXXX
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
