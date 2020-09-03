@@ -99,6 +99,28 @@ work-package_6:
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Anthropologist (IRD) <br> UMR 208 "Local Heritage, Globalization and environment".
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Emmanuel Pannier, anthropologist, is a research fellow at French National Research Institute for Sustainable Development (IRD), in a Research Unit called “local heritage, environment and globalization” (IRD & National Museum of Natural History). He is also associate researcher at Center for Southeast Asian Studies (EHESS-CNRS-INALCO). Working in Vietnam since 2005, he is now hosted by the University of Social Sciences and Humanities of Hanoi. His research areas are mainly in the field of “economic anthropology” and “anthropology of development” and deal with non-commercial flows (ceremonial exchanges, gift-giving, debts, mutual aid, tontines, etc.), networks of personal relationships, social regulation regimes and social change among rural populations. He is currently working on local responses to climate and environmental change in Vietnam in the framework of the GEMMES VN project (AFD).<span class="popup-btn-close">close</span></div>
+work-package_6_bis:
+  - name: Phan Phương Anh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+  - name: Vũ Toàn Cảnh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+	desc: Development studies, Institute for Social and Environmental Transition–International (ISET-International).
+  - name: Gwenn Pulliat
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Geographer, French National Center of Scientific Research (CNRS), UMR 5281 "Actors, Resources et Territory in Development".
+  - name: Olivier Tessier
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Anthropologist, tropical agronomist, French School of Asian Studies (EFEO).
+  - name: Frédéric Thomas
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Historian of sciences and technic, French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
+  - name: Phan Thị Kim Tâm
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Master student in anthropology, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+  - name: Nguyễn Nhật Anh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Graduate student in anthropology, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
 ---
 
 
@@ -320,7 +342,11 @@ work-package_6:
 	<h3> Work package n°6 - Package leader </h3>
 </div>
 	{% include list-circles.html items=page.work-package_6 %}
-
+<button class="accordion">See all members</button>
+<div class="panel">
+	<h3> Other members </h3>
+	{% include list-circles.html items=page.work-package_6_bis %}
+</div>
 
 <h1>  Institutional partners </h1>
 
