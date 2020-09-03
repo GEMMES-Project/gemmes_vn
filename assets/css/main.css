@@ -937,14 +937,6 @@ pre {
   text-align: center;
 }
 
-/*
-@media only screen and (min-width: 1200px) {
-  .list-circles {
-    width: 150%;
-    margin-left: -25%;
-  }
-}
-*/
 
 .list-circles-item {
   display: inline-block;
