@@ -121,6 +121,9 @@ work-package_6_bis:
   - name: Nguyễn Nhật Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Graduate student in anthropology, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+  - name: Lê Hoang Hải Anh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Socio-agronomist, Can Tho University, Institute for Climate Change (DRAGON)   
 ---
 
 
