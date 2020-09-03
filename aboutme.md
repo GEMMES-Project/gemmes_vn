@@ -21,49 +21,24 @@ work-package_1_bis:
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Web master <br> Hanoi, Vietnam
 work-package_2:
-  - name: XXXXX XXXXX
+  - name: Manh-Hung Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Paris is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
+    desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
+    url: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_2_bis:
-  - name: XXXXX XXXXX
+  - name: Kien Le
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
+    desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
+    url: https://kienle.weebly.com/
+  - name: Le Van Chon
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Paris is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>
-  - name: XXXXX XXXXX
+    desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
+    url: https://www.researchgate.net/profile/Chon_Le/publications
+  - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Scientist. Hanoi, Vietnam
-    github: http://github.com/xxxxx
-    url: http://github.com/xxxxxx
-    twitter: http://twitter.com/xxxxxx
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">London is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. <br><br> Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city for this reason Rome has been often defined as capital of two states.<span class="popup-btn-close">close</span></div>		
+    desc: Postdoctoral Research Fellow <br> The University of Queensland
+    url: https://sites.google.com/view/toannguyen/research
 work-package_6:
   - name: Emmanuel Pannier
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
@@ -292,7 +267,7 @@ work-package_6_bis:
 <h1> The team </h1>
 
 <div class="about-ttitle">
-	<h3> Work package n°1 - Package leaders </h3>
+	<h3> Work package n°1 - Package leader </h3>
 </div>
 	{% include list-circles.html items=page.work-package_1 %}
 
