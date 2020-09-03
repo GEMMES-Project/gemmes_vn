@@ -234,8 +234,7 @@ work-package_6:
 	color: #250e62;
     font-size: 16px; 
 	font-weight: 700; 
-	text-align: justify;
-	text-justify: inter-word; 
+	text-align: center; 
 	text-transform: uppercase; 
 	line-height: 24px; 
 	cursor: pointer; 
@@ -254,6 +253,8 @@ work-package_6:
 	line-height: 30px; 
 	z-index: 9999;
 	transform: translate(-50%, -50%);
+	text-align: justify;
+	text-justify: inter-word;
 	}
 .popup-mobile {
 	position: relative; 
