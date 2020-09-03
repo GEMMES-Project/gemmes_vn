@@ -191,7 +191,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p class="chapo"> « Adapto » is a social sciences package that address the question of local responses to climate change through a qualitative approach. We study the social, political, institutional and spatial issues that shape adaptation strategies to environmental hazards and climate change at the local level.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.jpg">
 
 			
 		<p class="longtext">That study includes three component: </p>
@@ -202,7 +202,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 		</ol> 
 		<p class="longtext">Our hypothesis is that these "factors" (perceptions, social capital, policies & institutional framework and past experience), still under-studied through a qualitative approach in Vietnam, strongly determine local responses and adaptations to climate change.  </p>
 		<p class="longtext">Our approach is based in fieldwork, i.e. micro-localized and in-depth qualitative surveys. Classical tools from qualitative method, such as immersion in local life, direct observation of practices, open interviews, informal talks, and local written sources are used and combined to collect data and generate analysis. A set of localized case studies allow us to gather tangible information about people practices and discourses.   </p>
-		<p class="longtext">Our approach is based in fieldwork, i.e. micro-localized and in-depth qualitative surveys. Classical tools from qualitative method, such as immersion in local life, direct observation of practices, open interviews, informal talks, and local written sources are used and combined to collect data and generate analysis. A set of localized case studies allow us to gather tangible information about people practices and discourses.   </p>
+		<p class="longtext">On this basis, we conduct a series of field studies with populations affected by new and recurring climatic or environmental events in different localities in the North and South of Vietnam (Lào Cai, Cân Thơ, Bến Tre). For each environmental or climatic event we address the following issue:</p>
 		<ul>
 			<li>Trace its course;</li>
 			<li>Study how the event was perceived and experienced by local actors;</li>
