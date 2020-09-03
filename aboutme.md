@@ -234,7 +234,8 @@ work-package_6:
 	color: #250e62;
     font-size: 16px; 
 	font-weight: 700; 
-	text-align: center; 
+	text-align: justify;
+	text-justify: inter-word; 
 	text-transform: uppercase; 
 	line-height: 24px; 
 	cursor: pointer; 
