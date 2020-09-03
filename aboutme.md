@@ -5,7 +5,6 @@ subtitle: Meet our team and institutional partners
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: aboutme
 lang: en
-
 work-package_1:
   - name: XXXXX XXXXX
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
