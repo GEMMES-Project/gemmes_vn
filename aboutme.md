@@ -97,7 +97,7 @@ work-package_2_bis:
 work-package_6:
   - name: Emmanuel Pannier
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Anthropologist, French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
+    desc: Anthropologist
     github: http://github.com/xxxxx
 	url: http://github.com/xxxxx
 	twitter: http://github.com/xxxxx
