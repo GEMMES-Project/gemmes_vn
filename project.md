@@ -191,7 +191,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p class="chapo"> « Adapto » is a social sciences package that address the question of local responses to climate change through a qualitative approach. We study the social, political, institutional and spatial issues that shape adaptation strategies to environmental hazards and climate change at the local level.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.jpg">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.JPG">
 
 			
 		<p class="longtext">That study includes three component: </p>
