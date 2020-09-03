@@ -102,7 +102,10 @@ work-package_6:
 work-package_6_bis:
   - name: Phan Phương Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University  
+    desc: Anthropologist, Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
+  - name: Vũ Toàn Cảnh
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+	desc: Development studies, Institute for Social and Environmental Transition–International (ISET-International).	
 ---
 
 
