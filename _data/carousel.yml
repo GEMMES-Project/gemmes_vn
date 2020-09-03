@@ -1,25 +1,25 @@
 images: 
-  - image: /assets/img/monre.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/monre.png
     link: http://www.dcc.gov.vn/vn/
-  - image: /assets/img/neu.jpg
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/neu.jpg
     link: https://www.neu.edu.vn/
-  - image: /assets/img/viet.jpg
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/viet.jpg
     link: http://mdri.org.vn/vi/
-  - image: /assets/img/cnrs.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/cnrs.png
     link: http://www.cnrs.fr/fr/page-daccueil
-  - image: /assets/img/tse.jpg
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/tse.jpg
     link: https://www.tse-fr.eu/ 
-  - image: /assets/img/EFEO.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/EFEO.png
     link: https://www.efeo.fr/index.php
-  - image: /assets/img/ird.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/ird.png
     link: https://www.ird.fr/
-  - image: /assets/img/ireeds.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/ireeds.png
     link: https://www.facebook.com/economics.environment.data.analysis/ 
-  - image: /assets/img/mdri.jpg
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/mdri.jpg
     link: http://mdri.org.vn/vi/  
-  - image: /assets/img/ussh.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/ussh.png
     link: http://ussh.vnu.edu.vn/ 
-  - image: /assets/img/usth.png
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/usth.png
     link: https://usth.edu.vn/en/    
-  - image: /assets/img/viet.jpg
+  - image: https://gohu00.github.io/gemmes_vn/assets/img/viet.jpg
     link: https://vietse.vn/ 
