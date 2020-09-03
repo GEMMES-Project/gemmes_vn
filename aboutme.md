@@ -337,6 +337,15 @@ work-package_6_bis:
 	{% include list-circles.html items=page.work-package_3_bis %}
 </div>
 <div class="about-ttitle">
+	<h3> Work package n°5 - Package leader </h3>
+</div>
+	{% include list-circles.html items=page.work-package_5 %}
+<button class="accordion">See all members</button>
+<div class="panel">
+	<h3> Other members </h3>
+	{% include list-circles.html items=page.work-package_5_bis %}
+</div>
+<div class="about-ttitle">
 	<h3> Work package n°6 - Package leader </h3>
 </div>
 	{% include list-circles.html items=page.work-package_6 %}
