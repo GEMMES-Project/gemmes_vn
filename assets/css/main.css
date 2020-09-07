@@ -82,6 +82,9 @@ hr.small {
   }
 }
 
+.main-content-map {
+  padding-top: 1rem;
+}
 .hideme {
   display: none;
 }
