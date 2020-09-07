@@ -96,7 +96,7 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 	<p class="chapo">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/wp1_main.jpg">
 
 			
 		<p class="longtext">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions. </p>
