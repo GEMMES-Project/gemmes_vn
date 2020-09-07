@@ -28,7 +28,7 @@ work-package_2:
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_2_bis:
   - name: Kien Le
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
     desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
     url: https://kienle.weebly.com/
   - name: Le Van Chon
@@ -36,7 +36,7 @@ work-package_2_bis:
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
     url: https://www.researchgate.net/profile/Chon_Le/publications
   - name: Toan Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     url: https://sites.google.com/view/toannguyen/research
 work-package_3:
@@ -47,11 +47,11 @@ work-package_3:
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_3_bis:
   - name: Toan Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     url: https://sites.google.com/view/toannguyen/research
   - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/picture-Hung.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
     url: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
   - name: Tuan Nguyen
