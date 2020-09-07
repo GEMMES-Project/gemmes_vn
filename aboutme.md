@@ -22,7 +22,7 @@ work-package_1_bis:
     desc: Web master <br> Hanoi, Vietnam
 work-package_2:
   - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/picture-Hung.jpg
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
     website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
