@@ -30,30 +30,30 @@ work-package_2_bis:
   - name: Kien Le
     img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
     desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
-    url: https://kienle.weebly.com/
+    website: https://kienle.weebly.com/
   - name: Le Van Chon
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
-    url: https://www.researchgate.net/profile/Chon_Le/publications
+    website: https://www.researchgate.net/profile/Chon_Le/publications
   - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
-    url: https://sites.google.com/view/toannguyen/research
+    website: https://sites.google.com/view/toannguyen/research
 work-package_3:
   - name: Nguyen Viet Cuong
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Researcher <br> Mekong Development Research Institute and National Economics University
-    url: https://ideas.repec.org/e/png36.html
+    website: https://ideas.repec.org/e/png36.html
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_3_bis:
   - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
-    url: https://sites.google.com/view/toannguyen/research
+    website: https://sites.google.com/view/toannguyen/research
   - name: Manh-Hung Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/picture-Hung.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
-    url: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
+    website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
   - name: Tuan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
@@ -61,23 +61,23 @@ work-package_5:
   - name: Etienne Espagne 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Senior Economist <br> AFD, Paris
-    url: https://www.afd.fr/fr/chercheurs/etienne-espagne
+    website: https://www.afd.fr/fr/chercheurs/etienne-espagne
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
 work-package_5_bis:
   - name: TRAN Thi Anh-Dao 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Senior Economist <br> based in Ho Chi Minh City (Vietnam) <br> IRASEC, Bangkok, Thailand
-    url: thianh-dao.tran@irasec.com
+    website: thianh-dao.tran@irasec.com
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">TRAN Thi Anh-Dao holds a tenure-track position in Economics at the University of Rouen Normandy (France) before being awarded by the French CNRS (National Centre for Scientific Research) for a 2-year secondment in Vietnam. She is currently Senior Economist at the Research Institute on Contemporary Southeast Asia (IRASEC-CNRS) and based in Ho Chi Minh-City. During her research fellowship at the Centre for Research in Economics Applied to Globalization (CREAM-University of Rouen), she was posted at the French Institut de Recherche pour le Développement (DIAL-IRD) in Hanoi from September 2011 to September 2013. Her main fields of interest are the development issues of globalization with a focus on comparative studies of East and Southeast Asia. She has published her research works in leading international journals like Comparative Economic Studies, Journal of Economic Integration, Journal of Development Studies or Post-Communist Economies. Her current research work deals with the environmental competition issue in the globalization era, South-South trade integration, gender issues under export-led growth, and more broadly export performance and development sustainability. She has also a longstanding experience in training programs for public officials on areas of international development, trade globalization. She has provided specialist advice and expertise, subject leadership in the fields to academic staff, policy-makers and external bodies like the European Commission.<span class="popup-btn-close">close</span></div>
   - name: Arsène Rieber
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Assoc. Prof. of Economics <br> University of Rouen Normandy, France.
-    url: arsene.rieber@univ-rouen.fr
+    website: arsene.rieber@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Arsène Rieber is Associate Professor of Economics at the University of Rouen Normandy (France). His main research interests are macrodynamics, development economics, international economics and Post-Keynesian economics. His recent works deal with the sustainability of an economic strategy based on export diversification and on export-led growth. He is also involved in the General Monetary and Multisectoral Macrodynamics for the Ecological Shift Project (GEMMES-Vietnam, AFD) under WP5.2 sub-package “Measuring the impact of climate change on Vietnam’s international trade position”. He has written for major economic journals like Cambridge Journal of Economics, Journal of Post Keynesian economics, Structural Change and Economic Dynamics, Journal of Economic Integration, Journal of Economic Development, International Economics and La Revue Economique, as well as in other national and international reviews.<span class="popup-btn-close">close</span></div>
   - name: Elodie Mania 
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: PhD student, young scholar <br> University of Rouen Normandy, France.
-    url: elodie.mania@univ-rouen.fr
+    website: elodie.mania@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Elodie Mania is a young scholar and assistant professor at the University of Rouen Normandy (France). Her doctoral thesis is in the fields of development economics, macroeconomics and international economics. With recent publications in scientific journals like Journal of International Development or Structural Change and Economic Dynamics, her research works focus on economic issues related to trade diversification and the vulnerability of growth models in developing countries to macroeconomic instabilities and environmental issues.<span class="popup-btn-close">close</span></div>
 work-package_6:
   - name: Emmanuel Pannier
