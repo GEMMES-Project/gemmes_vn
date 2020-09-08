@@ -5,12 +5,36 @@ subtitle: Meet our team and institutional partners
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: aboutme
 lang: en
-work-package_1:
+work-package_leaders:
   - name: Thanh NGO-DUC 
     img: https://gohu00.github.io/gemmes_vn/assets/img/Thanh_ngo-duc.jpg
     desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
-work-package_1_bis:
+  - name: Manh-Hung Nguyen
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
+    desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
+    website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
+  - name: Nguyen Viet Cuong
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Cuong-Nguyen.jpg
+    desc: Researcher <br> Mekong Development Research Institute and National Economics University
+    website: https://ideas.repec.org/e/png36.html
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Nguyen Viet Cuong is a researcher and lecturer in the Institute of Public Policy and Management at the National Economics University in Hanoi, Vietnam and currently conducts research in the Mekong Development Research Institute. Dr. Cuong received his PhD in Development Economics from Wageningen University, the Netherlands. His experience includes working in the fields of impact evaluation, poverty analysis, ethnic minority, education and health issues.<span class="popup-btn-close">close</span></div>
+  - name: Toan Nguyen
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
+    desc: Postdoctoral Research Fellow <br> The University of Queensland
+    website: https://sites.google.com/view/toannguyen/research
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as - European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
+  - name: Etienne Espagne 
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Senior Economist <br> AFD, Paris
+    website: https://www.afd.fr/fr/chercheurs/etienne-espagne
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
+  - name: Emmanuel Pannier
+    img: https://gohu00.github.io/gemmes_vn/assets/img/pannier.jpg
+    desc: Anthropologist (IRD) <br> UMR 208 "Local Heritage, Globalization and environment".
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Emmanuel Pannier, anthropologist, is a research fellow at French National Research Institute for Sustainable Development (IRD), in a Research Unit called “local heritage, environment and globalization” (IRD & National Museum of Natural History). He is also associate researcher at Center for Southeast Asian Studies (EHESS-CNRS-INALCO). Working in Vietnam since 2005, he is now hosted by the University of Social Sciences and Humanities of Hanoi. His research areas are mainly in the field of “economic anthropology” and “anthropology of development” and deal with non-commercial flows (ceremonial exchanges, gift-giving, debts, mutual aid, tontines, etc.), networks of personal relationships, social regulation regimes and social change among rural populations. He is currently working on local responses to climate and environmental change in Vietnam in the framework of the GEMMES VN project (AFD).<span class="popup-btn-close">close</span></div>
+work-package_others:
   - name: Quan TRAN-ANH 
     img: https://gohu00.github.io/gemmes_vn/assets/img/quan_tran_ahn.jpg
     desc: Post-Doctor <br> Hanoi, Vietnam
@@ -20,13 +44,6 @@ work-package_1_bis:
   - name: Hoang-Vinh BACH
     img: https://gohu00.github.io/gemmes_vn/assets/img/hoang_vinh_bach.jpg
     desc: Web master <br> Hanoi, Vietnam
-work-package_2:
-  - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
-    desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
-    website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
-work-package_2_bis:
   - name: Kien Le
     img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
     desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
@@ -41,18 +58,6 @@ work-package_2_bis:
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
-work-package_3:
-  - name: Nguyen Viet Cuong
-    img: https://gohu00.github.io/gemmes_vn/assets/img/Cuong-Nguyen.jpg
-    desc: Researcher <br> Mekong Development Research Institute and National Economics University
-    website: https://ideas.repec.org/e/png36.html
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Nguyen Viet Cuong is a researcher and lecturer in the Institute of Public Policy and Management at the National Economics University in Hanoi, Vietnam and currently conducts research in the Mekong Development Research Institute. Dr. Cuong received his PhD in Development Economics from Wageningen University, the Netherlands. His experience includes working in the fields of impact evaluation, poverty analysis, ethnic minority, education and health issues.<span class="popup-btn-close">close</span></div>
-  - name: Toan Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
-    desc: Postdoctoral Research Fellow <br> The University of Queensland
-    website: https://sites.google.com/view/toannguyen/research
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as - European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
-work-package_3_bis:
   - name: Manh-Hung Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
@@ -61,13 +66,6 @@ work-package_3_bis:
   - name: Tuan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/tuan-nguyen.jpg
     desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
-work-package_5:
-  - name: Etienne Espagne 
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
-    desc: Senior Economist <br> AFD, Paris
-    website: https://www.afd.fr/fr/chercheurs/etienne-espagne
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
-work-package_5_bis:
   - name: TRAN Thi Anh-Dao 
     img: https://gohu00.github.io/gemmes_vn/assets/img/tran.jpg
     desc: Senior Economist <br> based in Ho Chi Minh City (Vietnam) <br> IRASEC, Bangkok, Thailand
@@ -83,12 +81,6 @@ work-package_5_bis:
     desc: PhD student, young scholar <br> University of Rouen Normandy, France.
     website: elodie.mania@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Elodie Mania is a young scholar and assistant professor at the University of Rouen Normandy (France). Her doctoral thesis is in the fields of development economics, macroeconomics and international economics. With recent publications in scientific journals like Journal of International Development or Structural Change and Economic Dynamics, her research works focus on economic issues related to trade diversification and the vulnerability of growth models in developing countries to macroeconomic instabilities and environmental issues.<span class="popup-btn-close">close</span></div>
-work-package_6:
-  - name: Emmanuel Pannier
-    img: https://gohu00.github.io/gemmes_vn/assets/img/pannier.jpg
-    desc: Anthropologist (IRD) <br> UMR 208 "Local Heritage, Globalization and environment".
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Emmanuel Pannier, anthropologist, is a research fellow at French National Research Institute for Sustainable Development (IRD), in a Research Unit called “local heritage, environment and globalization” (IRD & National Museum of Natural History). He is also associate researcher at Center for Southeast Asian Studies (EHESS-CNRS-INALCO). Working in Vietnam since 2005, he is now hosted by the University of Social Sciences and Humanities of Hanoi. His research areas are mainly in the field of “economic anthropology” and “anthropology of development” and deal with non-commercial flows (ceremonial exchanges, gift-giving, debts, mutual aid, tontines, etc.), networks of personal relationships, social regulation regimes and social change among rural populations. He is currently working on local responses to climate and environmental change in Vietnam in the framework of the GEMMES VN project (AFD).<span class="popup-btn-close">close</span></div>
-work-package_6_bis:
   - name: Phan Phương Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
@@ -310,53 +302,15 @@ work-package_6_bis:
 <h1> The team </h1>
 
 <div class="about-ttitle">
-	<h3> Work package n°1 - Package leader </h3>
+	<h3> Work package leaders </h3>
 </div>
-	{% include list-circles.html items=page.work-package_1 %}
+	{% include list-circles.html items=page.work-package_leaders %}
 
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_1_bis %}
-</div>
 <div class="about-ttitle">
 	<h3> Work package n°2 - Package leader </h3>
 </div>
-	{% include list-circles.html items=page.work-package_2 %}
+	{% include list-circles.html items=page.work-package_others %}
 
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_2_bis %}
-</div>
-<div class="about-ttitle">
-	<h3> Work package n°3 - Package leaders </h3>
-</div>
-	{% include list-circles.html items=page.work-package_3 %}
-
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_3_bis %}
-</div>
-<div class="about-ttitle">
-	<h3> Work package n°5 - Package leader </h3>
-</div>
-	{% include list-circles.html items=page.work-package_5 %}
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_5_bis %}
-</div>
-<div class="about-ttitle">
-	<h3> Work package n°6 - Package leader </h3>
-</div>
-	{% include list-circles.html items=page.work-package_6 %}
-<button class="accordion">See all members</button>
-<div class="panel">
-	<h3> Other members </h3>
-	{% include list-circles.html items=page.work-package_6_bis %}
-</div>
 
 <h1>  Institutional partners </h1>
 
