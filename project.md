@@ -79,8 +79,8 @@ modules:
 </style>
 
  
-1- Context   
-1.1. Viet Nam and climate change  
+<h1>1- Context</h1>   
+<h2>1.1. Viet Nam and climate change</h2>  
 <p class="longtext">Viet Nam has made a determined commitment to develop a sustainable economy in line with the goals set at the Conference of the Parties (COP 21) in Paris in 2015.  </p>
 <p class="longtext">For example, Viet Nam submitted its National Contribution (NCDP/iNDC) to the United Nations Framework Convention on Climate Change (UNFCCC) in September 2015, setting the unconditional target of reducing greenhouse gases (GHG) by 8% compared to the baseline scenario, which could be increased to 25% with foreign aid. Vietnam signed the Paris Accord in April 2016 in New York and ratified it in November 2016. The Vietnamese government has finally approved the implementation plan of the Paris Climate Agreement in Vietnam. (QD2053/QĐ-TTg of 28 October 2016)  </p>
 <p class="longtext">Viet Nam's commitment on climate issues is not recent. The Vietnamese government promulgated the National Climate Change Strategy in 2011 and the National Green Growth Strategy and Action Plans in 2012. These two national strategies are steered and coordinated by the National Climate Change Committee (NCCC), which is chaired by the Prime Minister, and whose Secretariat, the department responsible for assisting the NCCC, is provided by the Ministry of Natural Resources and Environment (MONRE).  </p>
