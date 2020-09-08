@@ -307,7 +307,7 @@ work-package_others:
 	{% include list-circles.html items=page.work-package_leaders %}
 
 <div class="about-ttitle">
-	<h3> Work package n°2 - Package leader </h3>
+	<h3> Work package members</h3>
 </div>
 	{% include list-circles.html items=page.work-package_others %}
 
