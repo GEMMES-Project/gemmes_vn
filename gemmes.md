@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_map
 title: Gemmes
 subtitle: Interactive app
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
@@ -12,8 +12,9 @@ lang: en
 <style>
 
 .map-helper, iframe {
-    width: 100%;
-    height: 500px;
+    width: 1800px;
+    height: 100px;
+    margin: auto auto auto -73%;
     background-color: #ffffff;
 }
 
@@ -22,6 +23,8 @@ iframe {
     border-style:none;
 	border:none; 
 	overflow:hidden;	
+	height:930px; 
+	left:100px; 
 	text-align:center;
 }
 
