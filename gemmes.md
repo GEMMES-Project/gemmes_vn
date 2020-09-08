@@ -22,8 +22,6 @@ iframe {
     border-style:none;
 	border:none; 
 	overflow:hidden;	
-	height:930px; 
-	left:100px; 
 	text-align:center;
 }
 
