@@ -100,8 +100,7 @@ modules:
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 		
-		<!-- <h3>Latest news of the research package</h3> -->
-		<!-- {% include post_displayer_packageOne.html %} -->
+
 	
 		<h3>Papers</h3>
 		<i>coming soon</i>
@@ -121,8 +120,7 @@ modules:
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 		
-		<!-- <h3>Latest news of the research package</h3> -->
-		<!-- {% include post_displayer_packageOne.html %} -->
+
 	
 		<h3>Papers</h3>
 		<h4>Land Use Policy, Adaptation to Climate Change, and Aggregate Productivity in the Mekong Delta</h4>
@@ -152,8 +150,6 @@ modules:
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 		
-		<!-- <h3>Latest news of the research package</h3> -->
-		<!-- {% include post_displayer_packageOne.html %} -->
 	
 		<h3>Papers</h3>
 		<h4>The labor productivity impacts of climate change: Evidence from Vietnamese firm level data </h4>
@@ -188,8 +184,7 @@ modules:
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
 		
-		<!-- <h3>Latest news of the research package</h3> -->
-		<!-- {% include post_displayer_packageOne.html %} -->
+
 	
 		<h3>Papers</h3>
 		<i>coming soon</i>
@@ -227,9 +222,7 @@ modules:
 		
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
-		
-		<!-- <h3>Latest news of the research package</h3> -->
-		<!-- {% include post_displayer_packageOne.html %} -->
+
 	
 		<h3>Papers</h3>
 		<i>coming soon</i>
