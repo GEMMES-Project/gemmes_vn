@@ -180,7 +180,6 @@ This public circle, structured as a committee of personalities recognised for th
 		
 		<h3>Related subjects</h3>
 		{% include list-circles.html items=page.modules %} 
-		
 
 	
 		<h3>Papers</h3>
