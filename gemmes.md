@@ -14,7 +14,7 @@ lang: en
 .map-helper, iframe {
     width: 1800px;
     height: 100px;
-    margin: auto auto auto -500px;
+    margin: auto auto auto -73%;
     background-color: #ffffff;
 }
 
