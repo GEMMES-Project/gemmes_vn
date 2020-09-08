@@ -47,7 +47,7 @@ work-package_3:
     desc: Researcher <br> Mekong Development Research Institute and National Economics University
     website: https://ideas.repec.org/e/png36.html
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Nguyen Viet Cuong is a researcher and lecturer in the Institute of Public Policy and Management at the National Economics University in Hanoi, Vietnam and currently conducts research in the Mekong Development Research Institute. Dr. Cuong received his PhD in Development Economics from Wageningen University, the Netherlands. His experience includes working in the fields of impact evaluation, poverty analysis, ethnic minority, education and health issues.<span class="popup-btn-close">close</span></div>
-  - name: Nguyen Viet Cuong
+  - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
