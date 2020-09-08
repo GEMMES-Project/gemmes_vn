@@ -42,8 +42,8 @@ modules:
 
 
 .card {
-	#background-color: #edede9;
-	background-color: #FFFFFF;
+	background-color: #edede9;
+	#background-color: #FFFFFF;
 }
 
 .chapo {
