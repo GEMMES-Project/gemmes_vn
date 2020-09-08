@@ -76,12 +76,16 @@ modules:
 	color: #250e62;
 	#text-align: justify;
 	#text-justify: inter-word;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 
 .wptitle {
 	text-align: center;
 	text-align: justify;
 	text-justify: inter-word;
+	margin-right: 5px;
+	margin-left: 5px;
 
 }
 
