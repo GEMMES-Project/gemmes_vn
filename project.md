@@ -79,7 +79,7 @@ modules:
 	text-align: center;
 	margin-right: 5px;
 	margin-left: 5px;
-	margin-top: 1em;
+	margin-top: 10px;
 }
 
 .wptitle {
