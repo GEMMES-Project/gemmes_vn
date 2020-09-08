@@ -50,15 +50,10 @@ work-package_others:
     website: https://kienle.weebly.com/
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Kien Le’s primary research interests lie broadly in the area of economic development. He got a PhD in Economics in Louisiana State University.  Since 2020, he is a researcher at the Institute of Research in Economics, Environment and Data Science. He is passionate about combating inefficiency and poverty. His research employs both structural and reduced form methodologies in a wide variety of settings. <span class="popup-btn-close">close</span></div>
   - name: Le Van Chon
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/LevanChon-picture.jpg
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
     website: https://www.researchgate.net/profile/Chon_Le/publications
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Chon LE-VAN received his PhD in Economics at University of Georgia, USA. Since 2015, he has served as the Department Head and lecturer at International University, Vietnam National University and researcher at the Institute of Research in Economics, Environment and Data Science. His research area is Applied Microeconomics, Applied Econometrics, and Industrial Organization. Dr. Chon is the author and co-author of two books in Econometrics and Big Data and Modelling. <span class="popup-btn-close">close</span></div>
-  - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
-    desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
-    website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
   - name: Tuan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/tuan-nguyen.jpg
     desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
