@@ -33,7 +33,7 @@ iframe {
 </style>
 
 
-<h1 class="text-center"> Ecomore map </h1>
+
 
 <div class="map-helper">
 <a href="https://gohu00.shinyapps.io/map_typhoon/">Open in a new window?</a>
