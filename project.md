@@ -190,10 +190,10 @@ This public circle, structured as a committee of personalities recognised for th
 
 <div id="package2" class="card" data-package="packageTwo">
 	<h2 class="wp">Work package n°2 - ECO </h2>
-
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP2_main.jpg">
 	<p class="chapo">WP2 focuses on an empirical analysis of past economic impacts of climate in Vietnam. This will allow us to evaluate response functions of specific impacts (and adaptation strategies) due to variations in temperature and precipitation (as well as other environmental variables, such as extreme events or sea-level rise) on major economic sectors of the Vietnamese economy such as agriculture (among which rice production, aquaculture, …), energy (both demand and supply), the informal sector, as well as the impact of extreme events on the stock of capital (infrastructure). In coordination with WP1, this package will also have the goal to project these response functions into the future, considering the relevant uncertainties in future climate. </p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP2_main.jpg">
+	
 
 			
 		<p class="longtext">Each one of the economic criteria selected as relevant for the study of the impacts of climate change in Vietnam can be evaluated in this way as long as the relevant data are available. A first step will be to take stock of the existing studies on the climate impacts on economic sectors in Vietnam through specific meta-analysis. The scientific standards of existing studies (spatial and social representation of the population surveyed, length of the time series, etc.) will be assessed in order to select some of the best research to include as inputs of the project. We then plan an extensive use of Vietnam Household Living Standard Survey and the Vietnam Access to Resources Household Survey, Enterprise Surveys, Agricultural Censuses, … with the adjunction of sector specific databases coming from public Vietnamese institutions to better illustrate adaptation strategies. In special cases, we also intend to use night-time lights as a proxy for GDP impacts of extreme events as well as the informal sector. Econometric methods will vary depending on the sector studied. But they all amount to build probability distributions of the specific impact, conditioned to the values of the climate variables. They can then be used to project spatial-detailed probabilistic scenarios of climate impacts given by the CLIMATO package, so that these empirical studies already give a thorough sectoral assessment of future climate impacts and adaptation strategies. These simulations will also serve as exogenous inputs to the macroeconomic model built in WP5. </p>
@@ -220,10 +220,10 @@ This public circle, structured as a committee of personalities recognised for th
 
 <div id="package3" class="card" data-package="packageThree">
 	<h2 class="wp">Work package n°3 - SOCIO  </h2>
-
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP3_main.jpg">
 	<p class="chapo">The aims of SOCIO is to evaluate the effects of climate change and natural disasters on social economics aspects such as: labor productivity, migration, human capital. This work package also examines causal impacts of climate change and extreme weather on nutrition and public health.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP3_main.jpg">
+	
 
 			
 		<p class="longtext">SOCIO provides comprehensive assessments to the effects of climate change on major social aspects of the Vietnamese society such as inequalities, migration, labor productivity, health, demography, nutrition impacts. These assessments are scientific rigor. SOCIO’s researchers employ cutting edge applied econometrics approach and large sample surveys and administrative data to provide robust and unbiased empirical evidences. Structural approach is used in some papers to better understand not only the effects but also mechanisms. This is important to identify the solutions to tackle the issues. In addition, spatial dynamic models are also used to examine regional divergences. Large sample surveys such as labor force survey, population change survey, Vietnam Household Living Standard Survey, Censuses 1999, 2009 allow us to provide insightful empirical analyses that previous studies were not able to capture. Firm-level administrate data support us analyzing firm-behaviors to adjust labor structure when facing with changes in temperature and precipitations. More importantly, SOCIO not only provides impact evaluation evidences but also provides scenarios-based projections. SOCIO also develops policy recommendation to adapt with climate change.</p>
@@ -252,10 +252,11 @@ This public circle, structured as a committee of personalities recognised for th
 <div id="package5" class="card" data-package="packageFive">
 	<h2 class="wp">Work package n°5 - MACRO</h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
-
+	
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
 	<p class="chapo">This central macroeconomic model gives an exhaustive view of the socio-economic impacts of climate change in Vietnam and adaptation strategy, by aggregating the different sectoral or region-specific analysis as well as the climate projections of other packages. We present interactive versions of this first stock-flow coherent model of the Vietnamese economy coupled with climate impacts and adaptation prospective scenarios.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+	
 
 			
 		<p class="longtext">We first build a stock-flow coherent macroeconomic model of the Vietnames economy in two steps: a five institutional sectors model (households, firms, financial sector, government and the rest of the world), which we estimate and validate based on existing data and use to assess the impacts of extreme climate events ; a disaggregation of the productive sector allowing us to integrate the impacts and adaptation strategies at different sectoral and regional levels, which we use to develop prospective scenarios to 2050.  It is the first stock-flow coherent model of the Vietnamese economy. </p>
@@ -275,10 +276,11 @@ This public circle, structured as a committee of personalities recognised for th
 <div id="package6" class="card" data-package="packageSix">
 	<h2 class="wp">Work package n°6 - ADAPTO  </h2>
 	<h3 class="wptitle">A qualitative approach to local responses to climate change in Vietnam</h3>
-
+	
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.JPG">
 	<p class="chapo"> « Adapto » is a social sciences package that address the question of local responses to climate change through a qualitative approach. We study the social, political, institutional and spatial issues that shape adaptation strategies to environmental hazards and climate change at the local level.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.JPG">
+	
 
 			
 		<p class="longtext">That study includes three component: </p>
