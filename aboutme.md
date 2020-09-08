@@ -51,7 +51,7 @@ work-package_3:
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as: European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as - European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
 work-package_3_bis:
   - name: Manh-Hung Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
