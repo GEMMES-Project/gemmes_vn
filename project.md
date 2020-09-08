@@ -52,6 +52,7 @@ modules:
 	font-style: italic;
 	margin-right: 5px;
 	margin-left: 5px;
+	line-height: 1.6;
 }
 
 .longtext {
@@ -59,6 +60,7 @@ modules:
 	text-justify: inter-word;
 	margin-right: 5px;
 	margin-left: 5px;
+	line-height: 1.6;
 }
 
 .wp{
