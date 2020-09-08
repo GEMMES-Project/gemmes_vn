@@ -1,7 +1,7 @@
 ---
 layout: page_map
-title: Ecomore
-subtitle: Interactive map
+title: Climate simulations
+subtitle: Use this app to forecast climate change scenarios for Vietnam
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: ecomore
 lang: en
