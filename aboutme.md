@@ -12,63 +12,77 @@ work-package_leaders:
     desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
   - name: Manh-Hung Nguyen
+    wp: WP2
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
     website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
   - name: Nguyen Viet Cuong
+    wp: WP3
     img: https://gohu00.github.io/gemmes_vn/assets/img/Cuong-Nguyen.jpg
     desc: Researcher <br> Mekong Development Research Institute and National Economics University
     website: https://ideas.repec.org/e/png36.html
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Nguyen Viet Cuong is a researcher and lecturer in the Institute of Public Policy and Management at the National Economics University in Hanoi, Vietnam and currently conducts research in the Mekong Development Research Institute. Dr. Cuong received his PhD in Development Economics from Wageningen University, the Netherlands. His experience includes working in the fields of impact evaluation, poverty analysis, ethnic minority, education and health issues.<span class="popup-btn-close">close</span></div>
   - name: Toan Nguyen
+    wp: WP3
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as - European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
   - name: Etienne Espagne 
+    wp: WP5
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Senior Economist <br> AFD, Paris
     website: https://www.afd.fr/fr/chercheurs/etienne-espagne
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
   - name: Emmanuel Pannier
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/pannier.jpg
     desc: Anthropologist (IRD) <br> UMR 208 "Local Heritage, Globalization and environment".
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Emmanuel Pannier, anthropologist, is a research fellow at French National Research Institute for Sustainable Development (IRD), in a Research Unit called “local heritage, environment and globalization” (IRD & National Museum of Natural History). He is also associate researcher at Center for Southeast Asian Studies (EHESS-CNRS-INALCO). Working in Vietnam since 2005, he is now hosted by the University of Social Sciences and Humanities of Hanoi. His research areas are mainly in the field of “economic anthropology” and “anthropology of development” and deal with non-commercial flows (ceremonial exchanges, gift-giving, debts, mutual aid, tontines, etc.), networks of personal relationships, social regulation regimes and social change among rural populations. He is currently working on local responses to climate and environmental change in Vietnam in the framework of the GEMMES VN project (AFD).<span class="popup-btn-close">close</span></div>
 work-package_others:
-  - name: Quan TRAN-ANH 
+  - name: Quan TRAN-ANH
+    wp: WP1  
     img: https://gohu00.github.io/gemmes_vn/assets/img/quan_tran_ahn.jpg
     desc: Post-Doctor <br> Hanoi, Vietnam
   - name: Tuyet Nguyen-Thi 
+    wp: WP1
     img: https://gohu00.github.io/gemmes_vn/assets/img/tuyet_nguyen_thi.jpg
     desc: Research Assistant <br> Hanoi, Vietnam
   - name: Hoang-Vinh BACH
+    wp: WP1
     img: https://gohu00.github.io/gemmes_vn/assets/img/hoang_vinh_bach.jpg
     desc: Web master <br> Hanoi, Vietnam
   - name: Kien Le
+    wp: WP2
     img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
     desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
     website: https://kienle.weebly.com/
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Kien Le’s primary research interests lie broadly in the area of economic development. He got a PhD in Economics in Louisiana State University.  Since 2020, he is a researcher at the Institute of Research in Economics, Environment and Data Science. He is passionate about combating inefficiency and poverty. His research employs both structural and reduced form methodologies in a wide variety of settings. <span class="popup-btn-close">close</span></div>
   - name: Le Van Chon
+    wp: WP2
     img: https://gohu00.github.io/gemmes_vn/assets/img/LevanChon-picture.jpg
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
     website: https://www.researchgate.net/profile/Chon_Le/publications
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Chon LE-VAN received his PhD in Economics at University of Georgia, USA. Since 2015, he has served as the Department Head and lecturer at International University, Vietnam National University and researcher at the Institute of Research in Economics, Environment and Data Science. His research area is Applied Microeconomics, Applied Econometrics, and Industrial Organization. Dr. Chon is the author and co-author of two books in Econometrics and Big Data and Modelling. <span class="popup-btn-close">close</span></div>
   - name: Tuan Nguyen
+    wp: WP3
     img: https://gohu00.github.io/gemmes_vn/assets/img/tuan-nguyen.jpg
     desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
   - name: TRAN Thi Anh-Dao 
+    wp: WP5
     img: https://gohu00.github.io/gemmes_vn/assets/img/tran.jpg
     desc: Senior Economist <br> based in Ho Chi Minh City (Vietnam) <br> IRASEC, Bangkok, Thailand
     website: thianh-dao.tran@irasec.com
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">TRAN Thi Anh-Dao holds a tenure-track position in Economics at the University of Rouen Normandy (France) before being awarded by the French CNRS (National Centre for Scientific Research) for a 2-year secondment in Vietnam. She is currently Senior Economist at the Research Institute on Contemporary Southeast Asia (IRASEC-CNRS) and based in Ho Chi Minh-City. During her research fellowship at the Centre for Research in Economics Applied to Globalization (CREAM-University of Rouen), she was posted at the French Institut de Recherche pour le Développement (DIAL-IRD) in Hanoi from September 2011 to September 2013. Her main fields of interest are the development issues of globalization with a focus on comparative studies of East and Southeast Asia. She has published her research works in leading international journals like Comparative Economic Studies, Journal of Economic Integration, Journal of Development Studies or Post-Communist Economies. Her current research work deals with the environmental competition issue in the globalization era, South-South trade integration, gender issues under export-led growth, and more broadly export performance and development sustainability. She has also a longstanding experience in training programs for public officials on areas of international development, trade globalization. She has provided specialist advice and expertise, subject leadership in the fields to academic staff, policy-makers and external bodies like the European Commission.<span class="popup-btn-close">close</span></div>
   - name: Arsène Rieber
+    wp: WP5
     img: https://gohu00.github.io/gemmes_vn/assets/img/ribier.jpg
     desc: Assoc. Prof. of Economics <br> University of Rouen Normandy, France.
     website: arsene.rieber@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Arsène Rieber is Associate Professor of Economics at the University of Rouen Normandy (France). His main research interests are macrodynamics, development economics, international economics and Post-Keynesian economics. His recent works deal with the sustainability of an economic strategy based on export diversification and on export-led growth. He is also involved in the General Monetary and Multisectoral Macrodynamics for the Ecological Shift Project (GEMMES-Vietnam, AFD) under WP5.2 sub-package “Measuring the impact of climate change on Vietnam’s international trade position”. He has written for major economic journals like Cambridge Journal of Economics, Journal of Post Keynesian economics, Structural Change and Economic Dynamics, Journal of Economic Integration, Journal of Economic Development, International Economics and La Revue Economique, as well as in other national and international reviews.<span class="popup-btn-close">close</span></div>
-  - name: Elodie Mania 
+  - name: Elodie Mania
+    wp: WP5  
     img: https://gohu00.github.io/gemmes_vn/assets/img/mania.jpg
     desc: PhD student, young scholar <br> University of Rouen Normandy, France.
     website: elodie.mania@univ-rouen.fr
@@ -77,24 +91,31 @@ work-package_others:
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Vũ Toàn Cảnh
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Development studies <br> Institute for Social and Environmental Transition–International (ISET-International).
   - name: Gwenn Pulliat
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/Pulliat-Gwenn.jpg
     desc: Geographer <br> French National Center of Scientific Research (CNRS), UMR 5281 "Actors, Resources et Territory in Development".
   - name: Olivier Tessier
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/tessier.jpg
     desc: Anthropologist <br> tropical agronomist, French School of Asian Studies (EFEO).
   - name: Frédéric Thomas
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/f_thomas.jpg
     desc: Historian of sciences and technic <br> French National Research Institute for Sustainable Development (IRD), UMR 208 "Local Heritage, Globalization and environment".
   - name: Phan Thị Kim Tâm
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/Phan_Thi_Kim_Tam.jpg
     desc: Master student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Nguyễn Nhật Anh
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Graduate student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Lê Hoang Hải Anh
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Socio-agronomist <br> Can Tho University, Institute for Climate Change (DRAGON)
 ---
