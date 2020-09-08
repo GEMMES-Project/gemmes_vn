@@ -11,6 +11,9 @@
       {% if item.name %}
         <h4 class="item-name">{{ item.name }}</h4>
       {% endif %} 
+	  {% if item.wp %}
+        <h4 class="item-name">{{ item.wp }}</h4>
+      {% endif %} 
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
