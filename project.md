@@ -125,7 +125,9 @@ modules:
 		{% include post_displayer_packageOne.html %}
 	
 		<h3>Papers</h3>
-		<i>coming soon</i>
+		<h4>Land Use Policy, Adaptation to Climate Change, and Aggregate Productivity in the Mekong Delta</h4>
+		<h5>Author : Kien Le and co-authors</h5>
+		<p class="chapo"><b>Abstract:</b> The Mekong Delta, also known as Vietnam’s rice bowl, is particularly vulnerable to saline intrusion from rising sea level and increasing temperature. Such climatic impacts have greatly affected rice production in the region because of the high demand for freshwater. To ensure the living standards, it is crucial for farmers to effectively cope with the impacts of climate change on the local ecosystems. One possible adaptation practice is to switch from rice cultivation that is freshwater-intensive to the production of other crops which demands less freshwater. However, the majority of agricultural land in the region is subject to the Rice Land Designation Policy (RLDP) that requires land be devoted to rice production only. In this study, we quantify the effects of RLDP on aggregate productivity where the policy misallocates farmers’ optimal crop choices in coping with the impacts of climate change. We do so by constructing a spatial equilibrium model featuring heterogeneous agents with endogenous production and occupational choices. The main findings suggest that RLDP could cost the Mekong Delta 5% of its GDP annually if no action was taken by the government.</p>
 	</div>
 	<button  onclick="readMore('packageTwo')" class="myBtn">Read more</button>  
 
