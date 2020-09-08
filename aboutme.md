@@ -54,10 +54,6 @@ work-package_others:
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
     website: https://www.researchgate.net/profile/Chon_Le/publications
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Chon LE-VAN received his PhD in Economics at University of Georgia, USA. Since 2015, he has served as the Department Head and lecturer at International University, Vietnam National University and researcher at the Institute of Research in Economics, Environment and Data Science. His research area is Applied Microeconomics, Applied Econometrics, and Industrial Organization. Dr. Chon is the author and co-author of two books in Econometrics and Big Data and Modelling. <span class="popup-btn-close">close</span></div>
-  - name: Toan Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
-    desc: Postdoctoral Research Fellow <br> The University of Queensland
-    website: https://sites.google.com/view/toannguyen/research
   - name: Manh-Hung Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
