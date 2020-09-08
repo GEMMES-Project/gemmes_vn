@@ -1,7 +1,7 @@
 ---
-layout: minimal
+layout: page
 title: Gemmes
-subtitle: Interactive map 
+subtitle: Interactive app
 cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: gemmes
 lang: en
@@ -9,13 +9,12 @@ lang: en
 
 
 
-
 <style>
 
 .map-helper, iframe {
     width: 1800px;
-    height: 200px;
-    margin: 0 auto;
+    height: 100px;
+    margin: auto auto auto auto;
     background-color: #ffffff;
 }
 
@@ -26,6 +25,7 @@ iframe {
 	overflow:hidden;	
 	height:930px; 
 	left:100px; 
+	text-align:center;
 }
 
 
@@ -33,10 +33,14 @@ iframe {
 </style>
 
 
-<h1 class="text-center"> New map soon </h1>
+<h1 class="text-center"> Ecomore map </h1>
 
 <div class="map-helper">
-<a href="https://remosat.usth.edu.vn/ecomore2/VNM">Open in a new window?</a>
+<a href="https://gohu00.shinyapps.io/map_typhoon/">Open in a new window?</a>
 
 </div>
 
+
+
+<iframe ddd scrolling="no" src="https://gohu00.shinyapps.io/map_typhoon/"
+></iframe>
