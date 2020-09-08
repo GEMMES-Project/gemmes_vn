@@ -7,7 +7,7 @@ i18n-link: aboutme
 lang: en
 work-package_leaders:
   - name: Thanh NGO-DUC
-	wp: WP1
+    wp: WP1
     img: https://gohu00.github.io/gemmes_vn/assets/img/Thanh_ngo-duc.jpg
     desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
