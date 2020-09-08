@@ -32,8 +32,6 @@ iframe {
 </style>
 
 
-<h1 class="text-center"> Ecomore map </h1>
-
 <div class="map-helper">
 <a href="https://remosat.usth.edu.vn/ecomore2/VNM">Open in a new window?</a>
 
