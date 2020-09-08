@@ -23,16 +23,56 @@ t:
     en: "Overview"
     fr: "Aperçu"
     vn: "Over_vn"
-  mekong:
-    en: "Mekong"
+  global_climate:
+    en: "Global climate, local climate"
     fr: "Mekong"
     vn: "Mekong"  
-  migration:
-    en: "Migration"
+  past_climate:
+    en: "Past climate, memories of adaptation"
     fr: "Migration"
     vn: "Migration"
-  health:
-    en: "Health"
+  envir_health:
+    en: "Environmental health under climate change"
+    fr: "Santé"
+    vn: "Health_vn"
+  century:
+    en: "A 21st century agriculture for Vietnam"
+    fr: "Santé"
+    vn: "Health_vn"
+  resilient_infra:
+    en: "Resilient infrastructure planning"
+    fr: "Santé"
+    vn: "Health_vn"
+  household_behavior:
+    en: "Transformations on households’ behaviors and labor organization"
+    fr: "Santé"
+    vn: "Health_vn"
+  finance_adapt:
+    en: "Financing adaptation, a landscape of solutions"
+    fr: "Santé"
+    vn: "Health_vn"
+  macro_climate:
+    en: "The macroeconomics of climate change in Vietnam"
+    fr: "Santé"
+    vn: "Health_vn"
+  mekong_climate:
+    en: "Mekong’s climate, now and then"
+    fr: "Santé"
+    vn: "Health_vn"
+  regional_quest:
+    en: "A regional question"
+    fr: "Santé"
+    vn: "Health_vn"
+  quest_water:
+    en: "A question of water"
+    fr: "Santé"
+    vn: "Health_vn"
+  fighting_subsit:
+    en: "Fighting subsidence: the economic value of Mekong delta’s height"
+    fr: "Santé"
+    vn: "Health_vn"
+  adapting_inevitable:
+    en: "Adapting to inevitable changes: a planning strategy"
     fr: "Santé"
     vn: "Health_vn"
   project: 
