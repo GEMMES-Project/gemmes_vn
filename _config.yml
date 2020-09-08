@@ -40,17 +40,17 @@ t:
     fr: "Projet"
     vn: "Projet_vn"
   map:
-    en: "Interactive map"
-    fr: "Carte interactive"
-    vn: "Carte_vn"
+    en: "Interactive apps"
+    fr: "Applications interactives"
+    vn: "Apps (VN)"
   ecomore:
-    en: "ecomore"
-    fr: "ecomore"
-    vn: "ecomore"
+    en: "Climate simulations"
+    fr: "Simulations du climat"
+    vn: "Climate simulations (VN)"
   gemmes:
-    en: "gemmes"
-    fr: "gemmes"
-    vn: "gemmes"
+    en: "Typhoons"
+    fr: "Typhons"
+    vn: "Typhoons (VN)"
   news: 
     en: "News"
     fr: "Actualités"
