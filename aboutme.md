@@ -320,7 +320,7 @@ work-package_6_bis:
 	{% include list-circles.html items=page.work-package_1_bis %}
 </div>
 <div class="about-ttitle">
-	<h3> Work package n°2 - Package leaders </h3>
+	<h3> Work package n°2 - Package leader </h3>
 </div>
 	{% include list-circles.html items=page.work-package_2 %}
 
