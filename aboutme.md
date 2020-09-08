@@ -25,37 +25,41 @@ work-package_2:
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE, <br> Toulouse, France
     website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
 work-package_2_bis:
   - name: Kien Le
     img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
     desc: Researcher <br>  Institute of Research in Economics, Environment and Data Science (IRREDS).
     website: https://kienle.weebly.com/
+	pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Kien Le’s primary research interests lie broadly in the area of economic development. He got a PhD in Economics in Louisiana State University.  Since 2020, he is a researcher at the Institute of Research in Economics, Environment and Data Science. He is passionate about combating inefficiency and poverty. His research employs both structural and reduced form methodologies in a wide variety of settings. <span class="popup-btn-close">close</span></div>
   - name: Le Van Chon
     img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
     desc: Researcher <br> International Economic University and Institute of Research in Economics, Environment and Data Science (IREEDS)
     website: https://www.researchgate.net/profile/Chon_Le/publications
+	pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Dr. Chon LE-VAN received his PhD in Economics at University of Georgia, USA. Since 2015, he has served as the Department Head and lecturer at International University, Vietnam National University and researcher at the Institute of Research in Economics, Environment and Data Science. His research area is Applied Microeconomics, Applied Econometrics, and Industrial Organization. Dr. Chon is the author and co-author of two books in Econometrics and Big Data and Modelling. <span class="popup-btn-close">close</span></div>
   - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
 work-package_3:
   - name: Nguyen Viet Cuong
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Cuong-Nguyen.jpg
     desc: Researcher <br> Mekong Development Research Institute and National Economics University
     website: https://ideas.repec.org/e/png36.html
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
-work-package_3_bis:
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Nguyen Viet Cuong is a researcher and lecturer in the Institute of Public Policy and Management at the National Economics University in Hanoi, Vietnam and currently conducts research in the Mekong Development Research Institute. Dr. Cuong received his PhD in Development Economics from Wageningen University, the Netherlands. His experience includes working in the fields of impact evaluation, poverty analysis, ethnic minority, education and health issues.<span class="popup-btn-close">close</span></div>
   - name: Toan Nguyen
     img: https://gohu00.github.io/gemmes_vn/assets/img/Toan_Nguyen.JPG
     desc: Postdoctoral Research Fellow <br> The University of Queensland
     website: https://sites.google.com/view/toannguyen/research
+	pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as: European Economic Review, Social Science and Medicine, and The World Economy. <span class="popup-btn-close">close</span></div>
+work-package_3_bis:
   - name: Manh-Hung Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/picture-Hung.jpg
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
     desc: Researcher <br> Toulouse School of Economics and INRAE <br> Toulouse, France
     website: https://www.tse-fr.eu/people/manh-hung-nguyen?lang=en
+	pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Manh-Hung Nguyen is researcher at INRAE and Toulouse School of Economics. He obtained his Phd at University of Paris1.  His research concerns endogenous growth theory and environmental economics. He has published scientific papers on general equilibrium, endogenous growth and natural resources, epidemics  and flood risk management policies. He has been Research Fellow at NUS in Singapore, and Visiting Fellow at Cornell University. He directly participates and coordinates various research projects in Vietnam and France, especially in the fields of agriculture, infectious disease, energy and climate change. <span class="popup-btn-close">close</span></div>
   - name: Tuan Nguyen
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/tuan-nguyen.jpg
     desc: Internship <br> Toulouse School of Economic and  Institute of Research in Economics, Environment and Data Science (IRREDS).
 work-package_5:
   - name: Etienne Espagne 
