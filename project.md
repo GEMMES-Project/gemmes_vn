@@ -122,9 +122,12 @@ modules:
 <p class="longtext">The project is organised around different workpackages (WP). The first six WPs are dedicated to scientific research, research capacity building and the translation of scientific results into policy briefs for each of the themes addressed, for the NCCC. The WP7 is more specifically dedicated to the dissemination and organisation of conferences, seminars and events on impacts and adaptation issues, particularly in the framework of international climate conferences.</p>
 <h1>4- Beneficiaries of the VN Gemmes project   </h1>
 <h2>4.1- Direct beneficiaries of the project</h2>
-<p class="longtext">The Gemmes VN project targets two distinct types of direct beneficiaries:  
--	The National Climate Change Committee (NCCC, including MONRE, MARD, and MPI)  
--	The Vietnamese climate change scientific research community in Viet Nam.  
+<p class="longtext">
+The Gemmes VN project targets two distinct types of direct beneficiaries:
+<ul>
+<li>The National Climate Change Committee (NCCC, including MONRE, MARD, and MPI) </li>  
+<li>The Vietnamese climate change scientific research community in Viet Nam. </li>
+</ul>  
 </p>
 <p class="longtext">The first beneficiary will have co-ownership of the scientific results, will ensure the transformation of these results into operational public policy recommendations or briefing notes for administrative and political decision-makers, and will be able to promote these results at conferences for the general public or at events during the next Conferences of the Parties.  The second beneficiary has the benefit of funds to conduct scientific research at international level, supported by French research units from CNRS, INRA and IRD. These funds allow the direct financing of researchers, post-doctoral, doctoral and master students, international training, seminars and conferences, field missions as well as the acquisition of research equipment.  </p>
 <h2>4.2- Indirect beneficiaries of the project  </h2>
