@@ -274,6 +274,7 @@ img {
   padding: 0;
   width: 100%;
   word-break: break-word;
+  overflow-y: auto;
 }
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   white-space: normal;
