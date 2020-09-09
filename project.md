@@ -142,7 +142,7 @@ Two types of indirect beneficiaries are considered:
 <h2>5.1- General structuring of the project  </h2>
 <p class="longtext">
 The GEMMES Vietnam project is structured around 3 circles:
-<ul> 
+<ul class="longtext"> 
 <li>an academic circle at the heart of the programme, which will autonomously develop its research (Axes 1 to 6), while using privileged access to public data thanks to the institutional circle and feeding into diagnoses and policy recommendations on the subjects of damage and adaptation.  </li>
 A research committee is composed of the three research co-directors and the leaders of the different WPs to discuss and guide the project on a quarterly basis. Any researcher included in the project or any expert involved in policy ownership can participate upon request of one of the three co-directors. A representative of the institutional committee can participate as an observer.  
 A scientific evaluation committee, external to the project and composed of internationally recognised researchers in the different fields of the project, will propose an analysis of the project's progress, the methods used and the results obtained at the mid-term and at the end of the project.  
@@ -170,7 +170,7 @@ This public circle, structured as a committee of personalities recognised for th
 <p class="longtext">With a view to simplifying administration, the Institut de Recherche pour le Développement (IRD), which has been present and active for many years in Viet Nam in all fields of applied research, was chosen as a partner to be the project's integrator and to contract with the various Vietnamese research operators and event organisers. AFD will contract within this framework (possibly via a COPAR) with IRD in a direct agreement format.  </p>
 <h2>6.2- Partner institutional authority  </h2>
 <p class="longtext">The Vietnamese institutional authority partner of the project is MONRE, via the DCC, as the permanent secretariat of the NCCC. It coordinates the institutional circle through the coordination committee. As such, it is in charge of :  
-<dl>
+<dl class="longtext">
 <dd> - Cooperation with relevant ministries and departments such as MPI, MFA, MARD, State Bank of Vietnam, GSO, etc.  </dd>
 <dd> - the validation at biannual intervals of the experts selected for the integration of the results into Viet Nam's climate strategies and the prioritisation of the research work in relation to the Vietnamese climate agenda.  </dd>
 <dd> - appropriation and dissemination of the project results in the relevant regulatory texts, and submission of the final project results reports to the NCCC and the relevant ministries.  </dd>
