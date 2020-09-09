@@ -267,7 +267,6 @@ img {
 }
 
 .dropdown-menu{
-	width: 200px;
 	height: 400px;
 	overflow-y: auto;
 }
@@ -280,7 +279,6 @@ img {
   padding: 0;
   width: 100%;
   word-break: break-word;
-  overflow-y: auto;
 }
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   white-space: normal;
@@ -289,7 +287,6 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
-  overflow-y: auto;
 }
 
 @media (min-width: 768px) {
