@@ -170,9 +170,11 @@ This public circle, structured as a committee of personalities recognised for th
 <p class="longtext">With a view to simplifying administration, the Institut de Recherche pour le Développement (IRD), which has been present and active for many years in Viet Nam in all fields of applied research, was chosen as a partner to be the project's integrator and to contract with the various Vietnamese research operators and event organisers. AFD will contract within this framework (possibly via a COPAR) with IRD in a direct agreement format.  </p>
 <h2>6.2- Partner institutional authority  </h2>
 <p class="longtext">The Vietnamese institutional authority partner of the project is MONRE, via the DCC, as the permanent secretariat of the NCCC. It coordinates the institutional circle through the coordination committee. As such, it is in charge of :  
--	Cooperation with relevant ministries and departments such as MPI, MFA, MARD, State Bank of Vietnam, GSO, etc.  
--	the validation at biannual intervals of the experts selected for the integration of the results into Viet Nam's climate strategies and the prioritisation of the research work in relation to the Vietnamese climate agenda.  
--	appropriation and dissemination of the project results in the relevant regulatory texts, and submission of the final project results reports to the NCCC and the relevant ministries.  
+<dl>
+<dd> - Cooperation with relevant ministries and departments such as MPI, MFA, MARD, State Bank of Vietnam, GSO, etc.  </dd>
+<dd> - the validation at biannual intervals of the experts selected for the integration of the results into Viet Nam's climate strategies and the prioritisation of the research work in relation to the Vietnamese climate agenda.  </dd>
+<dd> - appropriation and dissemination of the project results in the relevant regulatory texts, and submission of the final project results reports to the NCCC and the relevant ministries.  </dd>
+</dl>
 </p>
 <h2>6.3- Entities involved in the implementation of the project  </h2>
 <p class="longtext">The entities directly in charge of project implementation are therefore the research and institutional committees. They cooperate and exchange regularly for the smooth running of the project and the articulation between research and institutional dissemination.  </p>
