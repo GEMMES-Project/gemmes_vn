@@ -155,7 +155,7 @@ The exact composition of the coordination committee belongs to the MoNRE/DCC. It
 <dd> - A broad format, which will also include regional and thematic representatives from AFD, and higher level representation from the NCCC, DCC and ministerial experts.  </dd>
 </dl>
  
-<li>Finally, a public circle, which will promote the dissemination of information on the impacts of climate change and possible resilience strategies, while also feeding the diagnosis of researchers and politicians through closer contact with the different currents in society.  </ul>
+<li>Finally, a public circle, which will promote the dissemination of information on the impacts of climate change and possible resilience strategies, while also feeding the diagnosis of researchers and politicians through closer contact with the different currents in society.  </li>
 This public circle, structured as a committee of personalities recognised for their contribution to the dissemination and awareness of environmental and climate issues in Viet Nam and around the world, will be mobilised during dissemination events and on a case-by-case basis after discussion by the research and coordination committees. The composition of the committee is decided jointly by the coordination and research committees.  
 </ul>
 </p>
