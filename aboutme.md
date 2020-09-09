@@ -31,10 +31,10 @@ work-package_leaders:
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Toan Nguyen is a Research Associate at Queensland  University and a researcher at the  Institute of Research in Economics, Environment, and Data Science (IREEDS). His research interests are in labor economics and economics of immigration. He has published in highly ranking international journals such as - European Economic Review, Social Science and Medicine, and The World Economy.<span class="popup-btn-close">close</span></div>
   - name: Etienne Espagne 
     wp: WP5
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/etienne-espagne.jpg
     desc: Senior Economist <br> AFD, Paris
     website: https://www.afd.fr/fr/chercheurs/etienne-espagne
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Étienne Espagne est économiste de l’environnement et du développement. Ses programmes de recherche portent sur les impacts socio-économiques du changement climatique et sur les stratégies d’adaptation et d’atténuation mises en œuvre dans les pays émergents et en développement, notamment en Asie du Sud-est. C’est le cas par exemple du programme GEMMES Vietnam ou du programme Facilité Inégalités dans les pays du Bas Mékong. Plus globalement, les travaux d’Étienne Espagne s’intéressent aux politiques financières visant une transition bas carbone et résiliente, qui ont suivi la signature de l’Accord de Paris. Docteur en économie de l’environnement de l’École des hautes études en sciences sociales (EHESS), Étienne Espagne est également diplômé de l’école Mines ParisTech et de l’École d’économie de Paris. Il a publié dans diverses revues académiques, sur des sujets liés au changement climatique et aux politiques énergétiques. Il enseigne régulièrement à l’Université Paris 1, à l’EHESS, à l’École Polytechnique et à l’ENSTA Paris. Avant de rejoindre l’AFD en 2017, il a travaillé pour le Centre d’études prospectives et d’information internationale (CEPII), France Stratégie et le Centre international de recherche sur l’environnement et le développement (CIRED). <span class="popup-btn-close">close</span></div>
   - name: Emmanuel Pannier
     wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/pannier.jpg
