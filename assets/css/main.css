@@ -283,6 +283,7 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
+  overflow-y: auto;
 }
 
 @media (min-width: 768px) {
