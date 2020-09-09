@@ -133,7 +133,7 @@ The Gemmes VN project targets two distinct types of direct beneficiaries:
 <h2>4.2- Indirect beneficiaries of the project  </h2>
 <p class="longtext">
 Two types of indirect beneficiaries are considered:
-<ul>  
+<ul class="longtext">  
 <li>Non-governmental organisations and other relevant services will be able to use the scientific results and the dissemination to a wide public of the effects of climate change to guide and increase their actions on the ground.  </li>
 <li>The general public, particularly in Viet Nam, will have access to comprehensive and qualitative information on possible adaptation strategies to the effects of climate change.  </li>
 </ul>
