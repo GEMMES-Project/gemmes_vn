@@ -10,7 +10,7 @@ work-package_leaders:
     wp: WP1
     img: https://gohu00.github.io/gemmes_vn/assets/img/Thanh_ngo-duc.jpg
     desc: Assoc.Prof. <br> University of Science and Technology of Hanoi
-    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Soon<span class="popup-btn-close">close</span></div>
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Assoc. Prof. Thanh Ngo-Duc obtained his engineer diploma (2001), master (2002) and PhD degrees in France (2005) and then spent three years at the University of Tokyo for his Post-Doctoral research on hydro-meteorological modelling. He is currently the Co-Director of the Department of Space and Applications (DSA), and the co-director of the LOTUS International Joint Laboratory (http://lotus.usth.edu.vn) at the University of Science and Technology of Hanoi (USTH). Dr. Thanh Ngo-Duc also leads the research group of Remote Sensing and Modelling of Surface and Atmosphere (REMOSAT), which is recognized as one of the groups with good scientific publishing and international cooperation achievements in Vietnam. His research, using modeling and remote sensing tools, focuses on the topics of natural disasters and climate change, including floods and heavy rainfall mechanisms.<span class="popup-btn-close">close</span></div>
   - name: Manh-Hung Nguyen
     wp: WP2
     img: https://gohu00.github.io/gemmes_vn/assets/img/Manh-Hung-Nguyen_alt.jpg
