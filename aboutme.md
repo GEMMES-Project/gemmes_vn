@@ -88,11 +88,11 @@ work-package_others:
     website: elodie.mania@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Elodie Mania is a young scholar and assistant professor at the University of Rouen Normandy (France). Her doctoral thesis is in the fields of development economics, macroeconomics and international economics. With recent publications in scientific journals like Journal of International Development or Structural Change and Economic Dynamics, her research works focus on economic issues related to trade diversification and the vulnerability of growth models in developing countries to macroeconomic instabilities and environmental issues.<span class="popup-btn-close">close</span></div>
   - name: Phan Phương Anh
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Phuong_Anh.JPG
     desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Vũ Toàn Cảnh
     wp: WP6
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Vu_Canh_Toan.jpg
     desc: Development studies <br> Institute for Social and Environmental Transition–International (ISET-International).
   - name: Gwenn Pulliat
     wp: WP6
@@ -112,7 +112,7 @@ work-package_others:
     desc: Master student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Nguyễn Nhật Anh
     wp: WP6
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Anh-chan-dung.jpg
     desc: Graduate student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Lê Hoang Hải Anh
     wp: WP6
