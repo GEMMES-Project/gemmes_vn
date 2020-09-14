@@ -53,6 +53,12 @@ work-package_others:
     wp: WP1
     img: https://gohu00.github.io/gemmes_vn/assets/img/hoang_vinh_bach.jpg
     desc: Web master <br> Hanoi, Vietnam
+  - name: Philip Minderhoud
+    wp: WP1  
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Philip_Minderhoud_alt.jpg
+    desc: Researcher <br>  EU Marie-Curie Research Fellow at Padova University, Italy
+    website: S.EslamiArab@uu.nl 
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">He is an expert on subsidence in deltaic areas, with the specific focus on the Mekong delta in Vietnam. He received a PhD for his dissertation titled: The Sinking Mega delta: Present and future subsidence of the Vietnamese Mekong delta (2019) at Utrecht University within the Dutch-Vietnamese Rise and Fall project. During his PhD research he studied delta subsidence in the Mekong delta by integrating data and methods from various scientific disciplines, including geology, hydrogeology, geotechnical engineering and remote sensing. As Postdoc within the ‘Water, Climate and Future Deltas’ research focus area of Utrecht University he focused on developing pathways to a sustainable future for subsiding deltas impacted by climate change and high rates of relative sea level rise. As expert at the Deltares research institute he has been involved in a range of applied science projects, several located in Vietnam, translating science on sinking deltas towards policy. Currently, he is an EU Marie-Curie Research Fellow at Padova University, Italy on the MSCA-IF Project: InSPiRED - Improving Subsidence PREdictions in Delta systems - aimed to bridge the gap between geosciences and geoengineering and improving our numerical capacities to predict future relative sea-level rise in deltas. Beside doing fundamental research towards the processes and causes underlying delta subsidence, he actively focuses on impact-orientated research aiming to create awareness, achieve societal research uptake and aid delta policymakers to develop strategies to cope with ongoing land subsidence and accelerated sea-level rise. <span class="popup-btn-close">close</span></div>
   - name: Kien Le
     wp: WP2
     img: https://gohu00.github.io/gemmes_vn/assets/img/Le_Kien-WP2_ECO.JPG
@@ -108,7 +114,14 @@ work-package_others:
     img: https://gohu00.github.io/gemmes_vn/assets/img/boi-yen-ha.jpg
     desc: Master’s degree in Public Policy and Development <br> Paris School of Economics   
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Currently undertaking a Master’s degree in Public Policy and Development at the Paris School of Economics jointly founded by the top French academic institutions, HA Boi Yen receives rigorous training in analytical and quantitative economic methods with an emphasis on both policy and practice. As part of the GEMMES project, her work focuses on the impact of extreme events on Vietnam using remote sensing technology and the associated implications of climate change. She is passionate about bridging the gap between natural science and economics to contribute to well-informed policy-making on climate change adaptation <span class="popup-btn-close">close</span></div>
+  - name: Sepehr Eslami
+    wp: WP5  
+    img: https://gohu00.github.io/gemmes_vn/assets/img/sepehr.eslami.jpg
+    desc: PhD Candidate <br> on Coastal Dynamics, Fluvial Systems and Global Change <br>  Utrecht University. 
+    website: S.EslamiArab@uu.nl 
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Sepehr Eslami, MSc, with 10-years+ of experience from marine contracting to consultancy and academia, is a part time researcher/advisor at Deltares and an independent consultant. He is also a part-time PhD fellow at Utrecht University (the Netherlands), addressing fluvial and marine dynamics of deltas in the context of global climate change. With deep understanding of environmental systems, he has advised/lead a wide range of projects with different scopes (development to execution) in Europe, SE Asia and Middle East. Over the past 6 years, in the context of the Rise & Fall Project, he has recently developed an integrated framework for the Mekong mega-Delta, combining multiple 3D delta-wide numerical models. He has applied this integrated framework to develop environmental pathways for the delta, to study basin-wide water and food security. As a member of Netherlands Centre for Coastal Research (NCK) and Coastal Engineering Research Council (CERC), his interests are in connecting deep understanding of environmental systems dynamics to multi-disciplinary development of adaptation strategies.<span class="popup-btn-close">close</span></div>
   - name: Phan Phương Anh
+    wp: WP6
     img: https://gohu00.github.io/gemmes_vn/assets/img/Phuong_Anh.JPG
     desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Vũ Toàn Cảnh
