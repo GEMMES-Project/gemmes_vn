@@ -87,6 +87,22 @@ work-package_others:
     desc: PhD student, young scholar <br> University of Rouen Normandy, France.
     website: elodie.mania@univ-rouen.fr
     pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Elodie Mania is a young scholar and assistant professor at the University of Rouen Normandy (France). Her doctoral thesis is in the fields of development economics, macroeconomics and international economics. With recent publications in scientific journals like Journal of International Development or Structural Change and Economic Dynamics, her research works focus on economic issues related to trade diversification and the vulnerability of growth models in developing countries to macroeconomic instabilities and environmental issues.<span class="popup-btn-close">close</span></div>
+  - name: Jean-Louis Brillet
+    wp: WP5  
+    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    desc: Economist and computer specialist
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">Jean Louis Brillet is a recognized international expert in econometric modelling. His experience combines theory, practice and education. He is the author of several books on modeling, using a very applied approach through the EViews software.In his numerous cooperating projects, he has devised a methodology focusing on the interaction between the expert and the local team. As a computer specialist, he has produced several original methods and tools for managing models.<span class="popup-btn-close">close</span></div>
+  - name: Jacques Mazier
+    wp: WP5  
+    img: https://gohu00.github.io/gemmes_vn/assets/img/mazier.jpg
+    desc: Economist <br> Centre d’Economie de l’Université Paris Nord CEPN – UMR CNRS 7234  <br> Université Sorbonne Paris Nord
+	website: mazier@univ-paris13.fr
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup"> Ecole Polytechnique (1966); doctorat d'état ès sciences économiques, Université Paris I (1974); agrégation de sciences économiques (1975) Chargé de mission, Direction de la prévision, Ministère de l’économie et des finances (1970-1975) ; professeur de sciences économiques, Université de Rennes I (1976-1981); chargé de mission, Commissariat Général du Plan (1981-1983) ; directeur de l’I.R.E.S. (1985-1988); professeur, Université Paris-Nord (1983-2013); professeur émérite (depuis 2013) ; chercheur associé à la chaire Energie et prospérité (depuis 2019)<br>Centre d’Economie de l’Université Paris Nord CEPN – UMR CNRS 7234 ; Université Sorbonne Paris Nord; e-mail : mazier@univ-paris13.fr<br>Ouvrages récents <br>“L’économie vietnamienne en transition: les facteurs de la réussite”, L’Harmattan, co-édité avec C. Le Van, 1998.<br>"When economic crises endure", M.E. Sharpe, New York, avec M. Baslé et J.F. Vidal, 1999 <br>“L’économie vietnamienne et la crise asiatique”, L’Harmattan, co-édité avec C. Le Van, 1999.<br>"Les grandes économies européennes", Repères, La Découverte, 1999. <br>“L’économie mondiale en 2030: ruptures et continuité”, co-édité avec P. Petit et D. Plihon, Economica, 2013 <br>« Quand les crises reviennent », avec M. Clévenot et V. Duwicquet, Economica, 2016. <br>« Global imbalances and financial capitalism, Stock-Flow-Consistent modelling », Routledge, 2020 <span class="popup-btn-close">close</span></div>
+  - name: Luis Reyes-Ortiz
+    wp: WP5  
+    img: https://gohu00.github.io/gemmes_vn/assets/img/reyes.png
+    desc: Professor of finance and economics <br> Kedge Business School 
+    pop: <a class="popup-trigger" rel="nofollow">Biography</a><div class="popup">I hold a PhD in macroeconomics from Paris 13 and a Master degree in economic modeling from Paris 1 University. My PhD thesis studies the shifts in objectives of economic policy in France since the seventies. Currently developing empirical stock-flow models for prospective purposes and scenario analysis, I currently work at Kedge Business School as professor of finance and economics. My research focuses on the international financial system, financialization, demand regimes in Latin America, the Chinese economy, the exchange rate, monetary disparities in the euro zone, the energy transition, and other related subjects. <span class="popup-btn-close">close</span></div>
   - name: Phan Phương Anh
     img: https://gohu00.github.io/gemmes_vn/assets/img/Phuong_Anh.JPG
     desc: Anthropologist <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
