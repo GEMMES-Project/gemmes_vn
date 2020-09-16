@@ -150,7 +150,7 @@ work-package_others:
     desc: Graduate student in anthropology <br> Faculty of Anthropology, University of Social Sciences and Humanities, Vietnam National University
   - name: Lê Hoang Hải Anh
     wp: WP6
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    img: https://gohu00.github.io/gemmes_vn/assets/img/Hai_Anh_alt.jpg
     desc: Socio-agronomist <br> Can Tho University, Institute for Climate Change (DRAGON)
 ---
 
