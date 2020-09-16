@@ -188,7 +188,7 @@ This public circle, structured as a committee of personalities recognised for th
 <div id="package1" class="card" data-package="packageOne">
 	<h2 class="wp">Work package n°1 - CLIMATO </h2>
 
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP1_alt.jpg">
+	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP1_alt_bis.jpg">
 	<p class="chapo">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
