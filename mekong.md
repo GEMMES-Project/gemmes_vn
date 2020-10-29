@@ -2,22 +2,22 @@
 layout: page
 title: Mekong
 subtitle: Discover our projects
-cover-img: https://gohu00.github.io/gemmes_vn/assets/img/sunset.jpg
+cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/sunset.jpg
 i18n-link: mekong
 lang: en
 packages:
   - name: Package-1
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/project/#package1
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    url: https://gemmes-project.github.io/gemmes_vn/project/#package1
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Package-2
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/project/#package2
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    url: https://gemmes-project.github.io/gemmes_vn/project/#package2
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Package-3
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/project/#package3
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    url: https://gemmes-project.github.io/gemmes_vn/project/#package3
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/avatar-icon.png
 ---
 
 
