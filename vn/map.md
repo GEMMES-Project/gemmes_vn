@@ -2,7 +2,7 @@
 layout: minimal
 title: Map (VN)
 subtitle: Interactive map (VN)
-cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
+cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: map
 lang: vn
 ---
