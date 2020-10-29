@@ -2,7 +2,7 @@
 layout: page_map
 title: Typhoons
 subtitle: Use this app to observe past-typhoons trajectories on Vietnam
-cover-img: https://gohu00.github.io/gemmes_vn/assets/img/path.jpg
+cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/path.jpg
 i18n-link: gemmes
 lang: en
 ---
