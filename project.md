@@ -2,7 +2,7 @@
 layout: page
 title: Project
 subtitle: Discover our project
-cover-img: https://gohu00.github.io/gemmes_vn/assets/img/bac-son.jpg
+cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg
 i18n-link: project
 lang: en
 
@@ -10,16 +10,16 @@ lang: en
 modules:
   - name: Mekong
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/mekong/
-    img: https://gohu00.github.io/gemmes_vn/assets/img/sunset.jpg
+    url: https://gemmes-project.github.io/gemmes_vn/mekong/
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/sunset.jpg
   - name: Health
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/health/
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    url: https://gemmes-project.github.io/gemmes_vn/health/
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/avatar-icon.png
   - name: Migration
     desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed sapien dignissim, consectetur tellus ultrices, ultricies orci.
-    url: https://gohu00.github.io/gemmes_vn/migration/
-    img: https://gohu00.github.io/gemmes_vn/assets/img/avatar-icon.png
+    url: https://gemmes-project.github.io/gemmes_vn/migration/
+    img: https://gemmes-project.github.io/gemmes_vn/assets/img/avatar-icon.png
 
 ---
 
@@ -188,14 +188,14 @@ This public circle, structured as a committee of personalities recognised for th
 <div id="package1" class="card" data-package="packageOne">
 	<h2 class="wp">Work package n°1 - CLIMATO </h2>
 
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP1_alt_bis.jpg">
+	<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/WP1_alt_bis.jpg">
 	<p class="chapo">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
 
 			
 		<p class="longtext">The goal of WP1 is threefold: build a comprehensive set of climate related variables in the past for Vietnam over the long run; provide with a probabilistic set of spatialized temperature, precipitation, extreme events scenarios, salinity intrusion scenarios, … with a high spatial resolution over Vietnamese territory for the 21st century; finally play a coordination role with the empirical studies conducted in WP2, WP3, and WP4 as well as with the macro analysis in WP5 for all climate related questions. </p>
-		<img src="https://gohu00.github.io/gemmes_vn/assets/img/wp1_graph.png">
+		<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/wp1_graph.png">
 		<p class="longtext">In order to provide the probabilistic set of spatialized temperature, precipitation, extreme events scenarios, ... over Vietnam for the 21st century, the method applied will follow the study of Hsiang et al. (2017), by using a two-level technique. First, probabilistic global temperature projections will be obtained from global climate models (GCMs) forced by the different Representative Concentration Pathways (RCP). These projections are used to weight the spatialized results of the temperature and precipitation projections of a set of GCMs from the Coupled Model Intercomparison Project Phase 5 (CMIP5). This technique, called pattern scaling, makes it possible to obtain "projection equivalents" even in portions of the global projections that are not represented by the existing GCMs. The recently available results of the CMIP6 inter comparison project will also be used to update climate projections. Spatially detailed probability distributions of temperature, precipitation, and other climate variables of interest are obtained using this method. Beside, WP1 may also use the 6-hourly to monthly outputs of the CORDEX network (Coordinated Regional Downscaling Experiment) for comparing with the results from the probabilistic method. From the obtained daily data (such as rainfall, maximum and minimum temperatures), the Climate Extreme Indices will be estimated for assessing extreme events. The temporal resolution required for assessing impacts is often less than one month so that the availability of daily estimates (a priori in line with observed historical variabilities) will enable better assessment the economic impact on agriculture, for example.</p>		
 		
 		<h3>Related subjects</h3>
@@ -209,7 +209,7 @@ This public circle, structured as a committee of personalities recognised for th
 
 <div id="package2" class="card" data-package="packageTwo">
 	<h2 class="wp">Work package n°2 - ECO </h2>
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP2_main.jpg">
+	<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/WP2_main.jpg">
 	<p class="chapo">WP2 focuses on an empirical analysis of past economic impacts of climate in Vietnam. This will allow us to evaluate response functions of specific impacts (and adaptation strategies) due to variations in temperature and precipitation (as well as other environmental variables, such as extreme events or sea-level rise) on major economic sectors of the Vietnamese economy such as agriculture (among which rice production, aquaculture, …), energy (both demand and supply), the informal sector, as well as the impact of extreme events on the stock of capital (infrastructure). In coordination with WP1, this package will also have the goal to project these response functions into the future, considering the relevant uncertainties in future climate. </p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
@@ -239,7 +239,7 @@ This public circle, structured as a committee of personalities recognised for th
 
 <div id="package3" class="card" data-package="packageThree">
 	<h2 class="wp">Work package n°3 - SOCIO  </h2>
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/WP3_main.jpg">
+	<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/WP3_main.jpg">
 	<p class="chapo">The aims of SOCIO is to evaluate the effects of climate change and natural disasters on social economics aspects such as: labor productivity, migration, human capital. This work package also examines causal impacts of climate change and extreme weather on nutrition and public health.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
@@ -272,7 +272,7 @@ This public circle, structured as a committee of personalities recognised for th
 	<h2 class="wp">Work package n°5 - MACRO</h2>
 	<h3 class="wptitle">Macroeconomic assessment of climate damages and adaptation strategies</h3>
 	
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/train.jpg">
+	<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/train.jpg">
 	<p class="chapo">This central macroeconomic model gives an exhaustive view of the socio-economic impacts of climate change in Vietnam and adaptation strategy, by aggregating the different sectoral or region-specific analysis as well as the climate projections of other packages. We present interactive versions of this first stock-flow coherent model of the Vietnamese economy coupled with climate impacts and adaptation prospective scenarios.</p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
@@ -296,7 +296,7 @@ This public circle, structured as a committee of personalities recognised for th
 	<h2 class="wp">Work package n°6 - ADAPTO  </h2>
 	<h3 class="wptitle">A qualitative approach to local responses to climate change in Vietnam</h3>
 	
-	<img src="https://gohu00.github.io/gemmes_vn/assets/img/adapto.JPG">
+	<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/adapto.JPG">
 	<p class="chapo"> « Adapto » is a social sciences package that address the question of local responses to climate change through a qualitative approach. We study the social, political, institutional and spatial issues that shape adaptation strategies to environmental hazards and climate change at the local level.  </p><span class="dots"></span>
 	<div class="more" style="display: none;">
 	
