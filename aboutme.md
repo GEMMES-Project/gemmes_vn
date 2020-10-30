@@ -2,7 +2,7 @@
 layout: page
 title: About us
 subtitle: Meet our team and institutional partners 
-cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/path.jpg
+cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/group_photo.jpg
 i18n-link: aboutme
 lang: en
 work-package_leaders:
