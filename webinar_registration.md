@@ -140,7 +140,7 @@ fieldset {
 
 <div class="container" >
 <form name="contact" id="contact" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSelzhlAQN_RwGjoX9ltfYq37SMemGmJt6hyr4_-3RAllsd5KQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-    <h3>Subscribe to our mailing list</h3>
+    <h3>Register for the webinar</h3>
     <h4>Please fill in the following form.</h4>
     <fieldset>
       <input name="entry.1361743724" id="entry.1361743724" placeholder="First name" type="text" tabindex="1" required autofocus>
