@@ -267,8 +267,12 @@ img {
 }
 
 .dropdown-menu{
-	height: 400px;
-	overflow-y: auto;
+	overflow-y: scroll;
+	height:auto;
+	max-height:400px;
+	scrollbar-width: thin;
+	white-space: nowrap;
+	overflow-x: hidden;
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
