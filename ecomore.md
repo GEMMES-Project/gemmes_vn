@@ -10,10 +10,14 @@ lang: en
 
 <style>
 
+.map-helper{
+	height:100px;
+}
+
+
 .map-helper, iframe {
-    width: 1800px;
-    height: 100px;
-    margin: auto auto auto auto;
+    width: 1600px;
+    margin:0% 3% 0% 3%;
     background-color: #ffffff;
 }
 
@@ -27,11 +31,16 @@ iframe {
 	text-align:center;
 }
 
+.iframecenter{
+	position:relative;
+	left:5%;
+	width:auto;
+}
 
 
 </style>
 
-
+<div class="iframecenter">
 <div class="map-helper">
 <a href="https://remosat.usth.edu.vn/ecomore2/VNM">Open in a new window?</a>
 
@@ -41,3 +50,5 @@ iframe {
 
 <iframe ddd scrolling="no" src="https://remosat.usth.edu.vn/ecomore2/VNM"
 ></iframe>
+
+</div>
