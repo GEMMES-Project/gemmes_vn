@@ -76,12 +76,12 @@ t:
     fr: "Santé"
     vn: "Health_vn"
   project: 
-    en: "Project"
-    fr: "Projet"
+    en: "Our approach"
+    fr: "Notre approche"
     vn: "Projet_vn"
   map:
-    en: "Interactive apps"
-    fr: "Applications interactives"
+    en: "Maps"
+    fr: "Cartes"
     vn: "Apps (VN)"
   ecomore:
     en: "Climate simulations"
