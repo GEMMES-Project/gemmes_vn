@@ -27,6 +27,7 @@ body {
 
 #contact input[type="text"],
 #contact input[type="text"],
+#contact input[type="text"],
 #contact input[type="email"],
 #contact button[type="submit"] {
   font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
@@ -65,6 +66,7 @@ fieldset {
 
 #contact input[type="text"],
 #contact input[type="text"],
+#contact input[type="text"],
 #contact input[type="email"]{
   width: 100%;
   border: 1px solid #ccc;
@@ -73,6 +75,7 @@ fieldset {
   padding: 10px;
 }
 
+#contact input[type="text"]:hover,
 #contact input[type="text"]:hover,
 #contact input[type="text"]:hover,
 #contact input[type="email"]:hover{
