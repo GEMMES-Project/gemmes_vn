@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project
-subtitle: Discover our project
+title: Our approach
+subtitle: Discover our approach
 cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg
 i18n-link: project
 lang: en
