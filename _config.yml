@@ -16,8 +16,8 @@ url: ""
 
 t:
   research:
-    en: "Research topics"
-    fr: "Sujets de recherche"
+    en: "Research"
+    fr: "Recherche"
     vn: "Rech_vn"  
   global:
     en: "Overview"
