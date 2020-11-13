@@ -148,8 +148,11 @@ fieldset {
 	<fieldset>
       <input name="entry.906964234" id="entry.906964234" placeholder="Last name" type="text" tabindex="2" required>
     </fieldset>
+	<fieldset>
+      <input name="" id="" placeholder="Institution" type="test" tabindex="3" required>
+    </fieldset>
     <fieldset>
-      <input name="entry.1500516366" id="entry.1500516366" placeholder="Your Email Address" type="email" tabindex="3" required>
+      <input name="entry.1500516366" id="entry.1500516366" placeholder="Your Email Address" type="email" tabindex="4" required>
     </fieldset>
         <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
@@ -165,6 +168,6 @@ fieldset {
 <script type="text/javascript">
 $('#contact').on('submit', function(e) {
   $('#contact *').fadeOut(2000);
-  $('#contact').prepend('Your submission has been processed. Thank you!');
+  $('#contact').prepend('Your submission has been processed. Thank you! An invitation will be sent to you by email a few days before the webinar.');
   });
 </script>
