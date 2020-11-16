@@ -7,64 +7,134 @@ i18n-link: index
 lang: en
 ---
 
+<style>
+.testing{
+	min-height: 10rem;
+	display: flex;
+	align-items: center;
+	box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+	padding: 28.42705px;
+	position: relative;
+	flex-direction: row;
+	transition: all 300ms ease;
+	background-color: #FCFCFC;
+	justify-content: space-between;
+}
+
+.image{
+
+
+}
+
+.texte{
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 28px;
+
+  line-height: 33px;
+  color: #250e62;
+  background: #FFFFFF;
+  text-align: center;
+  width: 85%;
+  height: 100px;
+  margin: auto;
+  @media (max-width: 620px) {
+	font-size: 16px;}
+}
+
+
+.arrow{
+  border-width: 0 0 100px 100px;
+  position: inherit;
+  margin-left: 28px;
+  color: #250e62;
+  width:4em;
+  height:4em;
+  margin: auto;
+  display:block;
+}
+
+.arrowbox{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  display:block;
+  margin-left: 5rem;
+}
+.subtesting{
+  display:flex;
+}
+
+
+
+.project_box {
+    display: inline-block;
+    height: 100%;
+    line-height: 2em;
+    position: relative;
+    vertical-align: middle;
+    width: 100%;
+}
+</style>
+
+
+
 <h1 class="text-center"> What is GEMMES Vietnam? </h1>
 
-<p style="text-align: justify; text-justify: inter-word; line-height: 1.6;"> This research project is part of the implementation of the Memorandum of Understanding signed in March 2018 between the Minister of Environment and Natural Resources of the Socialist Republic of Viet Nam and the Director General of the French Development Agency. This memorandum, which covers various topics related to the implementation of the Paris Agreement, has as a priority goal the study of the various dimensions of climate damage in Viet Nam and the assessment of adaptation strategies. The present project is the main concretization of this, materialized in a new Memorandum of Understanding signed in December 2019. In addition, this project provides significant support to Vietnamese research and the production of high-level research results that will support the public policy dialogue of the Agence Française de Développement with the Socialist Republic of Viet Nam.</p>
+<p style="text-align: justify; text-justify: inter-word; line-height: 1.6;"> The GEMMES Vietnam project is a research project in response to the strong political demand in Vietnam for better assessing the socio-economic impacts of future climate changes and developing a prospective view of possible adaptation actions. It is developed together between Agence Française de Développement (AFD) and the Department of Climate Change of the Ministry of Natural Resources and Environment (MoNRE/DCC), with the support of the Development Research Institute (IRD) and Institute of Meteorology, Hydrology, and Climate (IMHEN).</p>
+
+
+<div class="testing">
+	<a class="subtesting" href="{{ page.base-url }}ecomore/">
+
+	<p class="texte"> Explore the ways climate change will impact where you live, work and do business </p>
+
+<span class="arrowbox">
+	<svg viewBox="0 0 16 16" class="arrow" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+	  <path fill-rule="evenodd" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-11.5.5a.5.5 0 0 1 0-1h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5z"/>
+	</svg>
+	</span>
+	</a>
+</div>
+
+
+<p style="text-align: justify; text-justify: inter-word; line-height: 1.6;"> AFD, a French State public establishment and financing company, is a stakeholder in France's official development assistance mechanism. It has gradually oriented its aid and cooperation mechanism towards financing climate change mitigation and/or adaptation policies and projects and has become one of the leading international donors with the objective of becoming a "100% Paris Agreement".</p>
 
 
 
-<h1 class="text-center">Discover our project</h1>
+<h1 class="text-center" style="margin-top:2rem">Discover our project</h1>
 
 <div class="spacer"></div>
 
 <div class="row text-center">
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+
+  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <!-- {%- assign gh-user = "OCram85"-%} -->
-      <!-- {%- assign gh-project = "Ponduit" -%} -->
       <a href="{{ page.base-url }}project/" class="project-link" title="Go to Poject Page">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-university fa-stack-1x fa-inverse"></i>
+        <span class="project_box">
+			<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
         </span>
-        <h4>Project Presentation</h4>
+        <h4>Our approach</h4>
         <hr class="seperator">
         <p class="text-muted">A presentation of our project.</p>
-        
       </a>
     </div>
   </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <!-- {%- assign gh-project = "PSCoverage" -%} -->
       <a href="{{ page.base-url }}global/" class="project-link" title="Go to Research Page">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+        <span class="project_box">
+			<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
         </span>
-        <h4>The research</h4>
+        <h4>Research</h4>
         <hr class="seperator">
         <p class="text-muted">Have a look at our research modules</p>
-        
       </a>
     </div>
   </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
-    <!-- {%- assign gh-project = "PSCredentialStore" -%} -->
-      <a href="{{ page.base-url }}map/" class="project-link" title="Go to the Interactive Map Page">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-square fa-stack-2x stack-color"></i>
-          <i class="fa fa-map fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4>Interactive apps</h4>
-        <hr class="seperator">
-        <p class="text-muted">Discover our work with interactive apps</p>
-        
-      </a>
-    </div>
-  </div>
+  
 </div>
+
 
 <link rel="stylesheet" href="https://gemmes-project.github.io/gemmes_vn/assets/css/corner-popup.min.css">
 
