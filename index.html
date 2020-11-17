@@ -21,10 +21,6 @@ lang: en
 	justify-content: space-between;
 }
 
-.image{
-
-
-}
 
 .texte{
   font-family: 'Lora', 'Times New Roman', serif;
@@ -74,6 +70,30 @@ lang: en
     position: relative;
     vertical-align: middle;
     width: 100%;
+}
+
+
+@media (max-width: 767px) {
+  .subtesting {
+    flex-direction: column;
+  }
+  .subtesting .texte {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .subtesting .arrowbox{
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  display:block;
+  margin-left: none;
+  }
+  .subtesting .arrowbox .arrow {
+  border-width: 0 0 50px 50px;
+  margin-left: 0;
+  width:2em;
+  height:2em;
+  }
 }
 </style>
 
