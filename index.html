@@ -21,6 +21,29 @@ lang: en
 	justify-content: space-between;
 }
 
+@media (max-width: 767px) {
+  .subtesting {
+    flex-direction: column;
+  }
+  .subtesting .texte {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .subtesting .arrowbox{
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  display:block;
+  margin-left: none;
+  }
+  .subtesting .arrowbox .arrow {
+  border-width: 0 0 50px 50px;
+  margin-left: 0;
+  width:2em;
+  height:2em;
+  }
+}
+
 
 .texte{
   font-family: 'Lora', 'Times New Roman', serif;
@@ -70,38 +93,26 @@ lang: en
     position: relative;
     vertical-align: middle;
     width: 100%;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 }
 
-
-@media (max-width: 767px) {
-  .subtesting {
-    flex-direction: column;
-  }
-  .subtesting .texte {
-    font-size: 20px;
-    line-height: 22px;
-  }
-  .subtesting .arrowbox{
-  width: 50px;
-  height: 50px;
-  margin: auto;
-  display:block;
-  margin-left: none;
-  }
-  .subtesting .arrowbox .arrow {
-  border-width: 0 0 50px 50px;
-  margin-left: 0;
-  width:2em;
-  height:2em;
-  }
+.box-img{
+  width: 100%;
+  height: 20rem;
 }
+
+.project-title{
+    font-size: 1.75rem;
+    text-shadow: 0.1px 0.1px;
+    color: #da291c;
+  }
 </style>
 
 
 
 <h1 class="text-center"> What is GEMMES Vietnam? </h1>
 
-<p style="text-align: justify; text-justify: inter-word; line-height: 1.6; font-weight:bold"> The GEMMES Vietnam project is a research project in response to the strong political demand in Vietnam for better assessing the socio-economic impacts of future climate changes and developing a prospective view of possible adaptation actions. It is developed together between Agence Française de Développement (AFD) and the Department of Climate Change of the Ministry of Natural Resources and Environment (MoNRE/DCC), with the support of the Development Research Institute (IRD) and Institute of Meteorology, Hydrology, and Climate (IMHEN).</p>
+<p style="text-align: justify; text-justify: inter-word; line-height: 1.6; text-shadow: 0.1px 0.1px;"> The GEMMES Vietnam project is a research project in response to the strong political demand in Vietnam for better assessing the socio-economic impacts of future climate changes and developing a prospective view of possible adaptation actions. It is developed together between Agence Française de Développement (AFD) and the Department of Climate Change of the Ministry of Natural Resources and Environment (MoNRE/DCC), with the support of the Development Research Institute (IRD) and Institute of Meteorology, Hydrology, and Climate (IMHEN).</p>
 
 
 <div class="testing">
@@ -118,7 +129,7 @@ lang: en
 </div>
 
 
-<p style="text-align: justify; text-justify: inter-word; line-height: 1.6; font-weight:bold"> AFD, a French State public establishment and financing company, is a stakeholder in France's official development assistance mechanism. It has gradually oriented its aid and cooperation mechanism towards financing climate change mitigation and/or adaptation policies and projects and has become one of the leading international donors with the objective of becoming a "100% Paris Agreement".</p>
+<p style="text-align: justify; text-justify: inter-word; line-height: 1.6; text-shadow: 0.1px 0.1px;"> AFD, a French State public establishment and financing company, is a stakeholder in France's official development assistance mechanism. It has gradually oriented its aid and cooperation mechanism towards financing climate change mitigation and/or adaptation policies and projects and has become one of the leading international donors with the objective of becoming a "100% Paris Agreement".</p>
 
 
 
@@ -132,9 +143,9 @@ lang: en
     <div class="project-card">
       <a href="{{ page.base-url }}project/" class="project-link" title="Go to Poject Page">
         <span class="project_box">
-			<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
+			<img class="box-img" src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
         </span>
-        <h4>Our approach</h4>
+        <h4 class="project-title">Our approach</h4>
         <hr class="seperator">
         <p class="text-muted">A presentation of our project.</p>
       </a>
@@ -144,9 +155,9 @@ lang: en
     <div class="project-card">
       <a href="{{ page.base-url }}global/" class="project-link" title="Go to Research Page">
         <span class="project_box">
-			<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
+			<img class="box-img" src="https://gemmes-project.github.io/gemmes_vn/assets/img/bac-son.jpg"> 
         </span>
-        <h4>Research</h4>
+        <h4 class="project-title">Research</h4>
         <hr class="seperator">
         <p class="text-muted">Have a look at our research modules</p>
       </a>
@@ -154,7 +165,6 @@ lang: en
   </div>
   
 </div>
-
 
 <link rel="stylesheet" href="https://gemmes-project.github.io/gemmes_vn/assets/css/corner-popup.min.css">
 
