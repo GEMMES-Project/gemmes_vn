@@ -1075,8 +1075,8 @@ a.project-link:hover {
     padding: 0px;
     margin-top: 10px;
     margin-bottom: 5px;
-    min-height: 5em;
-	
+    min-height: none;
+	text-shadow: 0.1px 0.1px;
 }
 
 .seperator {
