@@ -42,7 +42,7 @@ iframe {
 
 <div class="iframecenter">
 <div class="map-helper">
-<a href="https://remosat.usth.edu.vn/ecomore2/VNM">Open in a new window?</a>
+<p> Depending on the size of your screen, you may want to resize the page. or <a href="https://remosat.usth.edu.vn/ecomore2/VNM">open it in a new window.</a></p>
 
 </div>
 
