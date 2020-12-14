@@ -9,7 +9,7 @@
         {% endif %}
       {% endif %}
       {% if item.name %}
-        <h4 class="item-name">{{ item.name }}</h4>
+        <a href="{{ item.url }}"><h4 class="item-name">{{ item.name }}</h4></a>
       {% endif %} 
 	  {% if item.wp %}
         <h4 class="item-desc">{{ item.wp }}</h4>
