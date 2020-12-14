@@ -212,10 +212,6 @@ modules:
 		<img src="https://gemmes-project.github.io/gemmes_vn/assets/img/wp1_graph.png">
 		<p class="longtext">In order to provide the probabilistic set of spatialized temperature, precipitation, extreme events scenarios, ... over Vietnam for the 21st century, the method applied will follow the study of Hsiang et al. (2017), by using a two-level technique. First, probabilistic global temperature projections will be obtained from global climate models (GCMs) forced by the different Representative Concentration Pathways (RCP). These projections are used to weight the spatialized results of the temperature and precipitation projections of a set of GCMs from the Coupled Model Intercomparison Project Phase 5 (CMIP5). This technique, called pattern scaling, makes it possible to obtain "projection equivalents" even in portions of the global projections that are not represented by the existing GCMs. The recently available results of the CMIP6 inter comparison project will also be used to update climate projections. Spatially detailed probability distributions of temperature, precipitation, and other climate variables of interest are obtained using this method. Beside, WP1 may also use the 6-hourly to monthly outputs of the CORDEX network (Coordinated Regional Downscaling Experiment) for comparing with the results from the probabilistic method. From the obtained daily data (such as rainfall, maximum and minimum temperatures), the Climate Extreme Indices will be estimated for assessing extreme events. The temporal resolution required for assessing impacts is often less than one month so that the availability of daily estimates (a priori in line with observed historical variabilities) will enable better assessment the economic impact on agriculture, for example.</p>		
 		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-
-	
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
@@ -296,11 +292,6 @@ modules:
 		<p class="longtext">Government institutions, research institutes and universities in Vietnam are using different types of macroeconomic models for modelling the Vietnamese economy and forecasting as well as policy analysis: structural macro-econometric models, time series-based models and input-output models. Computable General Equilibrium (CGE) models constitute the main existing accounting-based macroeconomic modelling approach in Vietnam. The Social Accounting Matrix (SAM) used in these CGE models combine the Input-Output (I-O) table, the Vietnam Households Living Standard Survey (VHLSS) and other macroeconomic data from the government as well as international sources such as the World Bank and the International Monetary Fund. However, the financial sector is not modelled there mainly due to the lack of availability of financial data, but also to the more fundamental hypothesis that the structure of the balance sheet of agents do not matter for the overall dynamics of the system. We consider on the contrary that balance sheets matter in the long run as well, and they are key to highlight adaptation financing strategies. </p>
 		<p class="longtext">This page will detail the structure of the different versions of the macroeconomic model used in the GEMMES Vietnam project. It will explain the way macroeconomic data have been gathered, transformed in line with the economic accounts and how dynamic behaviors of  agents have been estimated. It will show how the model is able to reproduce past time series, and how it forecast future dynamics of the Vietnamese economy. Finally it will present the results in an interactive way for the incorporation of sectoral and regional impact and adaptation assessments.  </p>		
 		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-		
-
-	
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
@@ -334,12 +325,7 @@ modules:
 		<p class="longtext">From the empirical diversity of situations and practices we will built an inductive typology of responses and adaptations. We will then identify the main factors that influence the type of response and analyze the importance of perceptions, social networks and institutional aspects within all that factors. </p>
 		<p class="longtext">In addition to this conjunctural perspective (by given climatic events), we will broaden the focus to take into account the structural transformations of socio-ecosystems and the way populations apprehend them. The objective of this two-level approach (short term/long term) is to place specific events and response within a long period of time in order to determine, in fine, to what extent local adaptation strategies are completely new, updates of past experiences, or a hybrid between the two. </p>
 		<p class="longtext">Concerning the study of climate change adaptation policies and environmental governance, the approach is based on a policy analysis and monitoring. It articulates different scales: the discourse at the national level, the way in which this translates into regional actions and relations with donors at this level, and finally the localized effects (neighborhood scale) of these actions.  To do this, we propose to monitor adaptation projects financed by international donors (including the AFD) in order to report on the types of narratives mobilized, the trade-offs made and the tensions that may emerge in the process of elaborating public action.</p>
-
 		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-
-	
 		<h3>Papers</h3>
 		<i>coming soon</i>
 	</div>
