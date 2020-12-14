@@ -227,11 +227,6 @@ modules:
 			
 		<p class="longtext">Each one of the economic criteria selected as relevant for the study of the impacts of climate change in Vietnam can be evaluated in this way as long as the relevant data are available. A first step will be to take stock of the existing studies on the climate impacts on economic sectors in Vietnam through specific meta-analysis. The scientific standards of existing studies (spatial and social representation of the population surveyed, length of the time series, etc.) will be assessed in order to select some of the best research to include as inputs of the project. We then plan an extensive use of Vietnam Household Living Standard Survey and the Vietnam Access to Resources Household Survey, Enterprise Surveys, Agricultural Censuses, … with the adjunction of sector specific databases coming from public Vietnamese institutions to better illustrate adaptation strategies. In special cases, we also intend to use night-time lights as a proxy for GDP impacts of extreme events as well as the informal sector. Econometric methods will vary depending on the sector studied. But they all amount to build probability distributions of the specific impact, conditioned to the values of the climate variables. They can then be used to project spatial-detailed probabilistic scenarios of climate impacts given by the CLIMATO package, so that these empirical studies already give a thorough sectoral assessment of future climate impacts and adaptation strategies. These simulations will also serve as exogenous inputs to the macroeconomic model built in WP5. </p>
 		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-		
-
-	
 		<h3>Papers</h3>
 		<h4>Land Use Policy, Adaptation to Climate Change, and Aggregate Productivity in the Mekong Delta</h4>
 		<h5>Author : Kien Le and co-authors</h5>
@@ -257,10 +252,6 @@ modules:
 			
 		<p class="longtext">SOCIO provides comprehensive assessments to the effects of climate change on major social aspects of the Vietnamese society such as inequalities, migration, labor productivity, health, demography, nutrition impacts. These assessments are scientific rigor. SOCIO’s researchers employ cutting edge applied econometrics approach and large sample surveys and administrative data to provide robust and unbiased empirical evidences. Structural approach is used in some papers to better understand not only the effects but also mechanisms. This is important to identify the solutions to tackle the issues. In addition, spatial dynamic models are also used to examine regional divergences. Large sample surveys such as labor force survey, population change survey, Vietnam Household Living Standard Survey, Censuses 1999, 2009 allow us to provide insightful empirical analyses that previous studies were not able to capture. Firm-level administrate data support us analyzing firm-behaviors to adjust labor structure when facing with changes in temperature and precipitations. More importantly, SOCIO not only provides impact evaluation evidences but also provides scenarios-based projections. SOCIO also develops policy recommendation to adapt with climate change.</p>
 		
-		<h3>Related subjects</h3>
-		{% include list-circles.html items=page.modules %} 
-		
-	
 		<h3>Papers</h3>
 		<h4>The labor productivity impacts of climate change: Evidence from Vietnamese firm level data </h4>
 		<h5>Authors: Manh-Hung Nguyen and Toan Nguyen</h5>
