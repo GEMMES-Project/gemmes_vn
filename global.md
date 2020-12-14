@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-subtitle: Discover our project
+subtitle: Discover our research projects
 cover-img: https://gemmes-project.github.io/gemmes_vn/assets/img/global.jpg
 i18n-link: global
 lang: en
