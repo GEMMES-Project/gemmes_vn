@@ -4,10 +4,10 @@
 title: GEMMMES Vietnam
 
 # Short description of your site
-description: bbbbbb
+description: A website for the GEMMES Vietnam project
 
 # Your name to show in the footer
-author: The Gemmes Vietnam Team
+author:
 
 
 url: ""
@@ -125,9 +125,8 @@ title-img: "https://gemmes-project.github.io/gemmes_vn/assets/img/AFD_horiz.png"
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  github: xxxx
+  github: https://github.com/gemmes-project
   twitter: xxxx
-  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
